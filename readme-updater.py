@@ -4,9 +4,9 @@ import os
 src_dir = "leetcode"
 
 # Initialize the README content
-readme_content = """# Data Structure and Algorithm practice problems in Python
+readme_content = """# Data Structure & Algorithm Practice
 
-This repository contains my solutions to LeetCode problems. I will be solving at least one problem every day.
+This repository contains my solutions to LeetCode problems using Python to solve. I will be solving at least one problem every day.
 
 ## Solved Problems (Total: {total_solved})
 | # | Problem | Solution |
