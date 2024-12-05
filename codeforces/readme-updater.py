@@ -1,12 +1,12 @@
 import os
 
 # Directory containing the source files
-src_dir = "leetcode"
+src_dir = "problems"
 
 # Initialize the README content
-readme_content = """# Data Structure & Algorithm Practice
+readme_content = """# Code Forces Practice
 
-This repository contains my solutions to LeetCode problems using Python to solve. I will be solving at least one problem every day.
+This folder contains my solutions to CodeForces problems using Python to solve. Targeting to solve problems for Div 2 and Div 3.
 
 ## Solved Problems (Total: {total_solved})
 | # | Problem | Solution |
@@ -19,14 +19,14 @@ table_rows = []
 for filename in sorted(os.listdir(src_dir)):
     if filename.endswith(".py"):
         # Extract number and problem name
-        number, problem_name = filename.split("_", 1)
-        problem_name = problem_name.replace(".py", "")
-        title_name = problem_name.replace("-", " ").title()
+        contest, problem = filename.split("_", 1)
+        problem = problem.replace(".py", "")
+        title_name = contest + problem
 
         # Format the table row
-        row = f"| {number} | [{title_name}](https://leetcode.com/problems/{problem_name}) | [{src_dir}/{filename}]({src_dir}/{filename}) |\n"
+        row = f"| {title_name} | [Description](https://codeforces.com/contest/{contest}/problem/{problem}) | [Solution]({src_dir}/{filename}) |\n"
 
-        table_rows.append((int(number), row))
+        table_rows.append(((int(contest), problem), row))
 
 # Sort the table rows by problem number and add them to the README content
 table_rows.sort(key=lambda x: x[0])
