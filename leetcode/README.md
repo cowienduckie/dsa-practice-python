@@ -2,7 +2,7 @@
 
 This repository contains my solutions to LeetCode problems using Python to solve. I will be solving at least one problem every day.
 
-## Solved Problems (Total: 199)
+## Solved Problems (Total: 201)
 | # | Problem | Solution |
 |---|---------|----------|
 | 0001 | [Two Sum](https://leetcode.com/problems/two-sum) | [Solution](problems/0001_two-sum.py) |
@@ -161,6 +161,7 @@ This repository contains my solutions to LeetCode problems using Python to solve
 | 1593 | [Split A String Into The Max Number Of Unique Substrings](https://leetcode.com/problems/split-a-string-into-the-max-number-of-unique-substrings) | [Solution](problems/1593_split-a-string-into-the-max-number-of-unique-substrings.py) |
 | 1652 | [Defuse The Bomb](https://leetcode.com/problems/defuse-the-bomb) | [Solution](problems/1652_defuse-the-bomb.py) |
 | 1684 | [Count The Number Of Consistent Strings](https://leetcode.com/problems/count-the-number-of-consistent-strings) | [Solution](problems/1684_count-the-number-of-consistent-strings.py) |
+| 1760 | [Minimum Limit Of Balls In A Bag](https://leetcode.com/problems/minimum-limit-of-balls-in-a-bag) | [Solution](problems/1760_minimum-limit-of-balls-in-a-bag.py) |
 | 1829 | [Maximum Xor For Each Query](https://leetcode.com/problems/maximum-xor-for-each-query) | [Solution](problems/1829_maximum-xor-for-each-query.py) |
 | 1861 | [Rotating The Box](https://leetcode.com/problems/rotating-the-box) | [Solution](problems/1861_rotating-the-box.py) |
 | 1894 | [Find The Student That Will Replace The Chalk](https://leetcode.com/problems/find-the-student-that-will-replace-the-chalk) | [Solution](problems/1894_find-the-student-that-will-replace-the-chalk.py) |
@@ -187,6 +188,7 @@ This repository contains my solutions to LeetCode problems using Python to solve
 | 2490 | [Circular Sentence](https://leetcode.com/problems/circular-sentence) | [Solution](problems/2490_circular-sentence.py) |
 | 2501 | [Longest Square Streak In An Array](https://leetcode.com/problems/longest-square-streak-in-an-array) | [Solution](problems/2501_longest-square-streak-in-an-array.py) |
 | 2530 | [Maximal Score After Applying K Operations](https://leetcode.com/problems/maximal-score-after-applying-k-operations) | [Solution](problems/2530_maximal-score-after-applying-k-operations.py) |
+| 2554 | [Maximum Number Of Integers To Choose From A Range I](https://leetcode.com/problems/maximum-number-of-integers-to-choose-from-a-range-i) | [Solution](problems/2554_maximum-number-of-integers-to-choose-from-a-range-i.py) |
 | 2561 | [Take K Of Each Character From Left And Right](https://leetcode.com/problems/take-k-of-each-character-from-left-and-right) | [Solution](problems/2561_take-k-of-each-character-from-left-and-right.py) |
 | 2563 | [Count The Number Of Fair Pairs](https://leetcode.com/problems/count-the-number-of-fair-pairs) | [Solution](problems/2563_count-the-number-of-fair-pairs.py) |
 | 2583 | [Kth Largest Sum In A Binary Tree](https://leetcode.com/problems/kth-largest-sum-in-a-binary-tree) | [Solution](problems/2583_kth-largest-sum-in-a-binary-tree.py) |
