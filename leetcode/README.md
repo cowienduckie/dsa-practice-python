@@ -2,7 +2,7 @@
 
 This repository contains my solutions to LeetCode problems using Python to solve. I will be solving at least one problem every day.
 
-## Solved Problems (Total: 201)
+## Solved Problems (Total: 202)
 | # | Problem | Solution |
 |---|---------|----------|
 | 0001 | [Two Sum](https://leetcode.com/problems/two-sum) | [Solution](problems/0001_two-sum.py) |
@@ -174,6 +174,7 @@ This repository contains my solutions to LeetCode problems using Python to solve
 | 2022 | [Convert 1D Array Into 2D Array](https://leetcode.com/problems/convert-1d-array-into-2d-array) | [Solution](problems/2022_convert-1d-array-into-2d-array.py) |
 | 2028 | [Find Missing Observations](https://leetcode.com/problems/find-missing-observations) | [Solution](problems/2028_find-missing-observations.py) |
 | 2044 | [Count Number Of Maximum Bitwise Or Subsets](https://leetcode.com/problems/count-number-of-maximum-bitwise-or-subsets) | [Solution](problems/2044_count-number-of-maximum-bitwise-or-subsets.py) |
+| 2054 | [Two Best Non Overlapping Events](https://leetcode.com/problems/two-best-non-overlapping-events) | [Solution](problems/2054_two-best-non-overlapping-events.py) |
 | 2064 | [Minimized Maximum Of Products Distributed To Any Store](https://leetcode.com/problems/minimized-maximum-of-products-distributed-to-any-store) | [Solution](problems/2064_minimized-maximum-of-products-distributed-to-any-store.py) |
 | 2070 | [Most Beautiful Item For Each Query](https://leetcode.com/problems/most-beautiful-item-for-each-query) | [Solution](problems/2070_most-beautiful-item-for-each-query.py) |
 | 2097 | [Valid Arrangement Of Pairs](https://leetcode.com/problems/valid-arrangement-of-pairs) | [Solution](problems/2097_valid-arrangement-of-pairs.py) |
