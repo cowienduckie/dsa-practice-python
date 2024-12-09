@@ -1,8 +1,8 @@
-# Data Structure & Algorithm Practice
+# Leet Code Practice
 
 This repository contains my solutions to LeetCode problems using Python to solve. I will be solving at least one problem every day.
 
-## Solved Problems (Total: 202)
+## Solved Problems (Total: 203)
 | # | Problem | Solution |
 |---|---------|----------|
 | 0001 | [Two Sum](https://leetcode.com/problems/two-sum) | [Solution](problems/0001_two-sum.py) |
@@ -204,6 +204,7 @@ This repository contains my solutions to LeetCode problems using Python to solve
 | 3011 | [Find If Array Can Be Sorted](https://leetcode.com/problems/find-if-array-can-be-sorted) | [Solution](problems/3011_find-if-array-can-be-sorted.py) |
 | 3097 | [Shortest Subarray With Or At Least K Ii](https://leetcode.com/problems/shortest-subarray-with-or-at-least-k-ii) | [Solution](problems/3097_shortest-subarray-with-or-at-least-k-ii.py) |
 | 3133 | [Minimum Array End](https://leetcode.com/problems/minimum-array-end) | [Solution](problems/3133_minimum-array-end.py) |
+| 3152 | [Special Array Ii](https://leetcode.com/problems/special-array-ii) | [Solution](problems/3152_special-array-ii.py) |
 | 3163 | [String Compression Iii](https://leetcode.com/problems/string-compression-iii) | [Solution](problems/3163_string-compression-iii.py) |
 | 3243 | [Shortest Distance After Road Addition Queries I](https://leetcode.com/problems/shortest-distance-after-road-addition-queries-i) | [Solution](problems/3243_shortest-distance-after-road-addition-queries-i.py) |
 | 3254 | [Find The Power Of K Size Subarrays I](https://leetcode.com/problems/find-the-power-of-k-size-subarrays-i) | [Solution](problems/3254_find-the-power-of-k-size-subarrays-i.py) |
