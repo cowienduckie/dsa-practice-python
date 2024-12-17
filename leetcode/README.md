@@ -2,7 +2,7 @@
 
 This repository contains my solutions to LeetCode problems using Python to solve. I will be solving at least one problem every day.
 
-## Solved Problems (Total: 206)
+## Solved Problems (Total: 208)
 | # | Problem | Solution |
 |---|---------|----------|
 | 0001 | [Two Sum](https://leetcode.com/problems/two-sum) | [Solution](problems/0001_two-sum.py) |
@@ -194,6 +194,7 @@ This repository contains my solutions to LeetCode problems using Python to solve
 | 2561 | [Take K Of Each Character From Left And Right](https://leetcode.com/problems/take-k-of-each-character-from-left-and-right) | [Solution](problems/2561_take-k-of-each-character-from-left-and-right.py) |
 | 2563 | [Count The Number Of Fair Pairs](https://leetcode.com/problems/count-the-number-of-fair-pairs) | [Solution](problems/2563_count-the-number-of-fair-pairs.py) |
 | 2583 | [Kth Largest Sum In A Binary Tree](https://leetcode.com/problems/kth-largest-sum-in-a-binary-tree) | [Solution](problems/2583_kth-largest-sum-in-a-binary-tree.py) |
+| 2593 | [Find Score Of An Array After Marking All Elements](https://leetcode.com/problems/find-score-of-an-array-after-marking-all-elements) | [Solution](problems/2593_find-score-of-an-array-after-marking-all-elements.py) |
 | 2601 | [Prime Subtraction Operation](https://leetcode.com/problems/prime-subtraction-operation) | [Solution](problems/2601_prime-subtraction-operation.py) |
 | 2641 | [Cousins In Binary Tree Ii](https://leetcode.com/problems/cousins-in-binary-tree-ii) | [Solution](problems/2641_cousins-in-binary-tree-ii.py) |
 | 2684 | [Maximum Number Of Moves In A Grid](https://leetcode.com/problems/maximum-number-of-moves-in-a-grid) | [Solution](problems/2684_maximum-number-of-moves-in-a-grid.py) |
@@ -211,3 +212,4 @@ This repository contains my solutions to LeetCode problems using Python to solve
 | 3163 | [String Compression Iii](https://leetcode.com/problems/string-compression-iii) | [Solution](problems/3163_string-compression-iii.py) |
 | 3243 | [Shortest Distance After Road Addition Queries I](https://leetcode.com/problems/shortest-distance-after-road-addition-queries-i) | [Solution](problems/3243_shortest-distance-after-road-addition-queries-i.py) |
 | 3254 | [Find The Power Of K Size Subarrays I](https://leetcode.com/problems/find-the-power-of-k-size-subarrays-i) | [Solution](problems/3254_find-the-power-of-k-size-subarrays-i.py) |
+| 3264 | [Final Array State After K Multiplication Operations I](https://leetcode.com/problems/final-array-state-after-k-multiplication-operations-i) | [Solution](problems/3264_final-array-state-after-k-multiplication-operations-i.py) |
