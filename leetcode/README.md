@@ -2,7 +2,7 @@
 
 This repository contains my solutions to LeetCode problems using Python to solve. I will be solving at least one problem every day.
 
-## Solved Problems (Total: 210)
+## Solved Problems (Total: 213)
 | # | Problem | Solution |
 |---|---------|----------|
 | 0001 | [Two Sum](https://leetcode.com/problems/two-sum) | [Solution](problems/0001_two-sum.py) |
@@ -130,6 +130,7 @@ This repository contains my solutions to LeetCode problems using Python to solve
 | 0733 | [Flood Fill](https://leetcode.com/problems/flood-fill) | [Solution](problems/0733_flood-fill.py) |
 | 0735 | [Asteroid Collision](https://leetcode.com/problems/asteroid-collision) | [Solution](problems/0735_asteroid-collision.py) |
 | 0739 | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures) | [Solution](problems/0739_daily-temperatures.py) |
+| 0769 | [Max Chunks To Make Sorted](https://leetcode.com/problems/max-chunks-to-make-sorted) | [Solution](problems/0769_max-chunks-to-make-sorted.py) |
 | 0773 | [Sliding Puzzle](https://leetcode.com/problems/sliding-puzzle) | [Solution](problems/0773_sliding-puzzle.py) |
 | 0796 | [Rotate String](https://leetcode.com/problems/rotate-string) | [Solution](problems/0796_rotate-string.py) |
 | 0836 | [Rectangle Overlap](https://leetcode.com/problems/rectangle-overlap) | [Solution](problems/0836_rectangle-overlap.py) |
@@ -185,9 +186,11 @@ This repository contains my solutions to LeetCode problems using Python to solve
 | 2275 | [Largest Combination With Bitwise And Greater Than Zero](https://leetcode.com/problems/largest-combination-with-bitwise-and-greater-than-zero) | [Solution](problems/2275_largest-combination-with-bitwise-and-greater-than-zero.py) |
 | 2290 | [Minimum Obstacle Removal To Reach Corner](https://leetcode.com/problems/minimum-obstacle-removal-to-reach-corner) | [Solution](problems/2290_minimum-obstacle-removal-to-reach-corner.py) |
 | 2337 | [Move Pieces To Obtain A String](https://leetcode.com/problems/move-pieces-to-obtain-a-string) | [Solution](problems/2337_move-pieces-to-obtain-a-string.py) |
+| 2415 | [Reverse Odd Levels Of Binary Tree](https://leetcode.com/problems/reverse-odd-levels-of-binary-tree) | [Solution](problems/2415_reverse-odd-levels-of-binary-tree.py) |
 | 2419 | [Longest Subarray With Maximum Bitwise And](https://leetcode.com/problems/longest-subarray-with-maximum-bitwise-and) | [Solution](problems/2419_longest-subarray-with-maximum-bitwise-and.py) |
 | 2458 | [Height Of Binary Tree After Subtree Removal Queries](https://leetcode.com/problems/height-of-binary-tree-after-subtree-removal-queries) | [Solution](problems/2458_height-of-binary-tree-after-subtree-removal-queries.py) |
 | 2461 | [Maximum Sum Of Distinct Subarrays With Length K](https://leetcode.com/problems/maximum-sum-of-distinct-subarrays-with-length-k) | [Solution](problems/2461_maximum-sum-of-distinct-subarrays-with-length-k.py) |
+| 2471 | [Minimum Number Of Operations To Sort A Binary Tree By Level](https://leetcode.com/problems/minimum-number-of-operations-to-sort-a-binary-tree-by-level) | [Solution](problems/2471_minimum-number-of-operations-to-sort-a-binary-tree-by-level.py) |
 | 2490 | [Circular Sentence](https://leetcode.com/problems/circular-sentence) | [Solution](problems/2490_circular-sentence.py) |
 | 2501 | [Longest Square Streak In An Array](https://leetcode.com/problems/longest-square-streak-in-an-array) | [Solution](problems/2501_longest-square-streak-in-an-array.py) |
 | 2530 | [Maximal Score After Applying K Operations](https://leetcode.com/problems/maximal-score-after-applying-k-operations) | [Solution](problems/2530_maximal-score-after-applying-k-operations.py) |
