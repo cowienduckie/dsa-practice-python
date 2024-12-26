@@ -2,7 +2,7 @@
 
 This repository contains my solutions to LeetCode problems using Python to solve. I will be solving at least one problem every day.
 
-## Solved Problems (Total: 214)
+## Solved Problems (Total: 215)
 | # | Problem | Solution |
 |---|---------|----------|
 | 0001 | [Two Sum](https://leetcode.com/problems/two-sum) | [Solution](problems/0001_two-sum.py) |
@@ -113,6 +113,7 @@ This repository contains my solutions to LeetCode problems using Python to solve
 | 0435 | [Non Overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals) | [Solution](problems/0435_non-overlapping-intervals.py) |
 | 0438 | [Find All Anagrams In A String](https://leetcode.com/problems/find-all-anagrams-in-a-string) | [Solution](problems/0438_find-all-anagrams-in-a-string.py) |
 | 0476 | [Number Complement](https://leetcode.com/problems/number-complement) | [Solution](problems/0476_number-complement.py) |
+| 0494 | [Target Sum](https://leetcode.com/problems/target-sum) | [Solution](problems/0494_target-sum.py) |
 | 0515 | [Find Largest Value In Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row) | [Solution](problems/0515_find-largest-value-in-each-tree-row.py) |
 | 0516 | [Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence) | [Solution](problems/0516_longest-palindromic-subsequence.py) |
 | 0539 | [Minimum Time Difference](https://leetcode.com/problems/minimum-time-difference) | [Solution](problems/0539_minimum-time-difference.py) |
