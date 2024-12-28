@@ -2,7 +2,7 @@
 
 This repository contains my solutions to LeetCode problems using Python to solve. I will be solving at least one problem every day.
 
-## Solved Problems (Total: 217)
+## Solved Problems (Total: 219)
 | # | Problem | Solution |
 |---|---------|----------|
 | 0001 | [Two Sum](https://leetcode.com/problems/two-sum) | [Solution](problems/0001_two-sum.py) |
@@ -24,6 +24,7 @@ This repository contains my solutions to LeetCode problems using Python to solve
 | 0039 | [Combination Sum](https://leetcode.com/problems/combination-sum) | [Solution](problems/0039_combination-sum.py) |
 | 0040 | [Combination Sum Ii](https://leetcode.com/problems/combination-sum-ii) | [Solution](problems/0040_combination-sum-ii.py) |
 | 0041 | [First Missing Positive](https://leetcode.com/problems/first-missing-positive) | [Solution](problems/0041_first-missing-positive.py) |
+| 0042 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water) | [Solution](problems/0042_trapping-rain-water.py) |
 | 0046 | [Permutations](https://leetcode.com/problems/permutations) | [Solution](problems/0046_permutations.py) |
 | 0048 | [Rotate Image](https://leetcode.com/problems/rotate-image) | [Solution](problems/0048_rotate-image.py) |
 | 0049 | [Group Anagrams](https://leetcode.com/problems/group-anagrams) | [Solution](problems/0049_group-anagrams.py) |
@@ -56,6 +57,7 @@ This repository contains my solutions to LeetCode problems using Python to solve
 | 0110 | [Balanced_Binary_Tree](https://leetcode.com/problems/balanced_binary_tree) | [Solution](problems/0110_balanced_binary_tree.py) |
 | 0121 | [Best Time To Buy And Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock) | [Solution](problems/0121_best-time-to-buy-and-sell-stock.py) |
 | 0125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome) | [Solution](problems/0125_valid-palindrome.py) |
+| 0127 | [Word Ladder](https://leetcode.com/problems/word-ladder) | [Solution](problems/0127_word-ladder.py) |
 | 0133 | [Clone Graph](https://leetcode.com/problems/clone-graph) | [Solution](problems/0133_clone-graph.py) |
 | 0134 | [Reorder Linked List](https://leetcode.com/problems/reorder-linked-list) | [Solution](problems/0134_reorder-linked-list.py) |
 | 0136 | [Single Number](https://leetcode.com/problems/single-number) | [Solution](problems/0136_single-number.py) |

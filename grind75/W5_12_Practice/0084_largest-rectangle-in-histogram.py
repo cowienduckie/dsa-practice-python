@@ -3,26 +3,20 @@ from typing import List
 
 class Solution:
     def largestRectangleArea(self, heights: List[int]) -> int:
-        n, ans = len(heights) + 1, 0
-        minimum = [heights[0]] * n
+        # Add a block with negative height to clean up the stack
+        heights.append(-1)
 
-        heights.append(float("-inf"))
-        ans = float("-inf")
-
-        l = 0
-        for r in range(1, n):
-            # Update the minimum height of the rectangle at the right end
-            minimum[r] = min(minimum[r - 1], heights[r])
-
-            # If the height is decreasing, calculate the area of the rectangles
-            if heights[r] < heights[r - 1]:
-                while l < r:
-                    area = (
-                        heights[l] * (r - l)
-                        if minimum[l] != heights[l]
-                        else minimum[l] * r
-                    )
-                    ans = max(ans, area)
-                    l = l + 1
+        # Use increasing mono stack to maintain the right-most indices of blocks
+        ans = 0
+        stack = []
+        for i in range(len(heights)):
+            # Update the mono stack and compute the maximum area using each block as center
+            while stack and heights[stack[-1]] >= heights[i]:
+                # Take height and width of the area
+                h = heights[stack.pop()]
+                w = (i - stack[-1] - 1) if stack else i
+                # Update final answer
+                ans = max(ans, h * w)
+            stack.append(i)
 
         return ans
