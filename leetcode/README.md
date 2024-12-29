@@ -2,7 +2,7 @@
 
 This repository contains my solutions to LeetCode problems using Python to solve. I will be solving at least one problem every day.
 
-## Solved Problems (Total: 219)
+## Solved Problems (Total: 220)
 | # | Problem | Solution |
 |---|---------|----------|
 | 0001 | [Two Sum](https://leetcode.com/problems/two-sum) | [Solution](problems/0001_two-sum.py) |
@@ -167,6 +167,7 @@ This repository contains my solutions to LeetCode problems using Python to solve
 | 1545 | [Find Kth Bit In Nth Binary String](https://leetcode.com/problems/find-kth-bit-in-nth-binary-string) | [Solution](problems/1545_find-kth-bit-in-nth-binary-string.py) |
 | 1574 | [Shortest Subarray To Be Removed To Make Array Sorted](https://leetcode.com/problems/shortest-subarray-to-be-removed-to-make-array-sorted) | [Solution](problems/1574_shortest-subarray-to-be-removed-to-make-array-sorted.py) |
 | 1593 | [Split A String Into The Max Number Of Unique Substrings](https://leetcode.com/problems/split-a-string-into-the-max-number-of-unique-substrings) | [Solution](problems/1593_split-a-string-into-the-max-number-of-unique-substrings.py) |
+| 1639 | [Number Of Ways To Form A Target String Given A Dictionary](https://leetcode.com/problems/number-of-ways-to-form-a-target-string-given-a-dictionary) | [Solution](problems/1639_number-of-ways-to-form-a-target-string-given-a-dictionary.py) |
 | 1652 | [Defuse The Bomb](https://leetcode.com/problems/defuse-the-bomb) | [Solution](problems/1652_defuse-the-bomb.py) |
 | 1684 | [Count The Number Of Consistent Strings](https://leetcode.com/problems/count-the-number-of-consistent-strings) | [Solution](problems/1684_count-the-number-of-consistent-strings.py) |
 | 1760 | [Minimum Limit Of Balls In A Bag](https://leetcode.com/problems/minimum-limit-of-balls-in-a-bag) | [Solution](problems/1760_minimum-limit-of-balls-in-a-bag.py) |
