@@ -2,7 +2,7 @@
 
 This repository contains my solutions to LeetCode problems using Python to solve. I will be solving at least one problem every day.
 
-## Solved Problems (Total: 220)
+## Solved Problems (Total: 222)
 | # | Problem | Solution |
 |---|---------|----------|
 | 0001 | [Two Sum](https://leetcode.com/problems/two-sum) | [Solution](problems/0001_two-sum.py) |
@@ -83,6 +83,7 @@ This repository contains my solutions to LeetCode problems using Python to solve
 | 0215 | [Kth Largest Element In An Array](https://leetcode.com/problems/kth-largest-element-in-an-array) | [Solution](problems/0215_kth-largest-element-in-an-array.py) |
 | 0217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate) | [Solution](problems/0217_contains-duplicate.py) |
 | 0223 | [Rectangle Area](https://leetcode.com/problems/rectangle-area) | [Solution](problems/0223_rectangle-area.py) |
+| 0224 | [Basic Calculator](https://leetcode.com/problems/basic-calculator) | [Solution](problems/0224_basic-calculator.py) |
 | 0225 | [Implement Stack Using Queues](https://leetcode.com/problems/implement-stack-using-queues) | [Solution](problems/0225_implement-stack-using-queues.py) |
 | 0226 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree) | [Solution](problems/0226_invert-binary-tree.py) |
 | 0227 | [Basic Calculator Ii](https://leetcode.com/problems/basic-calculator-ii) | [Solution](problems/0227_basic-calculator-ii.py) |
@@ -195,6 +196,7 @@ This repository contains my solutions to LeetCode problems using Python to solve
 | 2337 | [Move Pieces To Obtain A String](https://leetcode.com/problems/move-pieces-to-obtain-a-string) | [Solution](problems/2337_move-pieces-to-obtain-a-string.py) |
 | 2415 | [Reverse Odd Levels Of Binary Tree](https://leetcode.com/problems/reverse-odd-levels-of-binary-tree) | [Solution](problems/2415_reverse-odd-levels-of-binary-tree.py) |
 | 2419 | [Longest Subarray With Maximum Bitwise And](https://leetcode.com/problems/longest-subarray-with-maximum-bitwise-and) | [Solution](problems/2419_longest-subarray-with-maximum-bitwise-and.py) |
+| 2455 | [Count Ways To Build Good Strings](https://leetcode.com/problems/count-ways-to-build-good-strings) | [Solution](problems/2455_count-ways-to-build-good-strings.py) |
 | 2458 | [Height Of Binary Tree After Subtree Removal Queries](https://leetcode.com/problems/height-of-binary-tree-after-subtree-removal-queries) | [Solution](problems/2458_height-of-binary-tree-after-subtree-removal-queries.py) |
 | 2461 | [Maximum Sum Of Distinct Subarrays With Length K](https://leetcode.com/problems/maximum-sum-of-distinct-subarrays-with-length-k) | [Solution](problems/2461_maximum-sum-of-distinct-subarrays-with-length-k.py) |
 | 2471 | [Minimum Number Of Operations To Sort A Binary Tree By Level](https://leetcode.com/problems/minimum-number-of-operations-to-sort-a-binary-tree-by-level) | [Solution](problems/2471_minimum-number-of-operations-to-sort-a-binary-tree-by-level.py) |
