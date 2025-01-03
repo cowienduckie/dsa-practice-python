@@ -2,7 +2,7 @@
 
 This repository contains my solutions to LeetCode problems using Python to solve. I will be solving at least one problem every day.
 
-## Solved Problems (Total: 225)
+## Solved Problems (Total: 226)
 | # | Problem | Solution |
 |---|---------|----------|
 | 0001 | [Two Sum](https://leetcode.com/problems/two-sum) | [Solution](problems/0001_two-sum.py) |
@@ -193,6 +193,7 @@ This repository contains my solutions to LeetCode problems using Python to solve
 | 2109 | [Adding Spaces To A String](https://leetcode.com/problems/adding-spaces-to-a-string) | [Solution](problems/2109_adding-spaces-to-a-string.py) |
 | 2182 | [Construct String With Repeat Limit](https://leetcode.com/problems/construct-string-with-repeat-limit) | [Solution](problems/2182_construct-string-with-repeat-limit.py) |
 | 2257 | [Count Unguarded Cells In The Grid](https://leetcode.com/problems/count-unguarded-cells-in-the-grid) | [Solution](problems/2257_count-unguarded-cells-in-the-grid.py) |
+| 2260 | [Number Of Ways To Split Array](https://leetcode.com/problems/number-of-ways-to-split-array) | [Solution](problems/2260_number-of-ways-to-split-array.py) |
 | 2275 | [Largest Combination With Bitwise And Greater Than Zero](https://leetcode.com/problems/largest-combination-with-bitwise-and-greater-than-zero) | [Solution](problems/2275_largest-combination-with-bitwise-and-greater-than-zero.py) |
 | 2290 | [Minimum Obstacle Removal To Reach Corner](https://leetcode.com/problems/minimum-obstacle-removal-to-reach-corner) | [Solution](problems/2290_minimum-obstacle-removal-to-reach-corner.py) |
 | 2337 | [Move Pieces To Obtain A String](https://leetcode.com/problems/move-pieces-to-obtain-a-string) | [Solution](problems/2337_move-pieces-to-obtain-a-string.py) |
