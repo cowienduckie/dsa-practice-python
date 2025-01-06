@@ -2,7 +2,7 @@
 
 This repository contains my solutions to LeetCode problems using Python to solve. I will be solving at least one problem every day.
 
-## Solved Problems (Total: 227)
+## Solved Problems (Total: 228)
 | # | Problem | Solution |
 |---|---------|----------|
 | 0001 | [Two Sum](https://leetcode.com/problems/two-sum) | [Solution](problems/0001_two-sum.py) |
@@ -174,6 +174,7 @@ This repository contains my solutions to LeetCode problems using Python to solve
 | 1652 | [Defuse The Bomb](https://leetcode.com/problems/defuse-the-bomb) | [Solution](problems/1652_defuse-the-bomb.py) |
 | 1684 | [Count The Number Of Consistent Strings](https://leetcode.com/problems/count-the-number-of-consistent-strings) | [Solution](problems/1684_count-the-number-of-consistent-strings.py) |
 | 1760 | [Minimum Limit Of Balls In A Bag](https://leetcode.com/problems/minimum-limit-of-balls-in-a-bag) | [Solution](problems/1760_minimum-limit-of-balls-in-a-bag.py) |
+| 1769 | [Minimum Number Of Operations To Move All Balls To Each Box](https://leetcode.com/problems/minimum-number-of-operations-to-move-all-balls-to-each-box) | [Solution](problems/1769_minimum-number-of-operations-to-move-all-balls-to-each-box.py) |
 | 1829 | [Maximum Xor For Each Query](https://leetcode.com/problems/maximum-xor-for-each-query) | [Solution](problems/1829_maximum-xor-for-each-query.py) |
 | 1861 | [Rotating The Box](https://leetcode.com/problems/rotating-the-box) | [Solution](problems/1861_rotating-the-box.py) |
 | 1894 | [Find The Student That Will Replace The Chalk](https://leetcode.com/problems/find-the-student-that-will-replace-the-chalk) | [Solution](problems/1894_find-the-student-that-will-replace-the-chalk.py) |
