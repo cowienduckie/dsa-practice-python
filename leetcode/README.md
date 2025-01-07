@@ -2,7 +2,7 @@
 
 This repository contains my solutions to LeetCode problems using Python to solve. I will be solving at least one problem every day.
 
-## Solved Problems (Total: 229)
+## Solved Problems (Total: 230)
 | # | Problem | Solution |
 |---|---------|----------|
 | 0001 | [Two Sum](https://leetcode.com/problems/two-sum) | [Solution](problems/0001_two-sum.py) |
@@ -200,6 +200,7 @@ This repository contains my solutions to LeetCode problems using Python to solve
 | 2275 | [Largest Combination With Bitwise And Greater Than Zero](https://leetcode.com/problems/largest-combination-with-bitwise-and-greater-than-zero) | [Solution](problems/2275_largest-combination-with-bitwise-and-greater-than-zero.py) |
 | 2290 | [Minimum Obstacle Removal To Reach Corner](https://leetcode.com/problems/minimum-obstacle-removal-to-reach-corner) | [Solution](problems/2290_minimum-obstacle-removal-to-reach-corner.py) |
 | 2337 | [Move Pieces To Obtain A String](https://leetcode.com/problems/move-pieces-to-obtain-a-string) | [Solution](problems/2337_move-pieces-to-obtain-a-string.py) |
+| 2381 | [Shifting Letters Ii](https://leetcode.com/problems/shifting-letters-ii) | [Solution](problems/2381_shifting-letters-ii.py) |
 | 2415 | [Reverse Odd Levels Of Binary Tree](https://leetcode.com/problems/reverse-odd-levels-of-binary-tree) | [Solution](problems/2415_reverse-odd-levels-of-binary-tree.py) |
 | 2419 | [Longest Subarray With Maximum Bitwise And](https://leetcode.com/problems/longest-subarray-with-maximum-bitwise-and) | [Solution](problems/2419_longest-subarray-with-maximum-bitwise-and.py) |
 | 2455 | [Count Ways To Build Good Strings](https://leetcode.com/problems/count-ways-to-build-good-strings) | [Solution](problems/2455_count-ways-to-build-good-strings.py) |
