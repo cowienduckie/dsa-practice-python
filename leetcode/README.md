@@ -2,7 +2,7 @@
 
 This repository contains my solutions to LeetCode problems using Python to solve. I will be solving at least one problem every day.
 
-## Solved Problems (Total: 230)
+## Solved Problems (Total: 232)
 | # | Problem | Solution |
 |---|---------|----------|
 | 0001 | [Two Sum](https://leetcode.com/problems/two-sum) | [Solution](problems/0001_two-sum.py) |
@@ -195,6 +195,7 @@ This repository contains my solutions to LeetCode problems using Python to solve
 | 2097 | [Valid Arrangement Of Pairs](https://leetcode.com/problems/valid-arrangement-of-pairs) | [Solution](problems/2097_valid-arrangement-of-pairs.py) |
 | 2109 | [Adding Spaces To A String](https://leetcode.com/problems/adding-spaces-to-a-string) | [Solution](problems/2109_adding-spaces-to-a-string.py) |
 | 2182 | [Construct String With Repeat Limit](https://leetcode.com/problems/construct-string-with-repeat-limit) | [Solution](problems/2182_construct-string-with-repeat-limit.py) |
+| 2185 | [Counting Words With A Given Prefix](https://leetcode.com/problems/counting-words-with-a-given-prefix) | [Solution](problems/2185_counting-words-with-a-given-prefix.py) |
 | 2257 | [Count Unguarded Cells In The Grid](https://leetcode.com/problems/count-unguarded-cells-in-the-grid) | [Solution](problems/2257_count-unguarded-cells-in-the-grid.py) |
 | 2260 | [Number Of Ways To Split Array](https://leetcode.com/problems/number-of-ways-to-split-array) | [Solution](problems/2260_number-of-ways-to-split-array.py) |
 | 2275 | [Largest Combination With Bitwise And Greater Than Zero](https://leetcode.com/problems/largest-combination-with-bitwise-and-greater-than-zero) | [Solution](problems/2275_largest-combination-with-bitwise-and-greater-than-zero.py) |
@@ -228,6 +229,7 @@ This repository contains my solutions to LeetCode problems using Python to solve
 | 2938 | [Separate Black And White Balls](https://leetcode.com/problems/separate-black-and-white-balls) | [Solution](problems/2938_separate-black-and-white-balls.py) |
 | 2981 | [Find Longest Special Substring That Occurs Thrice I](https://leetcode.com/problems/find-longest-special-substring-that-occurs-thrice-i) | [Solution](problems/2981_find-longest-special-substring-that-occurs-thrice-i.py) |
 | 3011 | [Find If Array Can Be Sorted](https://leetcode.com/problems/find-if-array-can-be-sorted) | [Solution](problems/3011_find-if-array-can-be-sorted.py) |
+| 3042 | [Count Prefix And Suffix Pairs I](https://leetcode.com/problems/count-prefix-and-suffix-pairs-i) | [Solution](problems/3042_count-prefix-and-suffix-pairs-i.py) |
 | 3097 | [Shortest Subarray With Or At Least K Ii](https://leetcode.com/problems/shortest-subarray-with-or-at-least-k-ii) | [Solution](problems/3097_shortest-subarray-with-or-at-least-k-ii.py) |
 | 3133 | [Minimum Array End](https://leetcode.com/problems/minimum-array-end) | [Solution](problems/3133_minimum-array-end.py) |
 | 3152 | [Special Array Ii](https://leetcode.com/problems/special-array-ii) | [Solution](problems/3152_special-array-ii.py) |
