@@ -2,7 +2,7 @@
 
 This repository contains my solutions to LeetCode problems using Python to solve. I will be solving at least one problem every day.
 
-## Solved Problems (Total: 233)
+## Solved Problems (Total: 234)
 | # | Problem | Solution |
 |---|---------|----------|
 | 0001 | [Two Sum](https://leetcode.com/problems/two-sum) | [Solution](problems/0001_two-sum.py) |
@@ -163,6 +163,7 @@ This repository contains my solutions to LeetCode problems using Python to solve
 | 1310 | [Xor Queries Of A Subarray](https://leetcode.com/problems/xor-queries-of-a-subarray) | [Solution](problems/1310_xor-queries-of-a-subarray.py) |
 | 1346 | [Check If N And Its Double Exist](https://leetcode.com/problems/check-if-n-and-its-double-exist) | [Solution](problems/1346_check-if-n-and-its-double-exist.py) |
 | 1371 | [Find The Longest Substring Containing Vowels In Even Counts](https://leetcode.com/problems/find-the-longest-substring-containing-vowels-in-even-counts) | [Solution](problems/1371_find-the-longest-substring-containing-vowels-in-even-counts.py) |
+| 1400 | [Construct K Palindrome Strings](https://leetcode.com/problems/construct-k-palindrome-strings) | [Solution](problems/1400_construct-k-palindrome-strings.py) |
 | 1405 | [Longest Happy String](https://leetcode.com/problems/longest-happy-string) | [Solution](problems/1405_longest-happy-string.py) |
 | 1408 | [String Matching In An Array](https://leetcode.com/problems/string-matching-in-an-array) | [Solution](problems/1408_string-matching-in-an-array.py) |
 | 1422 | [Maximum Score After Splitting A String](https://leetcode.com/problems/maximum-score-after-splitting-a-string) | [Solution](problems/1422_maximum-score-after-splitting-a-string.py) |
