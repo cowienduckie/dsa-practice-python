@@ -2,7 +2,7 @@
 
 This repository contains my solutions to LeetCode problems using Python to solve. I will be solving at least one problem every day.
 
-## Solved Problems (Total: 236)
+## Solved Problems (Total: 237)
 | # | Problem | Solution |
 |---|---------|----------|
 | 0001 | [Two Sum](https://leetcode.com/problems/two-sum) | [Solution](problems/0001_two-sum.py) |
@@ -207,6 +207,7 @@ This repository contains my solutions to LeetCode problems using Python to solve
 | 2381 | [Shifting Letters Ii](https://leetcode.com/problems/shifting-letters-ii) | [Solution](problems/2381_shifting-letters-ii.py) |
 | 2415 | [Reverse Odd Levels Of Binary Tree](https://leetcode.com/problems/reverse-odd-levels-of-binary-tree) | [Solution](problems/2415_reverse-odd-levels-of-binary-tree.py) |
 | 2419 | [Longest Subarray With Maximum Bitwise And](https://leetcode.com/problems/longest-subarray-with-maximum-bitwise-and) | [Solution](problems/2419_longest-subarray-with-maximum-bitwise-and.py) |
+| 2429 | [Minimize Xor](https://leetcode.com/problems/minimize-xor) | [Solution](problems/2429_minimize-xor.py) |
 | 2455 | [Count Ways To Build Good Strings](https://leetcode.com/problems/count-ways-to-build-good-strings) | [Solution](problems/2455_count-ways-to-build-good-strings.py) |
 | 2458 | [Height Of Binary Tree After Subtree Removal Queries](https://leetcode.com/problems/height-of-binary-tree-after-subtree-removal-queries) | [Solution](problems/2458_height-of-binary-tree-after-subtree-removal-queries.py) |
 | 2461 | [Maximum Sum Of Distinct Subarrays With Length K](https://leetcode.com/problems/maximum-sum-of-distinct-subarrays-with-length-k) | [Solution](problems/2461_maximum-sum-of-distinct-subarrays-with-length-k.py) |
