@@ -2,7 +2,7 @@
 
 This repository contains my solutions to LeetCode problems using Python to solve. I will be solving at least one problem every day.
 
-## Solved Problems (Total: 240)
+## Solved Problems (Total: 243)
 | # | Problem | Solution |
 |---|---------|----------|
 | 0001 | [Two Sum](https://leetcode.com/problems/two-sum) | [Solution](problems/0001_two-sum.py) |
@@ -177,7 +177,7 @@ This repository contains my solutions to LeetCode problems using Python to solve
 | 1652 | [Defuse The Bomb](https://leetcode.com/problems/defuse-the-bomb) | [Solution](problems/1652_defuse-the-bomb.py) |
 | 1684 | [Count The Number Of Consistent Strings](https://leetcode.com/problems/count-the-number-of-consistent-strings) | [Solution](problems/1684_count-the-number-of-consistent-strings.py) |
 | 1760 | [Minimum Limit Of Balls In A Bag](https://leetcode.com/problems/minimum-limit-of-balls-in-a-bag) | [Solution](problems/1760_minimum-limit-of-balls-in-a-bag.py) |
-| 1765 | [](https://leetcode.com/problems/) | [Solution](problems/1765_.py) |
+| 1765 | [Map Of Highest Peak](https://leetcode.com/problems/map-of-highest-peak) | [Solution](problems/1765_map-of-highest-peak.py) |
 | 1769 | [Minimum Number Of Operations To Move All Balls To Each Box](https://leetcode.com/problems/minimum-number-of-operations-to-move-all-balls-to-each-box) | [Solution](problems/1769_minimum-number-of-operations-to-move-all-balls-to-each-box.py) |
 | 1829 | [Maximum Xor For Each Query](https://leetcode.com/problems/maximum-xor-for-each-query) | [Solution](problems/1829_maximum-xor-for-each-query.py) |
 | 1861 | [Rotating The Box](https://leetcode.com/problems/rotating-the-box) | [Solution](problems/1861_rotating-the-box.py) |
@@ -189,6 +189,7 @@ This repository contains my solutions to LeetCode problems using Python to solve
 | 1957 | [Delete Characters To Make Fancy String](https://leetcode.com/problems/delete-characters-to-make-fancy-string) | [Solution](problems/1957_delete-characters-to-make-fancy-string.py) |
 | 1963 | [Minimum Number Of Swaps To Make The String Balanced](https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-string-balanced) | [Solution](problems/1963_minimum-number-of-swaps-to-make-the-string-balanced.py) |
 | 1975 | [Maximum Matrix Sum](https://leetcode.com/problems/maximum-matrix-sum) | [Solution](problems/1975_maximum-matrix-sum.py) |
+| 2017 | [Grid Game](https://leetcode.com/problems/grid-game) | [Solution](problems/2017_grid-game.py) |
 | 2022 | [Convert 1D Array Into 2D Array](https://leetcode.com/problems/convert-1d-array-into-2d-array) | [Solution](problems/2022_convert-1d-array-into-2d-array.py) |
 | 2028 | [Find Missing Observations](https://leetcode.com/problems/find-missing-observations) | [Solution](problems/2028_find-missing-observations.py) |
 | 2044 | [Count Number Of Maximum Bitwise Or Subsets](https://leetcode.com/problems/count-number-of-maximum-bitwise-or-subsets) | [Solution](problems/2044_count-number-of-maximum-bitwise-or-subsets.py) |
@@ -227,6 +228,8 @@ This repository contains my solutions to LeetCode problems using Python to solve
 | 2601 | [Prime Subtraction Operation](https://leetcode.com/problems/prime-subtraction-operation) | [Solution](problems/2601_prime-subtraction-operation.py) |
 | 2641 | [Cousins In Binary Tree Ii](https://leetcode.com/problems/cousins-in-binary-tree-ii) | [Solution](problems/2641_cousins-in-binary-tree-ii.py) |
 | 2657 | [Find The Prefix Common Array Of Two Arrays](https://leetcode.com/problems/find-the-prefix-common-array-of-two-arrays) | [Solution](problems/2657_find-the-prefix-common-array-of-two-arrays.py) |
+| 2661 | [First Completely Painted Row Or Column](https://leetcode.com/problems/first-completely-painted-row-or-column) | [Solution](problems/2661_first-completely-painted-row-or-column.py) |
+| 2683 | [Neighboring Bitwise Xor](https://leetcode.com/problems/neighboring-bitwise-xor) | [Solution](problems/2683_neighboring-bitwise-xor.py) |
 | 2684 | [Maximum Number Of Moves In A Grid](https://leetcode.com/problems/maximum-number-of-moves-in-a-grid) | [Solution](problems/2684_maximum-number-of-moves-in-a-grid.py) |
 | 2696 | [Minimum String Length After Removing Substrings](https://leetcode.com/problems/minimum-string-length-after-removing-substrings) | [Solution](problems/2696_minimum-string-length-after-removing-substrings.py) |
 | 2779 | [Maximum Beauty Of An Array After Applying Operation](https://leetcode.com/problems/maximum-beauty-of-an-array-after-applying-operation) | [Solution](problems/2779_maximum-beauty-of-an-array-after-applying-operation.py) |
