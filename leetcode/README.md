@@ -2,7 +2,7 @@
 
 This repository contains my solutions to LeetCode problems using Python to solve. I will be solving at least one problem every day.
 
-## Solved Problems (Total: 244)
+## Solved Problems (Total: 245)
 | # | Problem | Solution |
 |---|---------|----------|
 | 0001 | [Two Sum](https://leetcode.com/problems/two-sum) | [Solution](problems/0001_two-sum.py) |
@@ -139,6 +139,7 @@ This repository contains my solutions to LeetCode problems using Python to solve
 | 0769 | [Max Chunks To Make Sorted](https://leetcode.com/problems/max-chunks-to-make-sorted) | [Solution](problems/0769_max-chunks-to-make-sorted.py) |
 | 0773 | [Sliding Puzzle](https://leetcode.com/problems/sliding-puzzle) | [Solution](problems/0773_sliding-puzzle.py) |
 | 0796 | [Rotate String](https://leetcode.com/problems/rotate-string) | [Solution](problems/0796_rotate-string.py) |
+| 0802 | [Find Eventual Safe States](https://leetcode.com/problems/find-eventual-safe-states) | [Solution](problems/0802_find-eventual-safe-states.py) |
 | 0836 | [Rectangle Overlap](https://leetcode.com/problems/rectangle-overlap) | [Solution](problems/0836_rectangle-overlap.py) |
 | 0860 | [Lemonade Change](https://leetcode.com/problems/lemonade-change) | [Solution](problems/0860_lemonade-change.py) |
 | 0862 | [Shortest Subarray With Sum At Least K](https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k) | [Solution](problems/0862_shortest-subarray-with-sum-at-least-k.py) |
