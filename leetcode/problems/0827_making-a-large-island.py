@@ -12,14 +12,12 @@ class Solution:
             return 0 <= r < n and 0 <= c < n
 
         # Use dfs to spread island number and return its size
-        visited = [[False] * n for _ in range(n)]
         island = [[-1] * n for _ in range(n)]
         sizes = []
 
         def dfs(r: int, c: int) -> int:
-            if not is_valid_cell(r, c) or visited[r][c] or grid[r][c] == 0:
+            if not is_valid_cell(r, c) or island[r][c] != -1 or grid[r][c] == 0:
                 return 0
-            visited[r][c] = True
             island[r][c] = len(sizes)
             lands = 1
             for dr, dc in dirs:
@@ -29,7 +27,7 @@ class Solution:
         # Loop through the grid to traverse all islands
         for r in range(n):
             for c in range(n):
-                if not visited[r][c] and grid[r][c] == 1:
+                if island[r][c] == -1 and grid[r][c] == 1:
                     sizes.append(dfs(r, c))
 
         # If there is no island, return 1
