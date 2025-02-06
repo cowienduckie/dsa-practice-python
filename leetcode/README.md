@@ -2,7 +2,7 @@
 
 This repository contains my solutions to LeetCode problems using Python to solve. I will be solving at least one problem every day.
 
-## Solved Problems (Total: 251)
+## Solved Problems (Total: 252)
 | # | Problem | Solution |
 |---|---------|----------|
 | 0001 | [Two Sum](https://leetcode.com/problems/two-sum) | [Solution](problems/0001_two-sum.py) |
@@ -179,6 +179,7 @@ This repository contains my solutions to LeetCode problems using Python to solve
 | 1639 | [Number Of Ways To Form A Target String Given A Dictionary](https://leetcode.com/problems/number-of-ways-to-form-a-target-string-given-a-dictionary) | [Solution](problems/1639_number-of-ways-to-form-a-target-string-given-a-dictionary.py) |
 | 1652 | [Defuse The Bomb](https://leetcode.com/problems/defuse-the-bomb) | [Solution](problems/1652_defuse-the-bomb.py) |
 | 1684 | [Count The Number Of Consistent Strings](https://leetcode.com/problems/count-the-number-of-consistent-strings) | [Solution](problems/1684_count-the-number-of-consistent-strings.py) |
+| 1726 | [Tuple With Same Product](https://leetcode.com/problems/tuple-with-same-product) | [Solution](problems/1726_tuple-with-same-product.py) |
 | 1752 | [Check If Array Is Sorted And Rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated) | [Solution](problems/1752_check-if-array-is-sorted-and-rotated.py) |
 | 1760 | [Minimum Limit Of Balls In A Bag](https://leetcode.com/problems/minimum-limit-of-balls-in-a-bag) | [Solution](problems/1760_minimum-limit-of-balls-in-a-bag.py) |
 | 1765 | [Map Of Highest Peak](https://leetcode.com/problems/map-of-highest-peak) | [Solution](problems/1765_map-of-highest-peak.py) |
