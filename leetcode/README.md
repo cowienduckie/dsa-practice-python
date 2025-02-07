@@ -2,7 +2,7 @@
 
 This repository contains my solutions to LeetCode problems using Python to solve. I will be solving at least one problem every day.
 
-## Solved Problems (Total: 252)
+## Solved Problems (Total: 253)
 | # | Problem | Solution |
 |---|---------|----------|
 | 0001 | [Two Sum](https://leetcode.com/problems/two-sum) | [Solution](problems/0001_two-sum.py) |
@@ -252,6 +252,7 @@ This repository contains my solutions to LeetCode problems using Python to solve
 | 3133 | [Minimum Array End](https://leetcode.com/problems/minimum-array-end) | [Solution](problems/3133_minimum-array-end.py) |
 | 3135 | [Special Array I](https://leetcode.com/problems/special-array-i) | [Solution](problems/3135_special-array-i.py) |
 | 3152 | [Special Array Ii](https://leetcode.com/problems/special-array-ii) | [Solution](problems/3152_special-array-ii.py) |
+| 3160 | [Find The Number Of Distinct Colors Among The Balls](https://leetcode.com/problems/find-the-number-of-distinct-colors-among-the-balls) | [Solution](problems/3160_find-the-number-of-distinct-colors-among-the-balls.py) |
 | 3163 | [String Compression Iii](https://leetcode.com/problems/string-compression-iii) | [Solution](problems/3163_string-compression-iii.py) |
 | 3223 | [Minimum Length Of String After Operations](https://leetcode.com/problems/minimum-length-of-string-after-operations) | [Solution](problems/3223_minimum-length-of-string-after-operations.py) |
 | 3243 | [Shortest Distance After Road Addition Queries I](https://leetcode.com/problems/shortest-distance-after-road-addition-queries-i) | [Solution](problems/3243_shortest-distance-after-road-addition-queries-i.py) |
