@@ -2,7 +2,7 @@
 
 This repository contains my solutions to LeetCode problems using Python to solve. I will be solving at least one problem every day.
 
-## Solved Problems (Total: 255)
+## Solved Problems (Total: 256)
 | # | Problem | Solution |
 |---|---------|----------|
 | 0001 | [Two Sum](https://leetcode.com/problems/two-sum) | [Solution](problems/0001_two-sum.py) |
@@ -256,6 +256,7 @@ This repository contains my solutions to LeetCode problems using Python to solve
 | 3152 | [Special Array Ii](https://leetcode.com/problems/special-array-ii) | [Solution](problems/3152_special-array-ii.py) |
 | 3160 | [Find The Number Of Distinct Colors Among The Balls](https://leetcode.com/problems/find-the-number-of-distinct-colors-among-the-balls) | [Solution](problems/3160_find-the-number-of-distinct-colors-among-the-balls.py) |
 | 3163 | [String Compression Iii](https://leetcode.com/problems/string-compression-iii) | [Solution](problems/3163_string-compression-iii.py) |
+| 3174 | [Clear Digits](https://leetcode.com/problems/clear-digits) | [Solution](problems/3174_clear-digits.py) |
 | 3223 | [Minimum Length Of String After Operations](https://leetcode.com/problems/minimum-length-of-string-after-operations) | [Solution](problems/3223_minimum-length-of-string-after-operations.py) |
 | 3243 | [Shortest Distance After Road Addition Queries I](https://leetcode.com/problems/shortest-distance-after-road-addition-queries-i) | [Solution](problems/3243_shortest-distance-after-road-addition-queries-i.py) |
 | 3254 | [Find The Power Of K Size Subarrays I](https://leetcode.com/problems/find-the-power-of-k-size-subarrays-i) | [Solution](problems/3254_find-the-power-of-k-size-subarrays-i.py) |
