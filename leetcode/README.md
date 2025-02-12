@@ -2,7 +2,7 @@
 
 This repository contains my solutions to LeetCode problems using Python to solve. I will be solving at least one problem every day.
 
-## Solved Problems (Total: 257)
+## Solved Problems (Total: 258)
 | # | Problem | Solution |
 |---|---------|----------|
 | 0001 | [Two Sum](https://leetcode.com/problems/two-sum) | [Solution](problems/0001_two-sum.py) |
@@ -214,6 +214,7 @@ This repository contains my solutions to LeetCode problems using Python to solve
 | 2275 | [Largest Combination With Bitwise And Greater Than Zero](https://leetcode.com/problems/largest-combination-with-bitwise-and-greater-than-zero) | [Solution](problems/2275_largest-combination-with-bitwise-and-greater-than-zero.py) |
 | 2290 | [Minimum Obstacle Removal To Reach Corner](https://leetcode.com/problems/minimum-obstacle-removal-to-reach-corner) | [Solution](problems/2290_minimum-obstacle-removal-to-reach-corner.py) |
 | 2337 | [Move Pieces To Obtain A String](https://leetcode.com/problems/move-pieces-to-obtain-a-string) | [Solution](problems/2337_move-pieces-to-obtain-a-string.py) |
+| 2342 | [Max Sum Of A Pair With Equal Sum Of Digits](https://leetcode.com/problems/max-sum-of-a-pair-with-equal-sum-of-digits) | [Solution](problems/2342_max-sum-of-a-pair-with-equal-sum-of-digits.py) |
 | 2349 | [Design A Number Container System](https://leetcode.com/problems/design-a-number-container-system) | [Solution](problems/2349_design-a-number-container-system.py) |
 | 2364 | [Count Number Of Bad Pairs](https://leetcode.com/problems/count-number-of-bad-pairs) | [Solution](problems/2364_count-number-of-bad-pairs.py) |
 | 2381 | [Shifting Letters Ii](https://leetcode.com/problems/shifting-letters-ii) | [Solution](problems/2381_shifting-letters-ii.py) |
