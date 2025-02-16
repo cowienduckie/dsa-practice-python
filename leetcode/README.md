@@ -2,7 +2,7 @@
 
 This repository contains my solutions to LeetCode problems using Python to solve. I will be solving at least one problem every day.
 
-## Solved Problems (Total: 259)
+## Solved Problems (Total: 262)
 | # | Problem | Solution |
 |---|---------|----------|
 | 0001 | [Two Sum](https://leetcode.com/problems/two-sum) | [Solution](problems/0001_two-sum.py) |
@@ -165,6 +165,7 @@ This repository contains my solutions to LeetCode problems using Python to solve
 | 1277 | [Count Square Submatrices With All Ones](https://leetcode.com/problems/count-square-submatrices-with-all-ones) | [Solution](problems/1277_count-square-submatrices-with-all-ones.py) |
 | 1310 | [Xor Queries Of A Subarray](https://leetcode.com/problems/xor-queries-of-a-subarray) | [Solution](problems/1310_xor-queries-of-a-subarray.py) |
 | 1346 | [Check If N And Its Double Exist](https://leetcode.com/problems/check-if-n-and-its-double-exist) | [Solution](problems/1346_check-if-n-and-its-double-exist.py) |
+| 1352 | [Product Of The Last K Numbers](https://leetcode.com/problems/product-of-the-last-k-numbers) | [Solution](problems/1352_product-of-the-last-k-numbers.py) |
 | 1371 | [Find The Longest Substring Containing Vowels In Even Counts](https://leetcode.com/problems/find-the-longest-substring-containing-vowels-in-even-counts) | [Solution](problems/1371_find-the-longest-substring-containing-vowels-in-even-counts.py) |
 | 1400 | [Construct K Palindrome Strings](https://leetcode.com/problems/construct-k-palindrome-strings) | [Solution](problems/1400_construct-k-palindrome-strings.py) |
 | 1405 | [Longest Happy String](https://leetcode.com/problems/longest-happy-string) | [Solution](problems/1405_longest-happy-string.py) |
@@ -179,6 +180,7 @@ This repository contains my solutions to LeetCode problems using Python to solve
 | 1639 | [Number Of Ways To Form A Target String Given A Dictionary](https://leetcode.com/problems/number-of-ways-to-form-a-target-string-given-a-dictionary) | [Solution](problems/1639_number-of-ways-to-form-a-target-string-given-a-dictionary.py) |
 | 1652 | [Defuse The Bomb](https://leetcode.com/problems/defuse-the-bomb) | [Solution](problems/1652_defuse-the-bomb.py) |
 | 1684 | [Count The Number Of Consistent Strings](https://leetcode.com/problems/count-the-number-of-consistent-strings) | [Solution](problems/1684_count-the-number-of-consistent-strings.py) |
+| 1718 | [Construct The Lexicographically Largest Valid Sequence](https://leetcode.com/problems/construct-the-lexicographically-largest-valid-sequence) | [Solution](problems/1718_construct-the-lexicographically-largest-valid-sequence.py) |
 | 1726 | [Tuple With Same Product](https://leetcode.com/problems/tuple-with-same-product) | [Solution](problems/1726_tuple-with-same-product.py) |
 | 1752 | [Check If Array Is Sorted And Rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated) | [Solution](problems/1752_check-if-array-is-sorted-and-rotated.py) |
 | 1760 | [Minimum Limit Of Balls In A Bag](https://leetcode.com/problems/minimum-limit-of-balls-in-a-bag) | [Solution](problems/1760_minimum-limit-of-balls-in-a-bag.py) |
@@ -243,6 +245,7 @@ This repository contains my solutions to LeetCode problems using Python to solve
 | 2683 | [Neighboring Bitwise Xor](https://leetcode.com/problems/neighboring-bitwise-xor) | [Solution](problems/2683_neighboring-bitwise-xor.py) |
 | 2684 | [Maximum Number Of Moves In A Grid](https://leetcode.com/problems/maximum-number-of-moves-in-a-grid) | [Solution](problems/2684_maximum-number-of-moves-in-a-grid.py) |
 | 2696 | [Minimum String Length After Removing Substrings](https://leetcode.com/problems/minimum-string-length-after-removing-substrings) | [Solution](problems/2696_minimum-string-length-after-removing-substrings.py) |
+| 2698 | [Find The Punishment Number Of An Integer](https://leetcode.com/problems/find-the-punishment-number-of-an-integer) | [Solution](problems/2698_find-the-punishment-number-of-an-integer.py) |
 | 2779 | [Maximum Beauty Of An Array After Applying Operation](https://leetcode.com/problems/maximum-beauty-of-an-array-after-applying-operation) | [Solution](problems/2779_maximum-beauty-of-an-array-after-applying-operation.py) |
 | 2825 | [Make String A Subsequence Using Cyclic Increments](https://leetcode.com/problems/make-string-a-subsequence-using-cyclic-increments) | [Solution](problems/2825_make-string-a-subsequence-using-cyclic-increments.py) |
 | 2914 | [Minimum Number Of Changes To Make Binary String Beautiful](https://leetcode.com/problems/minimum-number-of-changes-to-make-binary-string-beautiful) | [Solution](problems/2914_minimum-number-of-changes-to-make-binary-string-beautiful.py) |
