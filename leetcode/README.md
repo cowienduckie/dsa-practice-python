@@ -2,7 +2,7 @@
 
 This repository contains my solutions to LeetCode problems using Python to solve. I will be solving at least one problem every day.
 
-## Solved Problems (Total: 263)
+## Solved Problems (Total: 264)
 | # | Problem | Solution |
 |---|---------|----------|
 | 0001 | [Two Sum](https://leetcode.com/problems/two-sum) | [Solution](problems/0001_two-sum.py) |
@@ -220,6 +220,7 @@ This repository contains my solutions to LeetCode problems using Python to solve
 | 2342 | [Max Sum Of A Pair With Equal Sum Of Digits](https://leetcode.com/problems/max-sum-of-a-pair-with-equal-sum-of-digits) | [Solution](problems/2342_max-sum-of-a-pair-with-equal-sum-of-digits.py) |
 | 2349 | [Design A Number Container System](https://leetcode.com/problems/design-a-number-container-system) | [Solution](problems/2349_design-a-number-container-system.py) |
 | 2364 | [Count Number Of Bad Pairs](https://leetcode.com/problems/count-number-of-bad-pairs) | [Solution](problems/2364_count-number-of-bad-pairs.py) |
+| 2375 | [Construct Smallest Number From Di String](https://leetcode.com/problems/construct-smallest-number-from-di-string) | [Solution](problems/2375_construct-smallest-number-from-di-string.py) |
 | 2381 | [Shifting Letters Ii](https://leetcode.com/problems/shifting-letters-ii) | [Solution](problems/2381_shifting-letters-ii.py) |
 | 2415 | [Reverse Odd Levels Of Binary Tree](https://leetcode.com/problems/reverse-odd-levels-of-binary-tree) | [Solution](problems/2415_reverse-odd-levels-of-binary-tree.py) |
 | 2419 | [Longest Subarray With Maximum Bitwise And](https://leetcode.com/problems/longest-subarray-with-maximum-bitwise-and) | [Solution](problems/2419_longest-subarray-with-maximum-bitwise-and.py) |
