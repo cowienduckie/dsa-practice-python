@@ -2,7 +2,7 @@
 
 This repository contains my solutions to LeetCode problems using Python to solve. I will be solving at least one problem every day.
 
-## Solved Problems (Total: 265)
+## Solved Problems (Total: 266)
 | # | Problem | Solution |
 |---|---------|----------|
 | 0001 | [Two Sum](https://leetcode.com/problems/two-sum) | [Solution](problems/0001_two-sum.py) |
@@ -201,6 +201,7 @@ This repository contains my solutions to LeetCode problems using Python to solve
 | 1957 | [Delete Characters To Make Fancy String](https://leetcode.com/problems/delete-characters-to-make-fancy-string) | [Solution](problems/1957_delete-characters-to-make-fancy-string.py) |
 | 1963 | [Minimum Number Of Swaps To Make The String Balanced](https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-string-balanced) | [Solution](problems/1963_minimum-number-of-swaps-to-make-the-string-balanced.py) |
 | 1975 | [Maximum Matrix Sum](https://leetcode.com/problems/maximum-matrix-sum) | [Solution](problems/1975_maximum-matrix-sum.py) |
+| 1980 | [Find Unique Binary String](https://leetcode.com/problems/find-unique-binary-string) | [Solution](problems/1980_find-unique-binary-string.py) |
 | 2017 | [Grid Game](https://leetcode.com/problems/grid-game) | [Solution](problems/2017_grid-game.py) |
 | 2022 | [Convert 1D Array Into 2D Array](https://leetcode.com/problems/convert-1d-array-into-2d-array) | [Solution](problems/2022_convert-1d-array-into-2d-array.py) |
 | 2028 | [Find Missing Observations](https://leetcode.com/problems/find-missing-observations) | [Solution](problems/2028_find-missing-observations.py) |
