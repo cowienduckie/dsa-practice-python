@@ -2,7 +2,7 @@
 
 This repository contains my solutions to LeetCode problems using Python to solve. I will be solving at least one problem every day.
 
-## Solved Problems (Total: 264)
+## Solved Problems (Total: 265)
 | # | Problem | Solution |
 |---|---------|----------|
 | 0001 | [Two Sum](https://leetcode.com/problems/two-sum) | [Solution](problems/0001_two-sum.py) |
@@ -171,6 +171,7 @@ This repository contains my solutions to LeetCode problems using Python to solve
 | 1400 | [Construct K Palindrome Strings](https://leetcode.com/problems/construct-k-palindrome-strings) | [Solution](problems/1400_construct-k-palindrome-strings.py) |
 | 1405 | [Longest Happy String](https://leetcode.com/problems/longest-happy-string) | [Solution](problems/1405_longest-happy-string.py) |
 | 1408 | [String Matching In An Array](https://leetcode.com/problems/string-matching-in-an-array) | [Solution](problems/1408_string-matching-in-an-array.py) |
+| 1415 | [The K Th Lexicographical String Of All Happy Strings Of Length N](https://leetcode.com/problems/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) | [Solution](problems/1415_the-k-th-lexicographical-string-of-all-happy-strings-of-length-n.py) |
 | 1422 | [Maximum Score After Splitting A String](https://leetcode.com/problems/maximum-score-after-splitting-a-string) | [Solution](problems/1422_maximum-score-after-splitting-a-string.py) |
 | 1455 | [Check If A Word Occurs As A Prefix Of Any Word In A Sentence](https://leetcode.com/problems/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) | [Solution](problems/1455_check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence.py) |
 | 1475 | [Final Prices With A Special Discount In A Shop](https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop) | [Solution](problems/1475_final-prices-with-a-special-discount-in-a-shop.py) |
