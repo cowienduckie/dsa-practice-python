@@ -2,7 +2,7 @@
 
 This repository contains my solutions to LeetCode problems using Python to solve. I will be solving at least one problem every day.
 
-## Solved Problems (Total: 266)
+## Solved Problems (Total: 267)
 | # | Problem | Solution |
 |---|---------|----------|
 | 0001 | [Two Sum](https://leetcode.com/problems/two-sum) | [Solution](problems/0001_two-sum.py) |
@@ -162,6 +162,7 @@ This repository contains my solutions to LeetCode problems using Python to solve
 | 1143 | [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence) | [Solution](problems/1143_longest-common-subsequence.py) |
 | 1233 | [Remove Sub Folders From The Filesystem](https://leetcode.com/problems/remove-sub-folders-from-the-filesystem) | [Solution](problems/1233_remove-sub-folders-from-the-filesystem.py) |
 | 1235 | [Maximum Profit In Job Scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling) | [Solution](problems/1235_maximum-profit-in-job-scheduling.py) |
+| 1261 | [Find Elements In A Contaminated Binary Tree](https://leetcode.com/problems/find-elements-in-a-contaminated-binary-tree) | [Solution](problems/1261_find-elements-in-a-contaminated-binary-tree.py) |
 | 1267 | [Count Servers That Communicate](https://leetcode.com/problems/count-servers-that-communicate) | [Solution](problems/1267_count-servers-that-communicate.py) |
 | 1277 | [Count Square Submatrices With All Ones](https://leetcode.com/problems/count-square-submatrices-with-all-ones) | [Solution](problems/1277_count-square-submatrices-with-all-ones.py) |
 | 1310 | [Xor Queries Of A Subarray](https://leetcode.com/problems/xor-queries-of-a-subarray) | [Solution](problems/1310_xor-queries-of-a-subarray.py) |
