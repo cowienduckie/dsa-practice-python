@@ -2,7 +2,7 @@
 
 This repository contains my solutions to LeetCode problems using Python to solve. I will be solving at least one problem every day.
 
-## Solved Problems (Total: 267)
+## Solved Problems (Total: 273)
 | # | Problem | Solution |
 |---|---------|----------|
 | 0001 | [Two Sum](https://leetcode.com/problems/two-sum) | [Solution](problems/0001_two-sum.py) |
@@ -12,6 +12,7 @@ This repository contains my solutions to LeetCode problems using Python to solve
 | 0008 | [String To Integer Atoi](https://leetcode.com/problems/string-to-integer-atoi) | [Solution](problems/0008_string-to-integer-atoi.py) |
 | 0011 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water) | [Solution](problems/0011_container-with-most-water.py) |
 | 0015 | [3Sum](https://leetcode.com/problems/3sum) | [Solution](problems/0015_3sum.py) |
+| 0016 | [3Sum Closest](https://leetcode.com/problems/3sum-closest) | [Solution](problems/0016_3sum-closest.py) |
 | 0017 | [Letter Combinations Of A Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number) | [Solution](problems/0017_letter-combinations-of-a-phone-number.py) |
 | 0019 | [Remove Nth Node From End Of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list) | [Solution](problems/0019_remove-nth-node-from-end-of-list.py) |
 | 0020 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses) | [Solution](problems/0020_valid-parentheses.py) |
@@ -58,7 +59,9 @@ This repository contains my solutions to LeetCode problems using Python to solve
 | 0121 | [Best Time To Buy And Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock) | [Solution](problems/0121_best-time-to-buy-and-sell-stock.py) |
 | 0125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome) | [Solution](problems/0125_valid-palindrome.py) |
 | 0127 | [Word Ladder](https://leetcode.com/problems/word-ladder) | [Solution](problems/0127_word-ladder.py) |
+| 0128 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence) | [Solution](problems/0128_longest-consecutive-sequence.py) |
 | 0133 | [Clone Graph](https://leetcode.com/problems/clone-graph) | [Solution](problems/0133_clone-graph.py) |
+| 0134 | [Gas Station](https://leetcode.com/problems/gas-station) | [Solution](problems/0134_gas-station.py) |
 | 0134 | [Reorder Linked List](https://leetcode.com/problems/reorder-linked-list) | [Solution](problems/0134_reorder-linked-list.py) |
 | 0136 | [Single Number](https://leetcode.com/problems/single-number) | [Solution](problems/0136_single-number.py) |
 | 0139 | [Word Break](https://leetcode.com/problems/word-break) | [Solution](problems/0139_word-break.py) |
@@ -70,6 +73,7 @@ This repository contains my solutions to LeetCode problems using Python to solve
 | 0155 | [Min Stack](https://leetcode.com/problems/min-stack) | [Solution](problems/0155_min-stack.py) |
 | 0169 | [Majority Element](https://leetcode.com/problems/majority-element) | [Solution](problems/0169_majority-element.py) |
 | 0179 | [Largest Number](https://leetcode.com/problems/largest-number) | [Solution](problems/0179_largest-number.py) |
+| 0189 | [Rotate Array](https://leetcode.com/problems/rotate-array) | [Solution](problems/0189_rotate-array.py) |
 | 0190 | [Reverse_Bits](https://leetcode.com/problems/reverse_bits) | [Solution](problems/0190_reverse_bits.py) |
 | 0191 | [Number Of 1 Bits](https://leetcode.com/problems/number-of-1-bits) | [Solution](problems/0191_number-of-1-bits.py) |
 | 0198 | [House Robber](https://leetcode.com/problems/house-robber) | [Solution](problems/0198_house-robber.py) |
@@ -119,9 +123,11 @@ This repository contains my solutions to LeetCode problems using Python to solve
 | 0494 | [Target Sum](https://leetcode.com/problems/target-sum) | [Solution](problems/0494_target-sum.py) |
 | 0515 | [Find Largest Value In Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row) | [Solution](problems/0515_find-largest-value-in-each-tree-row.py) |
 | 0516 | [Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence) | [Solution](problems/0516_longest-palindromic-subsequence.py) |
+| 0525 | [Contiguous Array](https://leetcode.com/problems/contiguous-array) | [Solution](problems/0525_contiguous-array.py) |
 | 0539 | [Minimum Time Difference](https://leetcode.com/problems/minimum-time-difference) | [Solution](problems/0539_minimum-time-difference.py) |
 | 0542 | [01 Matrix](https://leetcode.com/problems/01-matrix) | [Solution](problems/0542_01-matrix.py) |
 | 0543 | [Diameter Of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree) | [Solution](problems/0543_diameter-of-binary-tree.py) |
+| 0560 | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k) | [Solution](problems/0560_subarray-sum-equals-k.py) |
 | 0572 | [Subtree Of Another Tree](https://leetcode.com/problems/subtree-of-another-tree) | [Solution](problems/0572_subtree-of-another-tree.py) |
 | 0621 | [Task Scheduler](https://leetcode.com/problems/task-scheduler) | [Solution](problems/0621_task-scheduler.py) |
 | 0622 | [Design Circular Queue](https://leetcode.com/problems/design-circular-queue) | [Solution](problems/0622_design-circular-queue.py) |

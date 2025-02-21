@@ -6,18 +6,14 @@ class Solution:
         """
         Do not return anything, modify nums in-place instead.
         """
-        # red = 0, white = 1, blue = 2
-        red, white = 0, 0
-
-        for num in nums:
-            if num == 0:
-                red = red + 1
-            elif num == 1:
-                white = white + 1
-
-        for i in range(red):
-            nums[i] = 0
-        for i in range(red, red + white):
-            nums[i] = 1
-        for i in range(red + white, len(nums)):
-            nums[i] = 2
+        # Count the frequency of 3 colors
+        freq = [0] * 3
+        for color in nums:
+            freq[color] += 1
+        # Fill the colors by quantity into the original array from 0 to 2
+        for i in range(len(nums)):
+            for color in range(3):
+                if freq[color]:
+                    nums[i] = color
+                    freq[color] -= 1
+                    break

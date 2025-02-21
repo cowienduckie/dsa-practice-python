@@ -3,19 +3,26 @@ from typing import List
 
 class Solution:
     def merge(self, intervals: List[List[int]]) -> List[List[int]]:
+        # Sort intervals ascending
         intervals.sort(key=lambda x: x[0])
-        overlapping = intervals[0]
-        ans = []
 
-        for interval in intervals:
-            if interval[0] <= overlapping[1] and interval[1] >= overlapping[0]:
-                overlapping = [
-                    min(overlapping[0], interval[0]),
-                    max(overlapping[1], interval[1]),
-                ]
+        # Append a dummy interval in the last to complete checking after one loop
+        intervals.append([float("inf"), float("inf")])
+
+        # Iterate through intervals and merging the overlapping
+        ans = []
+        overlap_start, overlap_end = intervals[0]
+
+        for i in range(1, len(intervals)):
+            # Extract start and end time of current interval
+            start, end = intervals[i]
+
+            # If current interval do not overlap with the overlapping ones, push the overlapping into answers
+            # Otherwise, merge current end time with the overlapping
+            if start > overlap_end:
+                ans.append([overlap_start, overlap_end])
+                overlap_start, overlap_end = start, end
             else:
-                ans.append(overlapping)
-                overlapping = interval
-        ans.append(overlapping)
+                overlap_end = max(overlap_end, end)
 
         return ans
