@@ -2,7 +2,7 @@
 
 This repository contains my solutions to LeetCode problems using Python to solve. I will be solving at least one problem every day.
 
-## Solved Problems (Total: 273)
+## Solved Problems (Total: 274)
 | # | Problem | Solution |
 |---|---------|----------|
 | 0001 | [Two Sum](https://leetcode.com/problems/two-sum) | [Solution](problems/0001_two-sum.py) |
@@ -152,6 +152,7 @@ This repository contains my solutions to LeetCode problems using Python to solve
 | 0862 | [Shortest Subarray With Sum At Least K](https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k) | [Solution](problems/0862_shortest-subarray-with-sum-at-least-k.py) |
 | 0874 | [Walking Robot Simulation](https://leetcode.com/problems/walking-robot-simulation) | [Solution](problems/0874_walking-robot-simulation.py) |
 | 0884 | [Uncommon Words From Two Sentences](https://leetcode.com/problems/uncommon-words-from-two-sentences) | [Solution](problems/0884_uncommon-words-from-two-sentences.py) |
+| 0889 | [Construct Binary Tree From Preorder And Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal) | [Solution](problems/0889_construct-binary-tree-from-preorder-and-postorder-traversal.py) |
 | 0916 | [Word Subsets](https://leetcode.com/problems/word-subsets) | [Solution](problems/0916_word-subsets.py) |
 | 0921 | [Minimum Add To Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid) | [Solution](problems/0921_minimum-add-to-make-parentheses-valid.py) |
 | 0938 | [Minimum Cost For Tickets](https://leetcode.com/problems/minimum-cost-for-tickets) | [Solution](problems/0938_minimum-cost-for-tickets.py) |
