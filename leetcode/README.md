@@ -2,7 +2,7 @@
 
 This repository contains my solutions to LeetCode problems using Python to solve. I will be solving at least one problem every day.
 
-## Solved Problems (Total: 274)
+## Solved Problems (Total: 275)
 | # | Problem | Solution |
 |---|---------|----------|
 | 0001 | [Two Sum](https://leetcode.com/problems/two-sum) | [Solution](problems/0001_two-sum.py) |
@@ -239,6 +239,7 @@ This repository contains my solutions to LeetCode problems using Python to solve
 | 2455 | [Count Ways To Build Good Strings](https://leetcode.com/problems/count-ways-to-build-good-strings) | [Solution](problems/2455_count-ways-to-build-good-strings.py) |
 | 2458 | [Height Of Binary Tree After Subtree Removal Queries](https://leetcode.com/problems/height-of-binary-tree-after-subtree-removal-queries) | [Solution](problems/2458_height-of-binary-tree-after-subtree-removal-queries.py) |
 | 2461 | [Maximum Sum Of Distinct Subarrays With Length K](https://leetcode.com/problems/maximum-sum-of-distinct-subarrays-with-length-k) | [Solution](problems/2461_maximum-sum-of-distinct-subarrays-with-length-k.py) |
+| 2467 | [Most Profitable Path In A Tree](https://leetcode.com/problems/most-profitable-path-in-a-tree) | [Solution](problems/2467_most-profitable-path-in-a-tree.py) |
 | 2471 | [Minimum Number Of Operations To Sort A Binary Tree By Level](https://leetcode.com/problems/minimum-number-of-operations-to-sort-a-binary-tree-by-level) | [Solution](problems/2471_minimum-number-of-operations-to-sort-a-binary-tree-by-level.py) |
 | 2490 | [Circular Sentence](https://leetcode.com/problems/circular-sentence) | [Solution](problems/2490_circular-sentence.py) |
 | 2501 | [Longest Square Streak In An Array](https://leetcode.com/problems/longest-square-streak-in-an-array) | [Solution](problems/2501_longest-square-streak-in-an-array.py) |
