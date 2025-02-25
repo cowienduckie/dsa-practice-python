@@ -2,7 +2,7 @@
 
 This repository contains my solutions to LeetCode problems using Python to solve. I will be solving at least one problem every day.
 
-## Solved Problems (Total: 275)
+## Solved Problems (Total: 276)
 | # | Problem | Solution |
 |---|---------|----------|
 | 0001 | [Two Sum](https://leetcode.com/problems/two-sum) | [Solution](problems/0001_two-sum.py) |
@@ -184,6 +184,7 @@ This repository contains my solutions to LeetCode problems using Python to solve
 | 1455 | [Check If A Word Occurs As A Prefix Of Any Word In A Sentence](https://leetcode.com/problems/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) | [Solution](problems/1455_check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence.py) |
 | 1475 | [Final Prices With A Special Discount In A Shop](https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop) | [Solution](problems/1475_final-prices-with-a-special-discount-in-a-shop.py) |
 | 1514 | [Path With Maximum Probability](https://leetcode.com/problems/path-with-maximum-probability) | [Solution](problems/1514_path-with-maximum-probability.py) |
+| 1524 | [Number Of Sub Arrays With Odd Sum](https://leetcode.com/problems/number-of-sub-arrays-with-odd-sum) | [Solution](problems/1524_number-of-sub-arrays-with-odd-sum.py) |
 | 1545 | [Find Kth Bit In Nth Binary String](https://leetcode.com/problems/find-kth-bit-in-nth-binary-string) | [Solution](problems/1545_find-kth-bit-in-nth-binary-string.py) |
 | 1574 | [Shortest Subarray To Be Removed To Make Array Sorted](https://leetcode.com/problems/shortest-subarray-to-be-removed-to-make-array-sorted) | [Solution](problems/1574_shortest-subarray-to-be-removed-to-make-array-sorted.py) |
 | 1593 | [Split A String Into The Max Number Of Unique Substrings](https://leetcode.com/problems/split-a-string-into-the-max-number-of-unique-substrings) | [Solution](problems/1593_split-a-string-into-the-max-number-of-unique-substrings.py) |
