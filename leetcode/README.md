@@ -2,7 +2,7 @@
 
 This repository contains my solutions to LeetCode problems using Python to solve. I will be solving at least one problem every day.
 
-## Solved Problems (Total: 279)
+## Solved Problems (Total: 280)
 | # | Problem | Solution |
 |---|---------|----------|
 | 0001 | [Two Sum](https://leetcode.com/problems/two-sum) | [Solution](problems/0001_two-sum.py) |
@@ -250,6 +250,7 @@ This repository contains my solutions to LeetCode problems using Python to solve
 | 2554 | [Maximum Number Of Integers To Choose From A Range I](https://leetcode.com/problems/maximum-number-of-integers-to-choose-from-a-range-i) | [Solution](problems/2554_maximum-number-of-integers-to-choose-from-a-range-i.py) |
 | 2558 | [Take Gifts From The Richest Pile](https://leetcode.com/problems/take-gifts-from-the-richest-pile) | [Solution](problems/2558_take-gifts-from-the-richest-pile.py) |
 | 2559 | [Count Vowel Strings In Ranges](https://leetcode.com/problems/count-vowel-strings-in-ranges) | [Solution](problems/2559_count-vowel-strings-in-ranges.py) |
+| 2560 | [Apply Operations To An Array](https://leetcode.com/problems/apply-operations-to-an-array) | [Solution](problems/2560_apply-operations-to-an-array.py) |
 | 2561 | [Take K Of Each Character From Left And Right](https://leetcode.com/problems/take-k-of-each-character-from-left-and-right) | [Solution](problems/2561_take-k-of-each-character-from-left-and-right.py) |
 | 2563 | [Count The Number Of Fair Pairs](https://leetcode.com/problems/count-the-number-of-fair-pairs) | [Solution](problems/2563_count-the-number-of-fair-pairs.py) |
 | 2570 | [Merge Two 2D Arrays By Summing Values](https://leetcode.com/problems/merge-two-2d-arrays-by-summing-values) | [Solution](problems/2570_merge-two-2d-arrays-by-summing-values.py) |
