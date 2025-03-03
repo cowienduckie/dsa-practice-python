@@ -2,7 +2,7 @@
 
 This repository contains my solutions to LeetCode problems using Python to solve. I will be solving at least one problem every day.
 
-## Solved Problems (Total: 280)
+## Solved Problems (Total: 281)
 | # | Problem | Solution |
 |---|---------|----------|
 | 0001 | [Two Sum](https://leetcode.com/problems/two-sum) | [Solution](problems/0001_two-sum.py) |
@@ -223,6 +223,7 @@ This repository contains my solutions to LeetCode problems using Python to solve
 | 2097 | [Valid Arrangement Of Pairs](https://leetcode.com/problems/valid-arrangement-of-pairs) | [Solution](problems/2097_valid-arrangement-of-pairs.py) |
 | 2109 | [Adding Spaces To A String](https://leetcode.com/problems/adding-spaces-to-a-string) | [Solution](problems/2109_adding-spaces-to-a-string.py) |
 | 2116 | [Check If A Parentheses String Can Be Valid](https://leetcode.com/problems/check-if-a-parentheses-string-can-be-valid) | [Solution](problems/2116_check-if-a-parentheses-string-can-be-valid.py) |
+| 2161 | [Partition Array According To Given Pivot](https://leetcode.com/problems/partition-array-according-to-given-pivot) | [Solution](problems/2161_partition-array-according-to-given-pivot.py) |
 | 2182 | [Construct String With Repeat Limit](https://leetcode.com/problems/construct-string-with-repeat-limit) | [Solution](problems/2182_construct-string-with-repeat-limit.py) |
 | 2185 | [Counting Words With A Given Prefix](https://leetcode.com/problems/counting-words-with-a-given-prefix) | [Solution](problems/2185_counting-words-with-a-given-prefix.py) |
 | 2257 | [Count Unguarded Cells In The Grid](https://leetcode.com/problems/count-unguarded-cells-in-the-grid) | [Solution](problems/2257_count-unguarded-cells-in-the-grid.py) |
