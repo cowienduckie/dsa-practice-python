@@ -2,7 +2,7 @@
 
 This repository contains my solutions to LeetCode problems using Python to solve. I will be solving at least one problem every day.
 
-## Solved Problems (Total: 281)
+## Solved Problems (Total: 282)
 | # | Problem | Solution |
 |---|---------|----------|
 | 0001 | [Two Sum](https://leetcode.com/problems/two-sum) | [Solution](problems/0001_two-sum.py) |
@@ -199,6 +199,7 @@ This repository contains my solutions to LeetCode problems using Python to solve
 | 1760 | [Minimum Limit Of Balls In A Bag](https://leetcode.com/problems/minimum-limit-of-balls-in-a-bag) | [Solution](problems/1760_minimum-limit-of-balls-in-a-bag.py) |
 | 1765 | [Map Of Highest Peak](https://leetcode.com/problems/map-of-highest-peak) | [Solution](problems/1765_map-of-highest-peak.py) |
 | 1769 | [Minimum Number Of Operations To Move All Balls To Each Box](https://leetcode.com/problems/minimum-number-of-operations-to-move-all-balls-to-each-box) | [Solution](problems/1769_minimum-number-of-operations-to-move-all-balls-to-each-box.py) |
+| 1780 | [Check If Number Is A Sum Of Powers Of Three](https://leetcode.com/problems/check-if-number-is-a-sum-of-powers-of-three) | [Solution](problems/1780_check-if-number-is-a-sum-of-powers-of-three.py) |
 | 1790 | [Check If One String Swap Can Make Strings Equal](https://leetcode.com/problems/check-if-one-string-swap-can-make-strings-equal) | [Solution](problems/1790_check-if-one-string-swap-can-make-strings-equal.py) |
 | 1800 | [Maximum Ascending Subarray Sum](https://leetcode.com/problems/maximum-ascending-subarray-sum) | [Solution](problems/1800_maximum-ascending-subarray-sum.py) |
 | 1829 | [Maximum Xor For Each Query](https://leetcode.com/problems/maximum-xor-for-each-query) | [Solution](problems/1829_maximum-xor-for-each-query.py) |
