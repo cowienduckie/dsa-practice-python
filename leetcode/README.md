@@ -2,7 +2,7 @@
 
 This repository contains my solutions to LeetCode problems using Python to solve. I will be solving at least one problem every day.
 
-## Solved Problems (Total: 282)
+## Solved Problems (Total: 283)
 | # | Problem | Solution |
 |---|---------|----------|
 | 0001 | [Two Sum](https://leetcode.com/problems/two-sum) | [Solution](problems/0001_two-sum.py) |
@@ -256,6 +256,7 @@ This repository contains my solutions to LeetCode problems using Python to solve
 | 2561 | [Take K Of Each Character From Left And Right](https://leetcode.com/problems/take-k-of-each-character-from-left-and-right) | [Solution](problems/2561_take-k-of-each-character-from-left-and-right.py) |
 | 2563 | [Count The Number Of Fair Pairs](https://leetcode.com/problems/count-the-number-of-fair-pairs) | [Solution](problems/2563_count-the-number-of-fair-pairs.py) |
 | 2570 | [Merge Two 2D Arrays By Summing Values](https://leetcode.com/problems/merge-two-2d-arrays-by-summing-values) | [Solution](problems/2570_merge-two-2d-arrays-by-summing-values.py) |
+| 2579 | [Count Total Number Of Colored Cells](https://leetcode.com/problems/count-total-number-of-colored-cells) | [Solution](problems/2579_count-total-number-of-colored-cells.py) |
 | 2583 | [Kth Largest Sum In A Binary Tree](https://leetcode.com/problems/kth-largest-sum-in-a-binary-tree) | [Solution](problems/2583_kth-largest-sum-in-a-binary-tree.py) |
 | 2593 | [Find Score Of An Array After Marking All Elements](https://leetcode.com/problems/find-score-of-an-array-after-marking-all-elements) | [Solution](problems/2593_find-score-of-an-array-after-marking-all-elements.py) |
 | 2601 | [Prime Subtraction Operation](https://leetcode.com/problems/prime-subtraction-operation) | [Solution](problems/2601_prime-subtraction-operation.py) |
