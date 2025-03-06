@@ -2,7 +2,7 @@
 
 This repository contains my solutions to LeetCode problems using Python to solve. I will be solving at least one problem every day.
 
-## Solved Problems (Total: 283)
+## Solved Problems (Total: 284)
 | # | Problem | Solution |
 |---|---------|----------|
 | 0001 | [Two Sum](https://leetcode.com/problems/two-sum) | [Solution](problems/0001_two-sum.py) |
@@ -272,6 +272,7 @@ This repository contains my solutions to LeetCode problems using Python to solve
 | 2914 | [Minimum Number Of Changes To Make Binary String Beautiful](https://leetcode.com/problems/minimum-number-of-changes-to-make-binary-string-beautiful) | [Solution](problems/2914_minimum-number-of-changes-to-make-binary-string-beautiful.py) |
 | 2924 | [Find Champion Ii](https://leetcode.com/problems/find-champion-ii) | [Solution](problems/2924_find-champion-ii.py) |
 | 2938 | [Separate Black And White Balls](https://leetcode.com/problems/separate-black-and-white-balls) | [Solution](problems/2938_separate-black-and-white-balls.py) |
+| 2965 | [Find Missing And Repeated Values](https://leetcode.com/problems/find-missing-and-repeated-values) | [Solution](problems/2965_find-missing-and-repeated-values.py) |
 | 2981 | [Find Longest Special Substring That Occurs Thrice I](https://leetcode.com/problems/find-longest-special-substring-that-occurs-thrice-i) | [Solution](problems/2981_find-longest-special-substring-that-occurs-thrice-i.py) |
 | 3011 | [Find If Array Can Be Sorted](https://leetcode.com/problems/find-if-array-can-be-sorted) | [Solution](problems/3011_find-if-array-can-be-sorted.py) |
 | 3042 | [Count Prefix And Suffix Pairs I](https://leetcode.com/problems/count-prefix-and-suffix-pairs-i) | [Solution](problems/3042_count-prefix-and-suffix-pairs-i.py) |
