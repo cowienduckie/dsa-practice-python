@@ -2,7 +2,7 @@
 
 This repository contains my solutions to LeetCode problems using Python to solve. I will be solving at least one problem every day.
 
-## Solved Problems (Total: 284)
+## Solved Problems (Total: 285)
 | # | Problem | Solution |
 |---|---------|----------|
 | 0001 | [Two Sum](https://leetcode.com/problems/two-sum) | [Solution](problems/0001_two-sum.py) |
@@ -248,6 +248,7 @@ This repository contains my solutions to LeetCode problems using Python to solve
 | 2471 | [Minimum Number Of Operations To Sort A Binary Tree By Level](https://leetcode.com/problems/minimum-number-of-operations-to-sort-a-binary-tree-by-level) | [Solution](problems/2471_minimum-number-of-operations-to-sort-a-binary-tree-by-level.py) |
 | 2490 | [Circular Sentence](https://leetcode.com/problems/circular-sentence) | [Solution](problems/2490_circular-sentence.py) |
 | 2501 | [Longest Square Streak In An Array](https://leetcode.com/problems/longest-square-streak-in-an-array) | [Solution](problems/2501_longest-square-streak-in-an-array.py) |
+| 2523 | [Closest Prime Numbers In Range](https://leetcode.com/problems/closest-prime-numbers-in-range) | [Solution](problems/2523_closest-prime-numbers-in-range.py) |
 | 2530 | [Maximal Score After Applying K Operations](https://leetcode.com/problems/maximal-score-after-applying-k-operations) | [Solution](problems/2530_maximal-score-after-applying-k-operations.py) |
 | 2554 | [Maximum Number Of Integers To Choose From A Range I](https://leetcode.com/problems/maximum-number-of-integers-to-choose-from-a-range-i) | [Solution](problems/2554_maximum-number-of-integers-to-choose-from-a-range-i.py) |
 | 2558 | [Take Gifts From The Richest Pile](https://leetcode.com/problems/take-gifts-from-the-richest-pile) | [Solution](problems/2558_take-gifts-from-the-richest-pile.py) |
