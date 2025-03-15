@@ -2,7 +2,7 @@
 
 This repository contains my solutions to LeetCode problems using Python to solve. I will be solving at least one problem every day.
 
-## Solved Problems (Total: 295)
+## Solved Problems (Total: 297)
 | # | Problem | Solution |
 |---|---------|----------|
 | 0001 | [Two Sum](https://leetcode.com/problems/two-sum) | [Solution](problems/0001_two-sum.py) |
@@ -300,3 +300,5 @@ This repository contains my solutions to LeetCode problems using Python to solve
 | 3306 | [Count Of Substrings Containing Every Vowel And K Consonants Ii](https://leetcode.com/problems/count-of-substrings-containing-every-vowel-and-k-consonants-ii) | [Solution](problems/3306_count-of-substrings-containing-every-vowel-and-k-consonants-ii.py) |
 | 3355 | [Zero Array Transformation I](https://leetcode.com/problems/zero-array-transformation-i) | [Solution](problems/3355_zero-array-transformation-i.py) |
 | 3356 | [Zero Array Transformation Ii](https://leetcode.com/problems/zero-array-transformation-ii) | [Solution](problems/3356_zero-array-transformation-ii.py) |
+| 3483 | [Unique 3 Digit Even Numbers](https://leetcode.com/problems/unique-3-digit-even-numbers) | [Solution](problems/3483_unique-3-digit-even-numbers.py) |
+| 3484 | [Design Spreadsheet](https://leetcode.com/problems/design-spreadsheet) | [Solution](problems/3484_design-spreadsheet.py) |
