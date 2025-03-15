@@ -2,7 +2,7 @@
 
 This repository contains my solutions to LeetCode problems using Python to solve. I will be solving at least one problem every day.
 
-## Solved Problems (Total: 292)
+## Solved Problems (Total: 295)
 | # | Problem | Solution |
 |---|---------|----------|
 | 0001 | [Two Sum](https://leetcode.com/problems/two-sum) | [Solution](problems/0001_two-sum.py) |
@@ -199,6 +199,7 @@ This repository contains my solutions to LeetCode problems using Python to solve
 | 1752 | [Check If Array Is Sorted And Rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated) | [Solution](problems/1752_check-if-array-is-sorted-and-rotated.py) |
 | 1760 | [Minimum Limit Of Balls In A Bag](https://leetcode.com/problems/minimum-limit-of-balls-in-a-bag) | [Solution](problems/1760_minimum-limit-of-balls-in-a-bag.py) |
 | 1765 | [Map Of Highest Peak](https://leetcode.com/problems/map-of-highest-peak) | [Solution](problems/1765_map-of-highest-peak.py) |
+| 1768 | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately) | [Solution](problems/1768_merge-strings-alternately.py) |
 | 1769 | [Minimum Number Of Operations To Move All Balls To Each Box](https://leetcode.com/problems/minimum-number-of-operations-to-move-all-balls-to-each-box) | [Solution](problems/1769_minimum-number-of-operations-to-move-all-balls-to-each-box.py) |
 | 1780 | [Check If Number Is A Sum Of Powers Of Three](https://leetcode.com/problems/check-if-number-is-a-sum-of-powers-of-three) | [Solution](problems/1780_check-if-number-is-a-sum-of-powers-of-three.py) |
 | 1790 | [Check If One String Swap Can Make Strings Equal](https://leetcode.com/problems/check-if-one-string-swap-can-make-strings-equal) | [Solution](problems/1790_check-if-one-string-swap-can-make-strings-equal.py) |
@@ -228,6 +229,7 @@ This repository contains my solutions to LeetCode problems using Python to solve
 | 2161 | [Partition Array According To Given Pivot](https://leetcode.com/problems/partition-array-according-to-given-pivot) | [Solution](problems/2161_partition-array-according-to-given-pivot.py) |
 | 2182 | [Construct String With Repeat Limit](https://leetcode.com/problems/construct-string-with-repeat-limit) | [Solution](problems/2182_construct-string-with-repeat-limit.py) |
 | 2185 | [Counting Words With A Given Prefix](https://leetcode.com/problems/counting-words-with-a-given-prefix) | [Solution](problems/2185_counting-words-with-a-given-prefix.py) |
+| 2226 | [Maximum Candies Allocated To K Children](https://leetcode.com/problems/maximum-candies-allocated-to-k-children) | [Solution](problems/2226_maximum-candies-allocated-to-k-children.py) |
 | 2257 | [Count Unguarded Cells In The Grid](https://leetcode.com/problems/count-unguarded-cells-in-the-grid) | [Solution](problems/2257_count-unguarded-cells-in-the-grid.py) |
 | 2260 | [Number Of Ways To Split Array](https://leetcode.com/problems/number-of-ways-to-split-array) | [Solution](problems/2260_number-of-ways-to-split-array.py) |
 | 2275 | [Largest Combination With Bitwise And Greater Than Zero](https://leetcode.com/problems/largest-combination-with-bitwise-and-greater-than-zero) | [Solution](problems/2275_largest-combination-with-bitwise-and-greater-than-zero.py) |
@@ -257,6 +259,7 @@ This repository contains my solutions to LeetCode problems using Python to solve
 | 2558 | [Take Gifts From The Richest Pile](https://leetcode.com/problems/take-gifts-from-the-richest-pile) | [Solution](problems/2558_take-gifts-from-the-richest-pile.py) |
 | 2559 | [Count Vowel Strings In Ranges](https://leetcode.com/problems/count-vowel-strings-in-ranges) | [Solution](problems/2559_count-vowel-strings-in-ranges.py) |
 | 2560 | [Apply Operations To An Array](https://leetcode.com/problems/apply-operations-to-an-array) | [Solution](problems/2560_apply-operations-to-an-array.py) |
+| 2560 | [House Robber Iv](https://leetcode.com/problems/house-robber-iv) | [Solution](problems/2560_house-robber-iv.py) |
 | 2561 | [Take K Of Each Character From Left And Right](https://leetcode.com/problems/take-k-of-each-character-from-left-and-right) | [Solution](problems/2561_take-k-of-each-character-from-left-and-right.py) |
 | 2563 | [Count The Number Of Fair Pairs](https://leetcode.com/problems/count-the-number-of-fair-pairs) | [Solution](problems/2563_count-the-number-of-fair-pairs.py) |
 | 2570 | [Merge Two 2D Arrays By Summing Values](https://leetcode.com/problems/merge-two-2d-arrays-by-summing-values) | [Solution](problems/2570_merge-two-2d-arrays-by-summing-values.py) |

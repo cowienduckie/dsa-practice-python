@@ -11,21 +11,25 @@ class TreeNode:
 
 class Solution:
     def rightSideView(self, root: Optional[TreeNode]) -> List[int]:
+        # Base cases
         if not root:
             return []
 
-        # Using BFS to record right-most node of each level
+        # Use BFS to find the rightmost node at each level
         queue = deque([root])
         ans = []
 
         while queue:
-            node = None
+            # Add the rightmost node's value into answer
+            ans.append(queue[-1].val)
+
+            # Pop all current level's nodes and add their children
             for _ in range(len(queue)):
                 node = queue.popleft()
+                # Append children if they are not null
                 if node.left:
                     queue.append(node.left)
                 if node.right:
                     queue.append(node.right)
-            ans.append(node.val)
 
         return ans
