@@ -2,7 +2,7 @@
 
 This repository contains my solutions to LeetCode problems using Python to solve. I will be solving at least one problem every day.
 
-## Solved Problems (Total: 297)
+## Solved Problems (Total: 298)
 | # | Problem | Solution |
 |---|---------|----------|
 | 0001 | [Two Sum](https://leetcode.com/problems/two-sum) | [Solution](problems/0001_two-sum.py) |
@@ -266,6 +266,7 @@ This repository contains my solutions to LeetCode problems using Python to solve
 | 2579 | [Count Total Number Of Colored Cells](https://leetcode.com/problems/count-total-number-of-colored-cells) | [Solution](problems/2579_count-total-number-of-colored-cells.py) |
 | 2583 | [Kth Largest Sum In A Binary Tree](https://leetcode.com/problems/kth-largest-sum-in-a-binary-tree) | [Solution](problems/2583_kth-largest-sum-in-a-binary-tree.py) |
 | 2593 | [Find Score Of An Array After Marking All Elements](https://leetcode.com/problems/find-score-of-an-array-after-marking-all-elements) | [Solution](problems/2593_find-score-of-an-array-after-marking-all-elements.py) |
+| 2594 | [Minimum Time To Repair Cars](https://leetcode.com/problems/minimum-time-to-repair-cars) | [Solution](problems/2594_minimum-time-to-repair-cars.py) |
 | 2601 | [Prime Subtraction Operation](https://leetcode.com/problems/prime-subtraction-operation) | [Solution](problems/2601_prime-subtraction-operation.py) |
 | 2641 | [Cousins In Binary Tree Ii](https://leetcode.com/problems/cousins-in-binary-tree-ii) | [Solution](problems/2641_cousins-in-binary-tree-ii.py) |
 | 2657 | [Find The Prefix Common Array Of Two Arrays](https://leetcode.com/problems/find-the-prefix-common-array-of-two-arrays) | [Solution](problems/2657_find-the-prefix-common-array-of-two-arrays.py) |
