@@ -2,7 +2,7 @@
 
 This repository contains my solutions to LeetCode problems using Python to solve. I will be solving at least one problem every day.
 
-## Solved Problems (Total: 298)
+## Solved Problems (Total: 302)
 | # | Problem | Solution |
 |---|---------|----------|
 | 0001 | [Two Sum](https://leetcode.com/problems/two-sum) | [Solution](problems/0001_two-sum.py) |
@@ -229,6 +229,7 @@ This repository contains my solutions to LeetCode problems using Python to solve
 | 2161 | [Partition Array According To Given Pivot](https://leetcode.com/problems/partition-array-according-to-given-pivot) | [Solution](problems/2161_partition-array-according-to-given-pivot.py) |
 | 2182 | [Construct String With Repeat Limit](https://leetcode.com/problems/construct-string-with-repeat-limit) | [Solution](problems/2182_construct-string-with-repeat-limit.py) |
 | 2185 | [Counting Words With A Given Prefix](https://leetcode.com/problems/counting-words-with-a-given-prefix) | [Solution](problems/2185_counting-words-with-a-given-prefix.py) |
+| 2206 | [Divide Array Into Equal Pairs](https://leetcode.com/problems/divide-array-into-equal-pairs) | [Solution](problems/2206_divide-array-into-equal-pairs.py) |
 | 2226 | [Maximum Candies Allocated To K Children](https://leetcode.com/problems/maximum-candies-allocated-to-k-children) | [Solution](problems/2226_maximum-candies-allocated-to-k-children.py) |
 | 2257 | [Count Unguarded Cells In The Grid](https://leetcode.com/problems/count-unguarded-cells-in-the-grid) | [Solution](problems/2257_count-unguarded-cells-in-the-grid.py) |
 | 2260 | [Number Of Ways To Split Array](https://leetcode.com/problems/number-of-ways-to-split-array) | [Solution](problems/2260_number-of-ways-to-split-array.py) |
@@ -303,3 +304,6 @@ This repository contains my solutions to LeetCode problems using Python to solve
 | 3356 | [Zero Array Transformation Ii](https://leetcode.com/problems/zero-array-transformation-ii) | [Solution](problems/3356_zero-array-transformation-ii.py) |
 | 3483 | [Unique 3 Digit Even Numbers](https://leetcode.com/problems/unique-3-digit-even-numbers) | [Solution](problems/3483_unique-3-digit-even-numbers.py) |
 | 3484 | [Design Spreadsheet](https://leetcode.com/problems/design-spreadsheet) | [Solution](problems/3484_design-spreadsheet.py) |
+| 3487 | [Maximum Unique Subarray Sum After Deletion](https://leetcode.com/problems/maximum-unique-subarray-sum-after-deletion) | [Solution](problems/3487_maximum-unique-subarray-sum-after-deletion.py) |
+| 3488 | [Closest Equal Element Queries](https://leetcode.com/problems/closest-equal-element-queries) | [Solution](problems/3488_closest-equal-element-queries.py) |
+| 3498 | [Zero Array Transformation Iv](https://leetcode.com/problems/zero-array-transformation-iv) | [Solution](problems/3498_zero-array-transformation-iv.py) |
