@@ -2,7 +2,7 @@
 
 This repository contains my solutions to LeetCode problems using Python to solve. I will be solving at least one problem every day.
 
-## Solved Problems (Total: 306)
+## Solved Problems (Total: 307)
 | # | Problem | Solution |
 |---|---------|----------|
 | 0001 | [Two Sum](https://leetcode.com/problems/two-sum) | [Solution](problems/0001_two-sum.py) |
@@ -214,6 +214,7 @@ This repository contains my solutions to LeetCode problems using Python to solve
 | 1945 | [Sum Of Digits Of String After Convert](https://leetcode.com/problems/sum-of-digits-of-string-after-convert) | [Solution](problems/1945_sum-of-digits-of-string-after-convert.py) |
 | 1957 | [Delete Characters To Make Fancy String](https://leetcode.com/problems/delete-characters-to-make-fancy-string) | [Solution](problems/1957_delete-characters-to-make-fancy-string.py) |
 | 1963 | [Minimum Number Of Swaps To Make The String Balanced](https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-string-balanced) | [Solution](problems/1963_minimum-number-of-swaps-to-make-the-string-balanced.py) |
+| 1967 | [Number Of Ways To Arrive At Destination](https://leetcode.com/problems/number-of-ways-to-arrive-at-destination) | [Solution](problems/1967_number-of-ways-to-arrive-at-destination.py) |
 | 1975 | [Maximum Matrix Sum](https://leetcode.com/problems/maximum-matrix-sum) | [Solution](problems/1975_maximum-matrix-sum.py) |
 | 1980 | [Find Unique Binary String](https://leetcode.com/problems/find-unique-binary-string) | [Solution](problems/1980_find-unique-binary-string.py) |
 | 2017 | [Grid Game](https://leetcode.com/problems/grid-game) | [Solution](problems/2017_grid-game.py) |
