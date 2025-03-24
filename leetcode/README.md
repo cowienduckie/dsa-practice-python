@@ -2,7 +2,7 @@
 
 This repository contains my solutions to LeetCode problems using Python to solve. I will be solving at least one problem every day.
 
-## Solved Problems (Total: 307)
+## Solved Problems (Total: 308)
 | # | Problem | Solution |
 |---|---------|----------|
 | 0001 | [Two Sum](https://leetcode.com/problems/two-sum) | [Solution](problems/0001_two-sum.py) |
@@ -297,6 +297,7 @@ This repository contains my solutions to LeetCode problems using Python to solve
 | 3152 | [Special Array Ii](https://leetcode.com/problems/special-array-ii) | [Solution](problems/3152_special-array-ii.py) |
 | 3160 | [Find The Number Of Distinct Colors Among The Balls](https://leetcode.com/problems/find-the-number-of-distinct-colors-among-the-balls) | [Solution](problems/3160_find-the-number-of-distinct-colors-among-the-balls.py) |
 | 3163 | [String Compression Iii](https://leetcode.com/problems/string-compression-iii) | [Solution](problems/3163_string-compression-iii.py) |
+| 3169 | [Count Days Without Meetings](https://leetcode.com/problems/count-days-without-meetings) | [Solution](problems/3169_count-days-without-meetings.py) |
 | 3174 | [Clear Digits](https://leetcode.com/problems/clear-digits) | [Solution](problems/3174_clear-digits.py) |
 | 3191 | [Minimum Operations To Make Binary Array Elements Equal To One I](https://leetcode.com/problems/minimum-operations-to-make-binary-array-elements-equal-to-one-i) | [Solution](problems/3191_minimum-operations-to-make-binary-array-elements-equal-to-one-i.py) |
 | 3208 | [Alternating Groups Ii](https://leetcode.com/problems/alternating-groups-ii) | [Solution](problems/3208_alternating-groups-ii.py) |
