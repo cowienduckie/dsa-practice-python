@@ -2,7 +2,7 @@
 
 This repository contains my solutions to LeetCode problems using Python to solve. I will be solving at least one problem every day.
 
-## Solved Problems (Total: 309)
+## Solved Problems (Total: 310)
 | # | Problem | Solution |
 |---|---------|----------|
 | 0001 | [Two Sum](https://leetcode.com/problems/two-sum) | [Solution](problems/0001_two-sum.py) |
@@ -220,6 +220,7 @@ This repository contains my solutions to LeetCode problems using Python to solve
 | 2017 | [Grid Game](https://leetcode.com/problems/grid-game) | [Solution](problems/2017_grid-game.py) |
 | 2022 | [Convert 1D Array Into 2D Array](https://leetcode.com/problems/convert-1d-array-into-2d-array) | [Solution](problems/2022_convert-1d-array-into-2d-array.py) |
 | 2028 | [Find Missing Observations](https://leetcode.com/problems/find-missing-observations) | [Solution](problems/2028_find-missing-observations.py) |
+| 2033 | [Minimum Operations To Make A Uni Value Grid](https://leetcode.com/problems/minimum-operations-to-make-a-uni-value-grid) | [Solution](problems/2033_minimum-operations-to-make-a-uni-value-grid.py) |
 | 2044 | [Count Number Of Maximum Bitwise Or Subsets](https://leetcode.com/problems/count-number-of-maximum-bitwise-or-subsets) | [Solution](problems/2044_count-number-of-maximum-bitwise-or-subsets.py) |
 | 2054 | [Two Best Non Overlapping Events](https://leetcode.com/problems/two-best-non-overlapping-events) | [Solution](problems/2054_two-best-non-overlapping-events.py) |
 | 2064 | [Minimized Maximum Of Products Distributed To Any Store](https://leetcode.com/problems/minimized-maximum-of-products-distributed-to-any-store) | [Solution](problems/2064_minimized-maximum-of-products-distributed-to-any-store.py) |
