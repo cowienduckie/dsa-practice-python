@@ -2,7 +2,7 @@
 
 This repository contains my solutions to LeetCode problems using Python to solve. I will be solving at least one problem every day.
 
-## Solved Problems (Total: 310)
+## Solved Problems (Total: 311)
 | # | Problem | Solution |
 |---|---------|----------|
 | 0001 | [Two Sum](https://leetcode.com/problems/two-sum) | [Solution](problems/0001_two-sum.py) |
@@ -282,6 +282,7 @@ This repository contains my solutions to LeetCode problems using Python to solve
 | 2696 | [Minimum String Length After Removing Substrings](https://leetcode.com/problems/minimum-string-length-after-removing-substrings) | [Solution](problems/2696_minimum-string-length-after-removing-substrings.py) |
 | 2698 | [Find The Punishment Number Of An Integer](https://leetcode.com/problems/find-the-punishment-number-of-an-integer) | [Solution](problems/2698_find-the-punishment-number-of-an-integer.py) |
 | 2779 | [Maximum Beauty Of An Array After Applying Operation](https://leetcode.com/problems/maximum-beauty-of-an-array-after-applying-operation) | [Solution](problems/2779_maximum-beauty-of-an-array-after-applying-operation.py) |
+| 2780 | [Minimum Index Of A Valid Split](https://leetcode.com/problems/minimum-index-of-a-valid-split) | [Solution](problems/2780_minimum-index-of-a-valid-split.py) |
 | 2825 | [Make String A Subsequence Using Cyclic Increments](https://leetcode.com/problems/make-string-a-subsequence-using-cyclic-increments) | [Solution](problems/2825_make-string-a-subsequence-using-cyclic-increments.py) |
 | 2914 | [Minimum Number Of Changes To Make Binary String Beautiful](https://leetcode.com/problems/minimum-number-of-changes-to-make-binary-string-beautiful) | [Solution](problems/2914_minimum-number-of-changes-to-make-binary-string-beautiful.py) |
 | 2924 | [Find Champion Ii](https://leetcode.com/problems/find-champion-ii) | [Solution](problems/2924_find-champion-ii.py) |
