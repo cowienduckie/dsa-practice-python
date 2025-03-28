@@ -2,7 +2,7 @@
 
 This repository contains my solutions to LeetCode problems using Python to solve. I will be solving at least one problem every day.
 
-## Solved Problems (Total: 311)
+## Solved Problems (Total: 312)
 | # | Problem | Solution |
 |---|---------|----------|
 | 0001 | [Two Sum](https://leetcode.com/problems/two-sum) | [Solution](problems/0001_two-sum.py) |
@@ -257,6 +257,7 @@ This repository contains my solutions to LeetCode problems using Python to solve
 | 2471 | [Minimum Number Of Operations To Sort A Binary Tree By Level](https://leetcode.com/problems/minimum-number-of-operations-to-sort-a-binary-tree-by-level) | [Solution](problems/2471_minimum-number-of-operations-to-sort-a-binary-tree-by-level.py) |
 | 2490 | [Circular Sentence](https://leetcode.com/problems/circular-sentence) | [Solution](problems/2490_circular-sentence.py) |
 | 2501 | [Longest Square Streak In An Array](https://leetcode.com/problems/longest-square-streak-in-an-array) | [Solution](problems/2501_longest-square-streak-in-an-array.py) |
+| 2503 | [Maximum Number Of Points From Grid Queries](https://leetcode.com/problems/maximum-number-of-points-from-grid-queries) | [Solution](problems/2503_maximum-number-of-points-from-grid-queries.py) |
 | 2523 | [Closest Prime Numbers In Range](https://leetcode.com/problems/closest-prime-numbers-in-range) | [Solution](problems/2523_closest-prime-numbers-in-range.py) |
 | 2529 | [Maximum Count Of Positive Integer And Negative Integer](https://leetcode.com/problems/maximum-count-of-positive-integer-and-negative-integer) | [Solution](problems/2529_maximum-count-of-positive-integer-and-negative-integer.py) |
 | 2530 | [Maximal Score After Applying K Operations](https://leetcode.com/problems/maximal-score-after-applying-k-operations) | [Solution](problems/2530_maximal-score-after-applying-k-operations.py) |
