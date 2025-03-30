@@ -2,7 +2,7 @@
 
 This repository contains my solutions to LeetCode problems using Python to solve. I will be solving at least one problem every day.
 
-## Solved Problems (Total: 312)
+## Solved Problems (Total: 313)
 | # | Problem | Solution |
 |---|---------|----------|
 | 0001 | [Two Sum](https://leetcode.com/problems/two-sum) | [Solution](problems/0001_two-sum.py) |
@@ -142,6 +142,7 @@ This repository contains my solutions to LeetCode problems using Python to solve
 | 0733 | [Flood Fill](https://leetcode.com/problems/flood-fill) | [Solution](problems/0733_flood-fill.py) |
 | 0735 | [Asteroid Collision](https://leetcode.com/problems/asteroid-collision) | [Solution](problems/0735_asteroid-collision.py) |
 | 0739 | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures) | [Solution](problems/0739_daily-temperatures.py) |
+| 0763 | [Partition Labels](https://leetcode.com/problems/partition-labels) | [Solution](problems/0763_partition-labels.py) |
 | 0769 | [Max Chunks To Make Sorted](https://leetcode.com/problems/max-chunks-to-make-sorted) | [Solution](problems/0769_max-chunks-to-make-sorted.py) |
 | 0773 | [Sliding Puzzle](https://leetcode.com/problems/sliding-puzzle) | [Solution](problems/0773_sliding-puzzle.py) |
 | 0796 | [Rotate String](https://leetcode.com/problems/rotate-string) | [Solution](problems/0796_rotate-string.py) |
