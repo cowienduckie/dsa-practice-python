@@ -2,7 +2,7 @@
 
 This repository contains my solutions to LeetCode problems using Python to solve. I will be solving at least one problem every day.
 
-## Solved Problems (Total: 315)
+## Solved Problems (Total: 318)
 | # | Problem | Solution |
 |---|---------|----------|
 | 0001 | [Two Sum](https://leetcode.com/problems/two-sum) | [Solution](problems/0001_two-sum.py) |
@@ -168,6 +168,7 @@ This repository contains my solutions to LeetCode problems using Python to solve
 | 1072 | [Flip Columns For Maximum Number Of Equal Rows](https://leetcode.com/problems/flip-columns-for-maximum-number-of-equal-rows) | [Solution](problems/1072_flip-columns-for-maximum-number-of-equal-rows.py) |
 | 1079 | [Letter Tile Possibilities](https://leetcode.com/problems/letter-tile-possibilities) | [Solution](problems/1079_letter-tile-possibilities.py) |
 | 1106 | [Parsing A Boolean Expression](https://leetcode.com/problems/parsing-a-boolean-expression) | [Solution](problems/1106_parsing-a-boolean-expression.py) |
+| 1123 | [Lowest Common Ancestor Of Deepest Leaves](https://leetcode.com/problems/lowest-common-ancestor-of-deepest-leaves) | [Solution](problems/1123_lowest-common-ancestor-of-deepest-leaves.py) |
 | 1143 | [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence) | [Solution](problems/1143_longest-common-subsequence.py) |
 | 1233 | [Remove Sub Folders From The Filesystem](https://leetcode.com/problems/remove-sub-folders-from-the-filesystem) | [Solution](problems/1233_remove-sub-folders-from-the-filesystem.py) |
 | 1235 | [Maximum Profit In Job Scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling) | [Solution](problems/1235_maximum-profit-in-job-scheduling.py) |
@@ -288,6 +289,8 @@ This repository contains my solutions to LeetCode problems using Python to solve
 | 2779 | [Maximum Beauty Of An Array After Applying Operation](https://leetcode.com/problems/maximum-beauty-of-an-array-after-applying-operation) | [Solution](problems/2779_maximum-beauty-of-an-array-after-applying-operation.py) |
 | 2780 | [Minimum Index Of A Valid Split](https://leetcode.com/problems/minimum-index-of-a-valid-split) | [Solution](problems/2780_minimum-index-of-a-valid-split.py) |
 | 2825 | [Make String A Subsequence Using Cyclic Increments](https://leetcode.com/problems/make-string-a-subsequence-using-cyclic-increments) | [Solution](problems/2825_make-string-a-subsequence-using-cyclic-increments.py) |
+| 2873 | [Maximum Value Of An Ordered Triplet I](https://leetcode.com/problems/maximum-value-of-an-ordered-triplet-i) | [Solution](problems/2873_maximum-value-of-an-ordered-triplet-i.py) |
+| 2874 | [Maximum Value Of An Ordered Triplet Ii](https://leetcode.com/problems/maximum-value-of-an-ordered-triplet-ii) | [Solution](problems/2874_maximum-value-of-an-ordered-triplet-ii.py) |
 | 2914 | [Minimum Number Of Changes To Make Binary String Beautiful](https://leetcode.com/problems/minimum-number-of-changes-to-make-binary-string-beautiful) | [Solution](problems/2914_minimum-number-of-changes-to-make-binary-string-beautiful.py) |
 | 2924 | [Find Champion Ii](https://leetcode.com/problems/find-champion-ii) | [Solution](problems/2924_find-champion-ii.py) |
 | 2938 | [Separate Black And White Balls](https://leetcode.com/problems/separate-black-and-white-balls) | [Solution](problems/2938_separate-black-and-white-balls.py) |
