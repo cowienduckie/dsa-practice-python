@@ -2,7 +2,7 @@
 
 This repository contains my solutions to LeetCode problems using Python to solve. I will be solving at least one problem every day.
 
-## Solved Problems (Total: 318)
+## Solved Problems (Total: 319)
 | # | Problem | Solution |
 |---|---------|----------|
 | 0001 | [Two Sum](https://leetcode.com/problems/two-sum) | [Solution](problems/0001_two-sum.py) |
@@ -208,6 +208,7 @@ This repository contains my solutions to LeetCode problems using Python to solve
 | 1800 | [Maximum Ascending Subarray Sum](https://leetcode.com/problems/maximum-ascending-subarray-sum) | [Solution](problems/1800_maximum-ascending-subarray-sum.py) |
 | 1829 | [Maximum Xor For Each Query](https://leetcode.com/problems/maximum-xor-for-each-query) | [Solution](problems/1829_maximum-xor-for-each-query.py) |
 | 1861 | [Rotating The Box](https://leetcode.com/problems/rotating-the-box) | [Solution](problems/1861_rotating-the-box.py) |
+| 1863 | [Sum Of All Subset Xor Totals](https://leetcode.com/problems/sum-of-all-subset-xor-totals) | [Solution](problems/1863_sum-of-all-subset-xor-totals.py) |
 | 1894 | [Find The Student That Will Replace The Chalk](https://leetcode.com/problems/find-the-student-that-will-replace-the-chalk) | [Solution](problems/1894_find-the-student-that-will-replace-the-chalk.py) |
 | 1905 | [Count Sub Islands](https://leetcode.com/problems/count-sub-islands) | [Solution](problems/1905_count-sub-islands.py) |
 | 1910 | [Remove All Occurrences Of A Substring](https://leetcode.com/problems/remove-all-occurrences-of-a-substring) | [Solution](problems/1910_remove-all-occurrences-of-a-substring.py) |
