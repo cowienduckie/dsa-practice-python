@@ -32,21 +32,28 @@ class Solution:
         return dp[arr_sum // 2]
 
 
-class Solution2:
-    """
-    Optimized version using set and try to add the current element to all the sums we have seen so far.
-    """
-
+class Solution:
     def canPartition(self, nums: List[int]) -> bool:
+        # Compute the sum of the array
         arr_sum = sum(nums)
+
+        # If the sum is odd, we cannot partition it into two equal subsets
         if arr_sum & 1:
             return False
 
-        dp = set([0])
+        # Use a set to store the sums we can achieve
+        possible_sums = {0}
         for num in nums:
-            dp |= {num + x for x in dp}
-
-        return arr_sum // 2 in dp
+            # For each number, compute the new sums we can achieve
+            new_sums = {
+                ps + num for ps in possible_sums if ps + num not in possible_sums
+            }
+            # Early exit if we can achieve half of the total sum
+            if arr_sum // 2 in new_sums:
+                return True
+            # Update the set of possible sums
+            possible_sums.update(new_sums)
+        return False
 
 
 print(Solution().canPartition([1, 2, 5]))
