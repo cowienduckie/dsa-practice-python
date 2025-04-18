@@ -2,7 +2,7 @@
 
 This repository contains my solutions to LeetCode problems using Python to solve. I will be solving at least one problem every day.
 
-## Solved Problems (Total: 324)
+## Solved Problems (Total: 325)
 | # | Problem | Solution |
 |---|---------|----------|
 | 0001 | [Two Sum](https://leetcode.com/problems/two-sum) | [Solution](problems/0001_two-sum.py) |
@@ -236,6 +236,7 @@ This repository contains my solutions to LeetCode problems using Python to solve
 | 2116 | [Check If A Parentheses String Can Be Valid](https://leetcode.com/problems/check-if-a-parentheses-string-can-be-valid) | [Solution](problems/2116_check-if-a-parentheses-string-can-be-valid.py) |
 | 2140 | [Solving Questions With Brainpower](https://leetcode.com/problems/solving-questions-with-brainpower) | [Solution](problems/2140_solving-questions-with-brainpower.py) |
 | 2161 | [Partition Array According To Given Pivot](https://leetcode.com/problems/partition-array-according-to-given-pivot) | [Solution](problems/2161_partition-array-according-to-given-pivot.py) |
+| 2179 | [Count Good Triplets In An Array](https://leetcode.com/problems/count-good-triplets-in-an-array) | [Solution](problems/2179_count-good-triplets-in-an-array.py) |
 | 2182 | [Construct String With Repeat Limit](https://leetcode.com/problems/construct-string-with-repeat-limit) | [Solution](problems/2182_construct-string-with-repeat-limit.py) |
 | 2185 | [Counting Words With A Given Prefix](https://leetcode.com/problems/counting-words-with-a-given-prefix) | [Solution](problems/2185_counting-words-with-a-given-prefix.py) |
 | 2206 | [Divide Array Into Equal Pairs](https://leetcode.com/problems/divide-array-into-equal-pairs) | [Solution](problems/2206_divide-array-into-equal-pairs.py) |
