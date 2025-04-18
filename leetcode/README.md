@@ -2,7 +2,7 @@
 
 This repository contains my solutions to LeetCode problems using Python to solve. I will be solving at least one problem every day.
 
-## Solved Problems (Total: 327)
+## Solved Problems (Total: 328)
 | # | Problem | Solution |
 |---|---------|----------|
 | 0001 | [Two Sum](https://leetcode.com/problems/two-sum) | [Solution](problems/0001_two-sum.py) |
@@ -22,6 +22,7 @@ This repository contains my solutions to LeetCode problems using Python to solve
 | 0033 | [Search In Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array) | [Solution](problems/0033_search-in-rotated-sorted-array.py) |
 | 0036 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku) | [Solution](problems/0036_valid-sudoku.py) |
 | 0037 | [Sudoku_Solver](https://leetcode.com/problems/sudoku_solver) | [Solution](problems/0037_sudoku_solver.py) |
+| 0038 | [Count And Say](https://leetcode.com/problems/count-and-say) | [Solution](problems/0038_count-and-say.py) |
 | 0039 | [Combination Sum](https://leetcode.com/problems/combination-sum) | [Solution](problems/0039_combination-sum.py) |
 | 0040 | [Combination Sum Ii](https://leetcode.com/problems/combination-sum-ii) | [Solution](problems/0040_combination-sum-ii.py) |
 | 0041 | [First Missing Positive](https://leetcode.com/problems/first-missing-positive) | [Solution](problems/0041_first-missing-positive.py) |
