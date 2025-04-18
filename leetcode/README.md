@@ -2,7 +2,7 @@
 
 This repository contains my solutions to LeetCode problems using Python to solve. I will be solving at least one problem every day.
 
-## Solved Problems (Total: 322)
+## Solved Problems (Total: 323)
 | # | Problem | Solution |
 |---|---------|----------|
 | 0001 | [Two Sum](https://leetcode.com/problems/two-sum) | [Solution](problems/0001_two-sum.py) |
@@ -291,6 +291,7 @@ This repository contains my solutions to LeetCode problems using Python to solve
 | 2779 | [Maximum Beauty Of An Array After Applying Operation](https://leetcode.com/problems/maximum-beauty-of-an-array-after-applying-operation) | [Solution](problems/2779_maximum-beauty-of-an-array-after-applying-operation.py) |
 | 2780 | [Minimum Index Of A Valid Split](https://leetcode.com/problems/minimum-index-of-a-valid-split) | [Solution](problems/2780_minimum-index-of-a-valid-split.py) |
 | 2825 | [Make String A Subsequence Using Cyclic Increments](https://leetcode.com/problems/make-string-a-subsequence-using-cyclic-increments) | [Solution](problems/2825_make-string-a-subsequence-using-cyclic-increments.py) |
+| 2843 | [Count Symmetric Integers](https://leetcode.com/problems/count-symmetric-integers) | [Solution](problems/2843_count-symmetric-integers.py) |
 | 2873 | [Maximum Value Of An Ordered Triplet I](https://leetcode.com/problems/maximum-value-of-an-ordered-triplet-i) | [Solution](problems/2873_maximum-value-of-an-ordered-triplet-i.py) |
 | 2874 | [Maximum Value Of An Ordered Triplet Ii](https://leetcode.com/problems/maximum-value-of-an-ordered-triplet-ii) | [Solution](problems/2874_maximum-value-of-an-ordered-triplet-ii.py) |
 | 2914 | [Minimum Number Of Changes To Make Binary String Beautiful](https://leetcode.com/problems/minimum-number-of-changes-to-make-binary-string-beautiful) | [Solution](problems/2914_minimum-number-of-changes-to-make-binary-string-beautiful.py) |
