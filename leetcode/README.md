@@ -2,7 +2,7 @@
 
 This repository contains my solutions to LeetCode problems using Python to solve. I will be solving at least one problem every day.
 
-## Solved Problems (Total: 328)
+## Solved Problems (Total: 329)
 | # | Problem | Solution |
 |---|---------|----------|
 | 0001 | [Two Sum](https://leetcode.com/problems/two-sum) | [Solution](problems/0001_two-sum.py) |
@@ -147,6 +147,7 @@ This repository contains my solutions to LeetCode problems using Python to solve
 | 0763 | [Partition Labels](https://leetcode.com/problems/partition-labels) | [Solution](problems/0763_partition-labels.py) |
 | 0769 | [Max Chunks To Make Sorted](https://leetcode.com/problems/max-chunks-to-make-sorted) | [Solution](problems/0769_max-chunks-to-make-sorted.py) |
 | 0773 | [Sliding Puzzle](https://leetcode.com/problems/sliding-puzzle) | [Solution](problems/0773_sliding-puzzle.py) |
+| 0781 | [Rabbits In Forest](https://leetcode.com/problems/rabbits-in-forest) | [Solution](problems/0781_rabbits-in-forest.py) |
 | 0796 | [Rotate String](https://leetcode.com/problems/rotate-string) | [Solution](problems/0796_rotate-string.py) |
 | 0802 | [Find Eventual Safe States](https://leetcode.com/problems/find-eventual-safe-states) | [Solution](problems/0802_find-eventual-safe-states.py) |
 | 0827 | [Making A Large Island](https://leetcode.com/problems/making-a-large-island) | [Solution](problems/0827_making-a-large-island.py) |
