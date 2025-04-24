@@ -2,7 +2,7 @@
 
 This repository contains my solutions to LeetCode problems using Python to solve. I will be solving at least one problem every day.
 
-## Solved Problems (Total: 330)
+## Solved Problems (Total: 331)
 | # | Problem | Solution |
 |---|---------|----------|
 | 0001 | [Two Sum](https://leetcode.com/problems/two-sum) | [Solution](problems/0001_two-sum.py) |
@@ -183,6 +183,7 @@ This repository contains my solutions to LeetCode problems using Python to solve
 | 1352 | [Product Of The Last K Numbers](https://leetcode.com/problems/product-of-the-last-k-numbers) | [Solution](problems/1352_product-of-the-last-k-numbers.py) |
 | 1358 | [Number Of Substrings Containing All Three Characters](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters) | [Solution](problems/1358_number-of-substrings-containing-all-three-characters.py) |
 | 1371 | [Find The Longest Substring Containing Vowels In Even Counts](https://leetcode.com/problems/find-the-longest-substring-containing-vowels-in-even-counts) | [Solution](problems/1371_find-the-longest-substring-containing-vowels-in-even-counts.py) |
+| 1399 | [Count Largest Group](https://leetcode.com/problems/count-largest-group) | [Solution](problems/1399_count-largest-group.py) |
 | 1400 | [Construct K Palindrome Strings](https://leetcode.com/problems/construct-k-palindrome-strings) | [Solution](problems/1400_construct-k-palindrome-strings.py) |
 | 1405 | [Longest Happy String](https://leetcode.com/problems/longest-happy-string) | [Solution](problems/1405_longest-happy-string.py) |
 | 1408 | [String Matching In An Array](https://leetcode.com/problems/string-matching-in-an-array) | [Solution](problems/1408_string-matching-in-an-array.py) |
