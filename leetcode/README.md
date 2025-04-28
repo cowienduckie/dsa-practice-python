@@ -2,7 +2,7 @@
 
 This repository contains my solutions to LeetCode problems using Python to solve. I will be solving at least one problem every day.
 
-## Solved Problems (Total: 332)
+## Solved Problems (Total: 333)
 | # | Problem | Solution |
 |---|---------|----------|
 | 0001 | [Two Sum](https://leetcode.com/problems/two-sum) | [Solution](problems/0001_two-sum.py) |
@@ -330,6 +330,7 @@ This repository contains my solutions to LeetCode problems using Python to solve
 | 3355 | [Zero Array Transformation I](https://leetcode.com/problems/zero-array-transformation-i) | [Solution](problems/3355_zero-array-transformation-i.py) |
 | 3356 | [Zero Array Transformation Ii](https://leetcode.com/problems/zero-array-transformation-ii) | [Solution](problems/3356_zero-array-transformation-ii.py) |
 | 3375 | [Minimum Operations To Make Array Values Equal To K](https://leetcode.com/problems/minimum-operations-to-make-array-values-equal-to-k) | [Solution](problems/3375_minimum-operations-to-make-array-values-equal-to-k.py) |
+| 3392 | [Count Subarrays Of Length Three With A Condition](https://leetcode.com/problems/count-subarrays-of-length-three-with-a-condition) | [Solution](problems/3392_count-subarrays-of-length-three-with-a-condition.py) |
 | 3394 | [Check If Grid Can Be Cut Into Sections](https://leetcode.com/problems/check-if-grid-can-be-cut-into-sections) | [Solution](problems/3394_check-if-grid-can-be-cut-into-sections.py) |
 | 3396 | [Minimum Number Of Operations To Make Elements In Array Distinct](https://leetcode.com/problems/minimum-number-of-operations-to-make-elements-in-array-distinct) | [Solution](problems/3396_minimum-number-of-operations-to-make-elements-in-array-distinct.py) |
 | 3483 | [Unique 3 Digit Even Numbers](https://leetcode.com/problems/unique-3-digit-even-numbers) | [Solution](problems/3483_unique-3-digit-even-numbers.py) |
