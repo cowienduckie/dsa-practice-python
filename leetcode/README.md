@@ -2,7 +2,7 @@
 
 This repository contains my solutions to LeetCode problems using Python to solve. I will be solving at least one problem every day.
 
-## Solved Problems (Total: 335)
+## Solved Problems (Total: 336)
 | # | Problem | Solution |
 |---|---------|----------|
 | 0001 | [Two Sum](https://leetcode.com/problems/two-sum) | [Solution](problems/0001_two-sum.py) |
@@ -178,6 +178,7 @@ This repository contains my solutions to LeetCode problems using Python to solve
 | 1261 | [Find Elements In A Contaminated Binary Tree](https://leetcode.com/problems/find-elements-in-a-contaminated-binary-tree) | [Solution](problems/1261_find-elements-in-a-contaminated-binary-tree.py) |
 | 1267 | [Count Servers That Communicate](https://leetcode.com/problems/count-servers-that-communicate) | [Solution](problems/1267_count-servers-that-communicate.py) |
 | 1277 | [Count Square Submatrices With All Ones](https://leetcode.com/problems/count-square-submatrices-with-all-ones) | [Solution](problems/1277_count-square-submatrices-with-all-ones.py) |
+| 1295 | [Find Numbers With Even Number Of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits) | [Solution](problems/1295_find-numbers-with-even-number-of-digits.py) |
 | 1310 | [Xor Queries Of A Subarray](https://leetcode.com/problems/xor-queries-of-a-subarray) | [Solution](problems/1310_xor-queries-of-a-subarray.py) |
 | 1346 | [Check If N And Its Double Exist](https://leetcode.com/problems/check-if-n-and-its-double-exist) | [Solution](problems/1346_check-if-n-and-its-double-exist.py) |
 | 1352 | [Product Of The Last K Numbers](https://leetcode.com/problems/product-of-the-last-k-numbers) | [Solution](problems/1352_product-of-the-last-k-numbers.py) |
