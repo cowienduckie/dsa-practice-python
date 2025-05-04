@@ -2,7 +2,7 @@
 
 This repository contains my solutions to LeetCode problems using Python to solve. I will be solving at least one problem every day.
 
-## Solved Problems (Total: 338)
+## Solved Problems (Total: 339)
 | # | Problem | Solution |
 |---|---------|----------|
 | 0001 | [Two Sum](https://leetcode.com/problems/two-sum) | [Solution](problems/0001_two-sum.py) |
@@ -174,6 +174,7 @@ This repository contains my solutions to LeetCode problems using Python to solve
 | 1079 | [Letter Tile Possibilities](https://leetcode.com/problems/letter-tile-possibilities) | [Solution](problems/1079_letter-tile-possibilities.py) |
 | 1106 | [Parsing A Boolean Expression](https://leetcode.com/problems/parsing-a-boolean-expression) | [Solution](problems/1106_parsing-a-boolean-expression.py) |
 | 1123 | [Lowest Common Ancestor Of Deepest Leaves](https://leetcode.com/problems/lowest-common-ancestor-of-deepest-leaves) | [Solution](problems/1123_lowest-common-ancestor-of-deepest-leaves.py) |
+| 1128 | [Number Of Equivalent Domino Pairs](https://leetcode.com/problems/number-of-equivalent-domino-pairs) | [Solution](problems/1128_number-of-equivalent-domino-pairs.py) |
 | 1143 | [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence) | [Solution](problems/1143_longest-common-subsequence.py) |
 | 1233 | [Remove Sub Folders From The Filesystem](https://leetcode.com/problems/remove-sub-folders-from-the-filesystem) | [Solution](problems/1233_remove-sub-folders-from-the-filesystem.py) |
 | 1235 | [Maximum Profit In Job Scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling) | [Solution](problems/1235_maximum-profit-in-job-scheduling.py) |
