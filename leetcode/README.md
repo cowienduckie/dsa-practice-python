@@ -2,7 +2,7 @@
 
 This repository contains my solutions to LeetCode problems using Python to solve. I will be solving at least one problem every day.
 
-## Solved Problems (Total: 340)
+## Solved Problems (Total: 341)
 | # | Problem | Solution |
 |---|---------|----------|
 | 0001 | [Two Sum](https://leetcode.com/problems/two-sum) | [Solution](problems/0001_two-sum.py) |
@@ -222,6 +222,7 @@ This repository contains my solutions to LeetCode problems using Python to solve
 | 1894 | [Find The Student That Will Replace The Chalk](https://leetcode.com/problems/find-the-student-that-will-replace-the-chalk) | [Solution](problems/1894_find-the-student-that-will-replace-the-chalk.py) |
 | 1905 | [Count Sub Islands](https://leetcode.com/problems/count-sub-islands) | [Solution](problems/1905_count-sub-islands.py) |
 | 1910 | [Remove All Occurrences Of A Substring](https://leetcode.com/problems/remove-all-occurrences-of-a-substring) | [Solution](problems/1910_remove-all-occurrences-of-a-substring.py) |
+| 1920 | [Build Array From Permutation](https://leetcode.com/problems/build-array-from-permutation) | [Solution](problems/1920_build-array-from-permutation.py) |
 | 1930 | [Unique Length 3 Palindromic Subsequences](https://leetcode.com/problems/unique-length-3-palindromic-subsequences) | [Solution](problems/1930_unique-length-3-palindromic-subsequences.py) |
 | 1942 | [The Number Of The Smallest Unoccupied Chair](https://leetcode.com/problems/the-number-of-the-smallest-unoccupied-chair) | [Solution](problems/1942_the-number-of-the-smallest-unoccupied-chair.py) |
 | 1945 | [Sum Of Digits Of String After Convert](https://leetcode.com/problems/sum-of-digits-of-string-after-convert) | [Solution](problems/1945_sum-of-digits-of-string-after-convert.py) |
