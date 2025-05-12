@@ -2,7 +2,7 @@
 
 This repository contains my solutions to LeetCode problems using Python to solve. I will be solving at least one problem every day.
 
-## Solved Problems (Total: 344)
+## Solved Problems (Total: 345)
 | # | Problem | Solution |
 |---|---------|----------|
 | 0001 | [Two Sum](https://leetcode.com/problems/two-sum) | [Solution](problems/0001_two-sum.py) |
@@ -239,6 +239,7 @@ This repository contains my solutions to LeetCode problems using Python to solve
 | 2054 | [Two Best Non Overlapping Events](https://leetcode.com/problems/two-best-non-overlapping-events) | [Solution](problems/2054_two-best-non-overlapping-events.py) |
 | 2064 | [Minimized Maximum Of Products Distributed To Any Store](https://leetcode.com/problems/minimized-maximum-of-products-distributed-to-any-store) | [Solution](problems/2064_minimized-maximum-of-products-distributed-to-any-store.py) |
 | 2070 | [Most Beautiful Item For Each Query](https://leetcode.com/problems/most-beautiful-item-for-each-query) | [Solution](problems/2070_most-beautiful-item-for-each-query.py) |
+| 2094 | [Finding 3 Digit Even Numbers](https://leetcode.com/problems/finding-3-digit-even-numbers) | [Solution](problems/2094_finding-3-digit-even-numbers.py) |
 | 2097 | [Valid Arrangement Of Pairs](https://leetcode.com/problems/valid-arrangement-of-pairs) | [Solution](problems/2097_valid-arrangement-of-pairs.py) |
 | 2109 | [Adding Spaces To A String](https://leetcode.com/problems/adding-spaces-to-a-string) | [Solution](problems/2109_adding-spaces-to-a-string.py) |
 | 2115 | [Find All Possible Recipes From Given Supplies](https://leetcode.com/problems/find-all-possible-recipes-from-given-supplies) | [Solution](problems/2115_find-all-possible-recipes-from-given-supplies.py) |
