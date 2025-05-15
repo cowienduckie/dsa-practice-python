@@ -2,7 +2,7 @@
 
 This repository contains my solutions to LeetCode problems using Python to solve. I will be solving at least one problem every day.
 
-## Solved Problems (Total: 346)
+## Solved Problems (Total: 347)
 | # | Problem | Solution |
 |---|---------|----------|
 | 0001 | [Two Sum](https://leetcode.com/problems/two-sum) | [Solution](problems/0001_two-sum.py) |
@@ -311,6 +311,7 @@ This repository contains my solutions to LeetCode problems using Python to solve
 | 2843 | [Count Symmetric Integers](https://leetcode.com/problems/count-symmetric-integers) | [Solution](problems/2843_count-symmetric-integers.py) |
 | 2873 | [Maximum Value Of An Ordered Triplet I](https://leetcode.com/problems/maximum-value-of-an-ordered-triplet-i) | [Solution](problems/2873_maximum-value-of-an-ordered-triplet-i.py) |
 | 2874 | [Maximum Value Of An Ordered Triplet Ii](https://leetcode.com/problems/maximum-value-of-an-ordered-triplet-ii) | [Solution](problems/2874_maximum-value-of-an-ordered-triplet-ii.py) |
+| 2900 | [Longest Unequal Adjacent Groups Subsequence I](https://leetcode.com/problems/longest-unequal-adjacent-groups-subsequence-i) | [Solution](problems/2900_longest-unequal-adjacent-groups-subsequence-i.py) |
 | 2914 | [Minimum Number Of Changes To Make Binary String Beautiful](https://leetcode.com/problems/minimum-number-of-changes-to-make-binary-string-beautiful) | [Solution](problems/2914_minimum-number-of-changes-to-make-binary-string-beautiful.py) |
 | 2918 | [Minimum Equal Sum Of Two Arrays After Replacing Zeros](https://leetcode.com/problems/minimum-equal-sum-of-two-arrays-after-replacing-zeros) | [Solution](problems/2918_minimum-equal-sum-of-two-arrays-after-replacing-zeros.py) |
 | 2924 | [Find Champion Ii](https://leetcode.com/problems/find-champion-ii) | [Solution](problems/2924_find-champion-ii.py) |
