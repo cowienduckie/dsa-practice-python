@@ -43,7 +43,6 @@ This repository contains my solutions to LeetCode problems using Python to solve
 | 0073 | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes) | [Solution](problems/0073_set-matrix-zeroes.py) |
 | 0074 | [Search A 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix) | [Solution](problems/0074_search-a-2d-matrix.py) |
 | 0075 | [Sort Colors](https://leetcode.com/problems/sort-colors) | [Solution](problems/0075_sort-colors.py) |
-| 0075 | [Sort_Colors](https://leetcode.com/problems/sort_colors) | [Solution](problems/0075_sort_colors.py) |
 | 0077 | [Combinations](https://leetcode.com/problems/combinations) | [Solution](problems/0077_combinations.py) |
 | 0078 | [Subsets](https://leetcode.com/problems/subsets) | [Solution](problems/0078_subsets.py) |
 | 0079 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring) | [Solution](problems/0079_minimum-window-substring.py) |
@@ -321,6 +320,7 @@ This repository contains my solutions to LeetCode problems using Python to solve
 | 2965 | [Find Missing And Repeated Values](https://leetcode.com/problems/find-missing-and-repeated-values) | [Solution](problems/2965_find-missing-and-repeated-values.py) |
 | 2981 | [Find Longest Special Substring That Occurs Thrice I](https://leetcode.com/problems/find-longest-special-substring-that-occurs-thrice-i) | [Solution](problems/2981_find-longest-special-substring-that-occurs-thrice-i.py) |
 | 3011 | [Find If Array Can Be Sorted](https://leetcode.com/problems/find-if-array-can-be-sorted) | [Solution](problems/3011_find-if-array-can-be-sorted.py) |
+| 3024 | [Type Of Triangle](https://leetcode.com/problems/type-of-triangle) | [Solution](problems/3024_type-of-triangle.py) |
 | 3042 | [Count Prefix And Suffix Pairs I](https://leetcode.com/problems/count-prefix-and-suffix-pairs-i) | [Solution](problems/3042_count-prefix-and-suffix-pairs-i.py) |
 | 3066 | [Minimum Operations To Exceed Threshold Value Ii](https://leetcode.com/problems/minimum-operations-to-exceed-threshold-value-ii) | [Solution](problems/3066_minimum-operations-to-exceed-threshold-value-ii.py) |
 | 3097 | [Shortest Subarray With Or At Least K Ii](https://leetcode.com/problems/shortest-subarray-with-or-at-least-k-ii) | [Solution](problems/3097_shortest-subarray-with-or-at-least-k-ii.py) |
