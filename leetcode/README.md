@@ -2,7 +2,7 @@
 
 This repository contains my solutions to LeetCode problems using Python to solve. I will be solving at least one problem every day.
 
-## Solved Problems (Total: 347)
+## Solved Problems (Total: 348)
 | # | Problem | Solution |
 |---|---------|----------|
 | 0001 | [Two Sum](https://leetcode.com/problems/two-sum) | [Solution](problems/0001_two-sum.py) |
@@ -42,6 +42,7 @@ This repository contains my solutions to LeetCode problems using Python to solve
 | 0070 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs) | [Solution](problems/0070_climbing-stairs.py) |
 | 0073 | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes) | [Solution](problems/0073_set-matrix-zeroes.py) |
 | 0074 | [Search A 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix) | [Solution](problems/0074_search-a-2d-matrix.py) |
+| 0075 | [Sort Colors](https://leetcode.com/problems/sort-colors) | [Solution](problems/0075_sort-colors.py) |
 | 0075 | [Sort_Colors](https://leetcode.com/problems/sort_colors) | [Solution](problems/0075_sort_colors.py) |
 | 0077 | [Combinations](https://leetcode.com/problems/combinations) | [Solution](problems/0077_combinations.py) |
 | 0078 | [Subsets](https://leetcode.com/problems/subsets) | [Solution](problems/0078_subsets.py) |
