@@ -2,28 +2,19 @@ from typing import List
 
 
 class Solution:
-    """
-    Solution using line sweep
-    """
-
     def isZeroArray(self, nums: List[int], queries: List[List[int]]) -> bool:
         n = len(nums)
-
-        # Store a difference array of ranges
-        diff = [0] * (n + 1)
+        # Use an array to store the changes at 2 boundaries of an query
+        memo = [0] * (n + 1)
         for l, r in queries:
-            diff[l] += 1
-            diff[r + 1] -= 1
-
-        # Traverse through both original and difference arrays
-        # Try to decrease original number, if any number cannot reach at least 0, return False
-        sub = 0
+            memo[l] -= 1
+            memo[r + 1] += 1
+        
+        # Move from left to right and track the total diff at each index
+        diff = 0
         for i in range(n):
-            # Update subtrahend
-            sub += diff[i]
-
-            # Check if current number can reach 0
-            if nums[i] > sub:
+            diff += memo[i]
+            # If the diff is not enough to make number i-th reach 0, early return False
+            if nums[i] + diff > 0:
                 return False
-
         return True
