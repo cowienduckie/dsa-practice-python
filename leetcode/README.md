@@ -2,7 +2,7 @@
 
 This repository contains my solutions to LeetCode problems using Python to solve. I will be solving at least one problem every day.
 
-## Solved Problems (Total: 352)
+## Solved Problems (Total: 353)
 | # | Problem | Solution |
 |---|---------|----------|
 | 0001 | [Two Sum](https://leetcode.com/problems/two-sum) | [Solution](problems/0001_two-sum.py) |
@@ -171,6 +171,7 @@ This repository contains my solutions to LeetCode problems using Python to solve
 | 0994 | [Rotting Oranges](https://leetcode.com/problems/rotting-oranges) | [Solution](problems/0994_rotting-oranges.py) |
 | 1007 | [Minimum Domino Rotations For Equal Row](https://leetcode.com/problems/minimum-domino-rotations-for-equal-row) | [Solution](problems/1007_minimum-domino-rotations-for-equal-row.py) |
 | 1014 | [Best Sightseeing Pair](https://leetcode.com/problems/best-sightseeing-pair) | [Solution](problems/1014_best-sightseeing-pair.py) |
+| 1061 | [Lexicographically Smallest Equivalent String](https://leetcode.com/problems/lexicographically-smallest-equivalent-string) | [Solution](problems/1061_lexicographically-smallest-equivalent-string.py) |
 | 1072 | [Flip Columns For Maximum Number Of Equal Rows](https://leetcode.com/problems/flip-columns-for-maximum-number-of-equal-rows) | [Solution](problems/1072_flip-columns-for-maximum-number-of-equal-rows.py) |
 | 1079 | [Letter Tile Possibilities](https://leetcode.com/problems/letter-tile-possibilities) | [Solution](problems/1079_letter-tile-possibilities.py) |
 | 1106 | [Parsing A Boolean Expression](https://leetcode.com/problems/parsing-a-boolean-expression) | [Solution](problems/1106_parsing-a-boolean-expression.py) |
