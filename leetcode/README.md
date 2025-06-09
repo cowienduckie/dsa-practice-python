@@ -2,7 +2,7 @@
 
 This repository contains my solutions to LeetCode problems using Python to solve. I will be solving at least one problem every day.
 
-## Solved Problems (Total: 355)
+## Solved Problems (Total: 356)
 | # | Problem | Solution |
 |---|---------|----------|
 | 0001 | [Two Sum](https://leetcode.com/problems/two-sum) | [Solution](problems/0001_two-sum.py) |
@@ -116,6 +116,7 @@ This repository contains my solutions to LeetCode problems using Python to solve
 | 0378 | [Kth Smallest Element In A Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix) | [Solution](problems/0378_kth-smallest-element-in-a-sorted-matrix.py) |
 | 0380 | [Insert Delete Getrandom O1](https://leetcode.com/problems/insert-delete-getrandom-o1) | [Solution](problems/0380_insert-delete-getrandom-o1.py) |
 | 0383 | [Ransom Note](https://leetcode.com/problems/ransom-note) | [Solution](problems/0383_ransom-note.py) |
+| 0386 | [Lexicographical Numbers](https://leetcode.com/problems/lexicographical-numbers) | [Solution](problems/0386_lexicographical-numbers.py) |
 | 0416 | [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum) | [Solution](problems/0416_partition-equal-subset-sum.py) |
 | 0417 | [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow) | [Solution](problems/0417_pacific-atlantic-water-flow.py) |
 | 0424 | [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement) | [Solution](problems/0424_longest-repeating-character-replacement.py) |
