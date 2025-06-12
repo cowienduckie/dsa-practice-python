@@ -2,7 +2,7 @@
 
 This repository contains my solutions to LeetCode problems using Python to solve. I will be solving at least one problem every day.
 
-## Solved Problems (Total: 357)
+## Solved Problems (Total: 358)
 | # | Problem | Solution |
 |---|---------|----------|
 | 0001 | [Two Sum](https://leetcode.com/problems/two-sum) | [Solution](problems/0001_two-sum.py) |
@@ -356,6 +356,7 @@ This repository contains my solutions to LeetCode problems using Python to solve
 | 3394 | [Check If Grid Can Be Cut Into Sections](https://leetcode.com/problems/check-if-grid-can-be-cut-into-sections) | [Solution](problems/3394_check-if-grid-can-be-cut-into-sections.py) |
 | 3396 | [Minimum Number Of Operations To Make Elements In Array Distinct](https://leetcode.com/problems/minimum-number-of-operations-to-make-elements-in-array-distinct) | [Solution](problems/3396_minimum-number-of-operations-to-make-elements-in-array-distinct.py) |
 | 3403 | [Find The Lexicographically Largest String From The Box I](https://leetcode.com/problems/find-the-lexicographically-largest-string-from-the-box-i) | [Solution](problems/3403_find-the-lexicographically-largest-string-from-the-box-i.py) |
+| 3423 | [Maximum Difference Between Adjacent Elements In A Circular Array](https://leetcode.com/problems/maximum-difference-between-adjacent-elements-in-a-circular-array) | [Solution](problems/3423_maximum-difference-between-adjacent-elements-in-a-circular-array.py) |
 | 3442 | [Maximum Difference Between Even And Odd Frequency I](https://leetcode.com/problems/maximum-difference-between-even-and-odd-frequency-i) | [Solution](problems/3442_maximum-difference-between-even-and-odd-frequency-i.py) |
 | 3483 | [Unique 3 Digit Even Numbers](https://leetcode.com/problems/unique-3-digit-even-numbers) | [Solution](problems/3483_unique-3-digit-even-numbers.py) |
 | 3484 | [Design Spreadsheet](https://leetcode.com/problems/design-spreadsheet) | [Solution](problems/3484_design-spreadsheet.py) |
