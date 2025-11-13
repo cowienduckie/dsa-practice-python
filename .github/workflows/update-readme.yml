@@ -28,9 +28,19 @@ jobs:
             pip install -r requirements.txt
           fi
       
-      - name: Run readme updater script
+      - name: Run README updater for LeetCode
         run: |
           cd leetcode
+          python readme-updater.py
+
+      - name: Run README updater for CodeForces
+        run: |
+          cd codeforces
+          python readme-updater.py
+
+      - name: Run README updater for AtCoder
+        run: |
+          cd atcoder
           python readme-updater.py
       
       - name: Commit and push changes
