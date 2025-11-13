@@ -24,12 +24,14 @@ jobs:
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          if [ -f ./requirements.txt ]; then
-            pip install -r ./requirements.txt
+          if [ -f requirements.txt ]; then
+            pip install -r requirements.txt
           fi
       
       - name: Run readme updater script
-        run: python ./leetcode/readme-updater.py
+        run: |
+          cd leetcode
+          python readme-updater.py
       
       - name: Commit and push changes
         run: |
