@@ -2,7 +2,7 @@
 
 This repository contains my solutions to LeetCode problems using Python to solve. I will be solving at least one problem every day.
 
-## Solved Problems (Total: 358)
+## Solved Problems (Total: 359)
 | # | Problem | Solution |
 |---|---------|----------|
 | 0001 | [Two Sum](https://leetcode.com/problems/two-sum) | [Solution](problems/0001_two-sum.py) |
@@ -342,6 +342,7 @@ This repository contains my solutions to LeetCode problems using Python to solve
 | 3191 | [Minimum Operations To Make Binary Array Elements Equal To One I](https://leetcode.com/problems/minimum-operations-to-make-binary-array-elements-equal-to-one-i) | [Solution](problems/3191_minimum-operations-to-make-binary-array-elements-equal-to-one-i.py) |
 | 3208 | [Alternating Groups Ii](https://leetcode.com/problems/alternating-groups-ii) | [Solution](problems/3208_alternating-groups-ii.py) |
 | 3223 | [Minimum Length Of String After Operations](https://leetcode.com/problems/minimum-length-of-string-after-operations) | [Solution](problems/3223_minimum-length-of-string-after-operations.py) |
+| 3228 | [Maximum Number Of Operations To Move Ones To The End](https://leetcode.com/problems/maximum-number-of-operations-to-move-ones-to-the-end) | [Solution](problems/3228_maximum-number-of-operations-to-move-ones-to-the-end.py) |
 | 3243 | [Shortest Distance After Road Addition Queries I](https://leetcode.com/problems/shortest-distance-after-road-addition-queries-i) | [Solution](problems/3243_shortest-distance-after-road-addition-queries-i.py) |
 | 3254 | [Find The Power Of K Size Subarrays I](https://leetcode.com/problems/find-the-power-of-k-size-subarrays-i) | [Solution](problems/3254_find-the-power-of-k-size-subarrays-i.py) |
 | 3264 | [Final Array State After K Multiplication Operations I](https://leetcode.com/problems/final-array-state-after-k-multiplication-operations-i) | [Solution](problems/3264_final-array-state-after-k-multiplication-operations-i.py) |
