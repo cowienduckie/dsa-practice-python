@@ -2,7 +2,7 @@
 
 This repository contains my solutions to LeetCode problems using Python to solve. I will be solving at least one problem every day.
 
-## Solved Problems (Total: 359)
+## Solved Problems (Total: 362)
 | # | Problem | Solution |
 |---|---------|----------|
 | 0001 | [Two Sum](https://leetcode.com/problems/two-sum) | [Solution](problems/0001_two-sum.py) |
@@ -190,6 +190,7 @@ This repository contains my solutions to LeetCode problems using Python to solve
 | 1352 | [Product Of The Last K Numbers](https://leetcode.com/problems/product-of-the-last-k-numbers) | [Solution](problems/1352_product-of-the-last-k-numbers.py) |
 | 1358 | [Number Of Substrings Containing All Three Characters](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters) | [Solution](problems/1358_number-of-substrings-containing-all-three-characters.py) |
 | 1371 | [Find The Longest Substring Containing Vowels In Even Counts](https://leetcode.com/problems/find-the-longest-substring-containing-vowels-in-even-counts) | [Solution](problems/1371_find-the-longest-substring-containing-vowels-in-even-counts.py) |
+| 1394 | [Find Lucky Integer In An Array](https://leetcode.com/problems/find-lucky-integer-in-an-array) | [Solution](problems/1394_find-lucky-integer-in-an-array.py) |
 | 1399 | [Count Largest Group](https://leetcode.com/problems/count-largest-group) | [Solution](problems/1399_count-largest-group.py) |
 | 1400 | [Construct K Palindrome Strings](https://leetcode.com/problems/construct-k-palindrome-strings) | [Solution](problems/1400_construct-k-palindrome-strings.py) |
 | 1405 | [Longest Happy String](https://leetcode.com/problems/longest-happy-string) | [Solution](problems/1405_longest-happy-string.py) |
@@ -221,6 +222,7 @@ This repository contains my solutions to LeetCode problems using Python to solve
 | 1829 | [Maximum Xor For Each Query](https://leetcode.com/problems/maximum-xor-for-each-query) | [Solution](problems/1829_maximum-xor-for-each-query.py) |
 | 1861 | [Rotating The Box](https://leetcode.com/problems/rotating-the-box) | [Solution](problems/1861_rotating-the-box.py) |
 | 1863 | [Sum Of All Subset Xor Totals](https://leetcode.com/problems/sum-of-all-subset-xor-totals) | [Solution](problems/1863_sum-of-all-subset-xor-totals.py) |
+| 1865 | [Finding Pairs With A Certain Sum](https://leetcode.com/problems/finding-pairs-with-a-certain-sum) | [Solution](problems/1865_finding-pairs-with-a-certain-sum.py) |
 | 1894 | [Find The Student That Will Replace The Chalk](https://leetcode.com/problems/find-the-student-that-will-replace-the-chalk) | [Solution](problems/1894_find-the-student-that-will-replace-the-chalk.py) |
 | 1905 | [Count Sub Islands](https://leetcode.com/problems/count-sub-islands) | [Solution](problems/1905_count-sub-islands.py) |
 | 1910 | [Remove All Occurrences Of A Substring](https://leetcode.com/problems/remove-all-occurrences-of-a-substring) | [Solution](problems/1910_remove-all-occurrences-of-a-substring.py) |
@@ -233,6 +235,7 @@ This repository contains my solutions to LeetCode problems using Python to solve
 | 1967 | [Number Of Ways To Arrive At Destination](https://leetcode.com/problems/number-of-ways-to-arrive-at-destination) | [Solution](problems/1967_number-of-ways-to-arrive-at-destination.py) |
 | 1975 | [Maximum Matrix Sum](https://leetcode.com/problems/maximum-matrix-sum) | [Solution](problems/1975_maximum-matrix-sum.py) |
 | 1980 | [Find Unique Binary String](https://leetcode.com/problems/find-unique-binary-string) | [Solution](problems/1980_find-unique-binary-string.py) |
+| 2016 | [Maximum Difference Between Increasing Elements](https://leetcode.com/problems/maximum-difference-between-increasing-elements) | [Solution](problems/2016_maximum-difference-between-increasing-elements.py) |
 | 2017 | [Grid Game](https://leetcode.com/problems/grid-game) | [Solution](problems/2017_grid-game.py) |
 | 2022 | [Convert 1D Array Into 2D Array](https://leetcode.com/problems/convert-1d-array-into-2d-array) | [Solution](problems/2022_convert-1d-array-into-2d-array.py) |
 | 2028 | [Find Missing Observations](https://leetcode.com/problems/find-missing-observations) | [Solution](problems/2028_find-missing-observations.py) |

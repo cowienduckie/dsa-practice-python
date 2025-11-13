@@ -2,7 +2,7 @@
 
 This folder contains my solutions to CodeForces problems using Python to solve. Targeting to solve problems for Div 2 and Div 3.
 
-## Solved Problems (Total: 9)
+## Solved Problems (Total: 10)
 | # | Problem | Solution |
 |---|---------|----------|
 | 2050A | [Description](https://codeforces.com/contest/2050/problem/A) | [Solution](problems/2050_A.py) |
@@ -14,3 +14,4 @@ This folder contains my solutions to CodeForces problems using Python to solve. 
 | 2065C1 | [Description](https://codeforces.com/contest/2065/problem/C1) | [Solution](problems/2065_C1.py) |
 | 2065C2 | [Description](https://codeforces.com/contest/2065/problem/C2) | [Solution](problems/2065_C2.py) |
 | 2065D | [Description](https://codeforces.com/contest/2065/problem/D) | [Solution](problems/2065_D.py) |
+| 2065E | [Description](https://codeforces.com/contest/2065/problem/E) | [Solution](problems/2065_E.py) |
