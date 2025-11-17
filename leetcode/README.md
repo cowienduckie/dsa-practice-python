@@ -2,7 +2,7 @@
 
 This repository contains my solutions to LeetCode problems using Python to solve. I will be solving at least one problem every day.
 
-## Solved Problems (Total: 363)
+## Solved Problems (Total: 364)
 | # | Problem | Solution |
 |---|---------|----------|
 | 0001 | [Two Sum](https://leetcode.com/problems/two-sum) | [Solution](problems/0001_two-sum.py) |
@@ -198,6 +198,7 @@ This repository contains my solutions to LeetCode problems using Python to solve
 | 1408 | [String Matching In An Array](https://leetcode.com/problems/string-matching-in-an-array) | [Solution](problems/1408_string-matching-in-an-array.py) |
 | 1415 | [The K Th Lexicographical String Of All Happy Strings Of Length N](https://leetcode.com/problems/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) | [Solution](problems/1415_the-k-th-lexicographical-string-of-all-happy-strings-of-length-n.py) |
 | 1422 | [Maximum Score After Splitting A String](https://leetcode.com/problems/maximum-score-after-splitting-a-string) | [Solution](problems/1422_maximum-score-after-splitting-a-string.py) |
+| 1437 | [Check If All 1S Are At Least Length K Places Away](https://leetcode.com/problems/check-if-all-1s-are-at-least-length-k-places-away) | [Solution](problems/1437_check-if-all-1s-are-at-least-length-k-places-away.py) |
 | 1455 | [Check If A Word Occurs As A Prefix Of Any Word In A Sentence](https://leetcode.com/problems/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) | [Solution](problems/1455_check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence.py) |
 | 1475 | [Final Prices With A Special Discount In A Shop](https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop) | [Solution](problems/1475_final-prices-with-a-special-discount-in-a-shop.py) |
 | 1514 | [Path With Maximum Probability](https://leetcode.com/problems/path-with-maximum-probability) | [Solution](problems/1514_path-with-maximum-probability.py) |
