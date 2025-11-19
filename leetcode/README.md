@@ -2,7 +2,7 @@
 
 This repository contains my solutions to LeetCode problems using Python to solve. I will be solving at least one problem every day.
 
-## Solved Problems (Total: 364)
+## Solved Problems (Total: 365)
 | # | Problem | Solution |
 |---|---------|----------|
 | 0001 | [Two Sum](https://leetcode.com/problems/two-sum) | [Solution](problems/0001_two-sum.py) |
@@ -254,6 +254,7 @@ This repository contains my solutions to LeetCode problems using Python to solve
 | 2131 | [Longest Palindrome By Concatenating Two Letter Words](https://leetcode.com/problems/longest-palindrome-by-concatenating-two-letter-words) | [Solution](problems/2131_longest-palindrome-by-concatenating-two-letter-words.py) |
 | 2140 | [Solving Questions With Brainpower](https://leetcode.com/problems/solving-questions-with-brainpower) | [Solution](problems/2140_solving-questions-with-brainpower.py) |
 | 2145 | [Count The Hidden Sequences](https://leetcode.com/problems/count-the-hidden-sequences) | [Solution](problems/2145_count-the-hidden-sequences.py) |
+| 2154 | [Keep Multiplying Found Values By Two](https://leetcode.com/problems/keep-multiplying-found-values-by-two) | [Solution](problems/2154_keep-multiplying-found-values-by-two.py) |
 | 2161 | [Partition Array According To Given Pivot](https://leetcode.com/problems/partition-array-according-to-given-pivot) | [Solution](problems/2161_partition-array-according-to-given-pivot.py) |
 | 2176 | [Count Equal And Divisible Pairs In An Array](https://leetcode.com/problems/count-equal-and-divisible-pairs-in-an-array) | [Solution](problems/2176_count-equal-and-divisible-pairs-in-an-array.py) |
 | 2179 | [Count Good Triplets In An Array](https://leetcode.com/problems/count-good-triplets-in-an-array) | [Solution](problems/2179_count-good-triplets-in-an-array.py) |
