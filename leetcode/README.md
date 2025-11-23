@@ -2,7 +2,7 @@
 
 This repository contains my solutions to LeetCode problems using Python to solve. I will be solving at least one problem every day.
 
-## Solved Problems (Total: 365)
+## Solved Problems (Total: 367)
 | # | Problem | Solution |
 |---|---------|----------|
 | 0001 | [Two Sum](https://leetcode.com/problems/two-sum) | [Solution](problems/0001_two-sum.py) |
@@ -182,6 +182,7 @@ This repository contains my solutions to LeetCode problems using Python to solve
 | 1233 | [Remove Sub Folders From The Filesystem](https://leetcode.com/problems/remove-sub-folders-from-the-filesystem) | [Solution](problems/1233_remove-sub-folders-from-the-filesystem.py) |
 | 1235 | [Maximum Profit In Job Scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling) | [Solution](problems/1235_maximum-profit-in-job-scheduling.py) |
 | 1261 | [Find Elements In A Contaminated Binary Tree](https://leetcode.com/problems/find-elements-in-a-contaminated-binary-tree) | [Solution](problems/1261_find-elements-in-a-contaminated-binary-tree.py) |
+| 1262 | [Greatest Sum Divisible By Three](https://leetcode.com/problems/greatest-sum-divisible-by-three) | [Solution](problems/1262_greatest-sum-divisible-by-three.py) |
 | 1267 | [Count Servers That Communicate](https://leetcode.com/problems/count-servers-that-communicate) | [Solution](problems/1267_count-servers-that-communicate.py) |
 | 1277 | [Count Square Submatrices With All Ones](https://leetcode.com/problems/count-square-submatrices-with-all-ones) | [Solution](problems/1277_count-square-submatrices-with-all-ones.py) |
 | 1295 | [Find Numbers With Even Number Of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits) | [Solution](problems/1295_find-numbers-with-even-number-of-digits.py) |
@@ -345,6 +346,7 @@ This repository contains my solutions to LeetCode problems using Python to solve
 | 3169 | [Count Days Without Meetings](https://leetcode.com/problems/count-days-without-meetings) | [Solution](problems/3169_count-days-without-meetings.py) |
 | 3170 | [Lexicographically Minimum String After Removing Stars](https://leetcode.com/problems/lexicographically-minimum-string-after-removing-stars) | [Solution](problems/3170_lexicographically-minimum-string-after-removing-stars.py) |
 | 3174 | [Clear Digits](https://leetcode.com/problems/clear-digits) | [Solution](problems/3174_clear-digits.py) |
+| 3190 | [Find Minimum Operations To Make All Elements Divisible By Three](https://leetcode.com/problems/find-minimum-operations-to-make-all-elements-divisible-by-three) | [Solution](problems/3190_find-minimum-operations-to-make-all-elements-divisible-by-three.py) |
 | 3191 | [Minimum Operations To Make Binary Array Elements Equal To One I](https://leetcode.com/problems/minimum-operations-to-make-binary-array-elements-equal-to-one-i) | [Solution](problems/3191_minimum-operations-to-make-binary-array-elements-equal-to-one-i.py) |
 | 3208 | [Alternating Groups Ii](https://leetcode.com/problems/alternating-groups-ii) | [Solution](problems/3208_alternating-groups-ii.py) |
 | 3223 | [Minimum Length Of String After Operations](https://leetcode.com/problems/minimum-length-of-string-after-operations) | [Solution](problems/3223_minimum-length-of-string-after-operations.py) |
