@@ -2,7 +2,7 @@
 
 This repository contains my solutions to LeetCode problems using Python to solve. I will be solving at least one problem every day.
 
-## Solved Problems (Total: 371)
+## Solved Problems (Total: 372)
 | # | Problem | Solution |
 |---|---------|----------|
 | 0001 | [Two Sum](https://leetcode.com/problems/two-sum) | [Solution](problems/0001_two-sum.py) |
@@ -256,6 +256,7 @@ This repository contains my solutions to LeetCode problems using Python to solve
 | 2116 | [Check If A Parentheses String Can Be Valid](https://leetcode.com/problems/check-if-a-parentheses-string-can-be-valid) | [Solution](problems/2116_check-if-a-parentheses-string-can-be-valid.py) |
 | 2131 | [Longest Palindrome By Concatenating Two Letter Words](https://leetcode.com/problems/longest-palindrome-by-concatenating-two-letter-words) | [Solution](problems/2131_longest-palindrome-by-concatenating-two-letter-words.py) |
 | 2140 | [Solving Questions With Brainpower](https://leetcode.com/problems/solving-questions-with-brainpower) | [Solution](problems/2140_solving-questions-with-brainpower.py) |
+| 2141 | [Maximum Running Time Of N Computers](https://leetcode.com/problems/maximum-running-time-of-n-computers) | [Solution](problems/2141_maximum-running-time-of-n-computers.py) |
 | 2145 | [Count The Hidden Sequences](https://leetcode.com/problems/count-the-hidden-sequences) | [Solution](problems/2145_count-the-hidden-sequences.py) |
 | 2154 | [Keep Multiplying Found Values By Two](https://leetcode.com/problems/keep-multiplying-found-values-by-two) | [Solution](problems/2154_keep-multiplying-found-values-by-two.py) |
 | 2161 | [Partition Array According To Given Pivot](https://leetcode.com/problems/partition-array-according-to-given-pivot) | [Solution](problems/2161_partition-array-according-to-given-pivot.py) |
