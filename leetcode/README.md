@@ -2,7 +2,7 @@
 
 This repository contains my solutions to LeetCode problems using Python to solve. I will be solving at least one problem every day.
 
-## Solved Problems (Total: 372)
+## Solved Problems (Total: 373)
 | # | Problem | Solution |
 |---|---------|----------|
 | 0001 | [Two Sum](https://leetcode.com/problems/two-sum) | [Solution](problems/0001_two-sum.py) |
@@ -265,6 +265,7 @@ This repository contains my solutions to LeetCode problems using Python to solve
 | 2182 | [Construct String With Repeat Limit](https://leetcode.com/problems/construct-string-with-repeat-limit) | [Solution](problems/2182_construct-string-with-repeat-limit.py) |
 | 2185 | [Counting Words With A Given Prefix](https://leetcode.com/problems/counting-words-with-a-given-prefix) | [Solution](problems/2185_counting-words-with-a-given-prefix.py) |
 | 2206 | [Divide Array Into Equal Pairs](https://leetcode.com/problems/divide-array-into-equal-pairs) | [Solution](problems/2206_divide-array-into-equal-pairs.py) |
+| 2211 | [Count Collisions On A Road](https://leetcode.com/problems/count-collisions-on-a-road) | [Solution](problems/2211_count-collisions-on-a-road.py) |
 | 2226 | [Maximum Candies Allocated To K Children](https://leetcode.com/problems/maximum-candies-allocated-to-k-children) | [Solution](problems/2226_maximum-candies-allocated-to-k-children.py) |
 | 2257 | [Count Unguarded Cells In The Grid](https://leetcode.com/problems/count-unguarded-cells-in-the-grid) | [Solution](problems/2257_count-unguarded-cells-in-the-grid.py) |
 | 2260 | [Number Of Ways To Split Array](https://leetcode.com/problems/number-of-ways-to-split-array) | [Solution](problems/2260_number-of-ways-to-split-array.py) |
