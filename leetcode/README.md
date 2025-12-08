@@ -2,7 +2,7 @@
 
 This repository contains my solutions to LeetCode problems using Python to solve. I will be solving at least one problem every day.
 
-## Solved Problems (Total: 374)
+## Solved Problems (Total: 375)
 | # | Problem | Solution |
 |---|---------|----------|
 | 0001 | [Two Sum](https://leetcode.com/problems/two-sum) | [Solution](problems/0001_two-sum.py) |
@@ -235,6 +235,7 @@ This repository contains my solutions to LeetCode problems using Python to solve
 | 1930 | [Unique Length 3 Palindromic Subsequences](https://leetcode.com/problems/unique-length-3-palindromic-subsequences) | [Solution](problems/1930_unique-length-3-palindromic-subsequences.py) |
 | 1942 | [The Number Of The Smallest Unoccupied Chair](https://leetcode.com/problems/the-number-of-the-smallest-unoccupied-chair) | [Solution](problems/1942_the-number-of-the-smallest-unoccupied-chair.py) |
 | 1945 | [Sum Of Digits Of String After Convert](https://leetcode.com/problems/sum-of-digits-of-string-after-convert) | [Solution](problems/1945_sum-of-digits-of-string-after-convert.py) |
+| 1952 | [Count Square Sum Triples](https://leetcode.com/problems/count-square-sum-triples) | [Solution](problems/1952_count-square-sum-triples.py) |
 | 1957 | [Delete Characters To Make Fancy String](https://leetcode.com/problems/delete-characters-to-make-fancy-string) | [Solution](problems/1957_delete-characters-to-make-fancy-string.py) |
 | 1963 | [Minimum Number Of Swaps To Make The String Balanced](https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-string-balanced) | [Solution](problems/1963_minimum-number-of-swaps-to-make-the-string-balanced.py) |
 | 1967 | [Number Of Ways To Arrive At Destination](https://leetcode.com/problems/number-of-ways-to-arrive-at-destination) | [Solution](problems/1967_number-of-ways-to-arrive-at-destination.py) |
