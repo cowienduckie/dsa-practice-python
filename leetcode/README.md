@@ -2,7 +2,7 @@
 
 This repository contains my solutions to LeetCode problems using Python to solve. I will be solving at least one problem every day.
 
-## Solved Problems (Total: 378)
+## Solved Problems (Total: 379)
 | # | Problem | Solution |
 |---|---------|----------|
 | 0001 | [Two Sum](https://leetcode.com/problems/two-sum) | [Solution](problems/0001_two-sum.py) |
@@ -382,4 +382,5 @@ This repository contains my solutions to LeetCode problems using Python to solve
 | 3488 | [Closest Equal Element Queries](https://leetcode.com/problems/closest-equal-element-queries) | [Solution](problems/3488_closest-equal-element-queries.py) |
 | 3498 | [Zero Array Transformation Iv](https://leetcode.com/problems/zero-array-transformation-iv) | [Solution](problems/3498_zero-array-transformation-iv.py) |
 | 3531 | [Count Covered Buildings](https://leetcode.com/problems/count-covered-buildings) | [Solution](problems/3531_count-covered-buildings.py) |
+| 3606 | [Coupon Code Validator](https://leetcode.com/problems/coupon-code-validator) | [Solution](problems/3606_coupon-code-validator.py) |
 | 3623 | [Count Number Of Trapezoids I](https://leetcode.com/problems/count-number-of-trapezoids-i) | [Solution](problems/3623_count-number-of-trapezoids-i.py) |
