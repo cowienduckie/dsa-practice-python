@@ -2,7 +2,7 @@
 
 This repository contains my solutions to LeetCode problems using Python to solve. I will be solving at least one problem every day.
 
-## Solved Problems (Total: 379)
+## Solved Problems (Total: 380)
 | # | Problem | Solution |
 |---|---------|----------|
 | 0001 | [Two Sum](https://leetcode.com/problems/two-sum) | [Solution](problems/0001_two-sum.py) |
@@ -139,6 +139,7 @@ This repository contains my solutions to LeetCode problems using Python to solve
 | 0650 | [2 Keys Keyboard](https://leetcode.com/problems/2-keys-keyboard) | [Solution](problems/0650_2-keys-keyboard.py) |
 | 0670 | [Maximum Swap](https://leetcode.com/problems/maximum-swap) | [Solution](problems/0670_maximum-swap.py) |
 | 0689 | [Maximum Sum Of 3 Non Overlapping Subarrays](https://leetcode.com/problems/maximum-sum-of-3-non-overlapping-subarrays) | [Solution](problems/0689_maximum-sum-of-3-non-overlapping-subarrays.py) |
+| 0696 | [Count Binary Substrings](https://leetcode.com/problems/count-binary-substrings) | [Solution](problems/0696_count-binary-substrings.py) |
 | 0704 | [Binary Search](https://leetcode.com/problems/binary-search) | [Solution](problems/0704_binary-search.py) |
 | 0719 | [Find K Th Smallest Pair Distance](https://leetcode.com/problems/find-k-th-smallest-pair-distance) | [Solution](problems/0719_find-k-th-smallest-pair-distance.py) |
 | 0721 | [Accounts Merge](https://leetcode.com/problems/accounts-merge) | [Solution](problems/0721_accounts-merge.py) |
