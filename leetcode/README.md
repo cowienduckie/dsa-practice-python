@@ -2,7 +2,7 @@
 
 This repository contains my solutions to LeetCode problems using Python to solve. I will be solving at least one problem every day.
 
-## Solved Problems (Total: 380)
+## Solved Problems (Total: 382)
 | # | Problem | Solution |
 |---|---------|----------|
 | 0001 | [Two Sum](https://leetcode.com/problems/two-sum) | [Solution](problems/0001_two-sum.py) |
@@ -176,6 +176,7 @@ This repository contains my solutions to LeetCode problems using Python to solve
 | 1014 | [Best Sightseeing Pair](https://leetcode.com/problems/best-sightseeing-pair) | [Solution](problems/1014_best-sightseeing-pair.py) |
 | 1015 | [Smallest Integer Divisible By K](https://leetcode.com/problems/smallest-integer-divisible-by-k) | [Solution](problems/1015_smallest-integer-divisible-by-k.py) |
 | 1018 | [Binary Prefix Divisible By 5](https://leetcode.com/problems/binary-prefix-divisible-by-5) | [Solution](problems/1018_binary-prefix-divisible-by-5.py) |
+| 1022 | [Sum Of Root To Leaf Binary Numbers](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers) | [Solution](problems/1022_sum-of-root-to-leaf-binary-numbers.py) |
 | 1061 | [Lexicographically Smallest Equivalent String](https://leetcode.com/problems/lexicographically-smallest-equivalent-string) | [Solution](problems/1061_lexicographically-smallest-equivalent-string.py) |
 | 1072 | [Flip Columns For Maximum Number Of Equal Rows](https://leetcode.com/problems/flip-columns-for-maximum-number-of-equal-rows) | [Solution](problems/1072_flip-columns-for-maximum-number-of-equal-rows.py) |
 | 1079 | [Letter Tile Possibilities](https://leetcode.com/problems/letter-tile-possibilities) | [Solution](problems/1079_letter-tile-possibilities.py) |
@@ -205,6 +206,7 @@ This repository contains my solutions to LeetCode problems using Python to solve
 | 1422 | [Maximum Score After Splitting A String](https://leetcode.com/problems/maximum-score-after-splitting-a-string) | [Solution](problems/1422_maximum-score-after-splitting-a-string.py) |
 | 1437 | [Check If All 1S Are At Least Length K Places Away](https://leetcode.com/problems/check-if-all-1s-are-at-least-length-k-places-away) | [Solution](problems/1437_check-if-all-1s-are-at-least-length-k-places-away.py) |
 | 1455 | [Check If A Word Occurs As A Prefix Of Any Word In A Sentence](https://leetcode.com/problems/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) | [Solution](problems/1455_check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence.py) |
+| 1461 | [Check If A String Contains All Binary Codes Of Size K](https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k) | [Solution](problems/1461_check-if-a-string-contains-all-binary-codes-of-size-k.py) |
 | 1475 | [Final Prices With A Special Discount In A Shop](https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop) | [Solution](problems/1475_final-prices-with-a-special-discount-in-a-shop.py) |
 | 1514 | [Path With Maximum Probability](https://leetcode.com/problems/path-with-maximum-probability) | [Solution](problems/1514_path-with-maximum-probability.py) |
 | 1523 | [Count Odd Numbers In An Interval Range](https://leetcode.com/problems/count-odd-numbers-in-an-interval-range) | [Solution](problems/1523_count-odd-numbers-in-an-interval-range.py) |
