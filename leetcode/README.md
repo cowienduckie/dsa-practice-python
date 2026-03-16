@@ -2,7 +2,7 @@
 
 This repository contains my solutions to LeetCode problems using Python to solve. I will be solving at least one problem every day.
 
-## Solved Problems (Total: 382)
+## Solved Problems (Total: 387)
 | # | Problem | Solution |
 |---|---------|----------|
 | 0001 | [Two Sum](https://leetcode.com/problems/two-sum) | [Solution](problems/0001_two-sum.py) |
@@ -110,7 +110,7 @@ This repository contains my solutions to LeetCode problems using Python to solve
 | 0322 | [Coin Change](https://leetcode.com/problems/coin-change) | [Solution](problems/0322_coin-change.py) |
 | 0338 | [Counting Bits](https://leetcode.com/problems/counting-bits) | [Solution](problems/0338_counting-bits.py) |
 | 0347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements) | [Solution](problems/0347_top-k-frequent-elements.py) |
-| 357 | [Count The Number Of Computer Unlocking Permutations](https://leetcode.com/problems/count-the-number-of-computer-unlocking-permutations) | [Solution](problems/357_count-the-number-of-computer-unlocking-permutations.py) |
+| 0357 | [Count The Number Of Computer Unlocking Permutations](https://leetcode.com/problems/count-the-number-of-computer-unlocking-permutations) | [Solution](problems/0357_count-the-number-of-computer-unlocking-permutations.py) |
 | 0368 | [Largest Divisible Subset](https://leetcode.com/problems/largest-divisible-subset) | [Solution](problems/0368_largest-divisible-subset.py) |
 | 0371 | [Sum Of Two Integers](https://leetcode.com/problems/sum-of-two-integers) | [Solution](problems/0371_sum-of-two-integers.py) |
 | 0377 | [Combination Sum Iv](https://leetcode.com/problems/combination-sum-iv) | [Solution](problems/0377_combination-sum-iv.py) |
@@ -212,8 +212,10 @@ This repository contains my solutions to LeetCode problems using Python to solve
 | 1523 | [Count Odd Numbers In An Interval Range](https://leetcode.com/problems/count-odd-numbers-in-an-interval-range) | [Solution](problems/1523_count-odd-numbers-in-an-interval-range.py) |
 | 1524 | [Number Of Sub Arrays With Odd Sum](https://leetcode.com/problems/number-of-sub-arrays-with-odd-sum) | [Solution](problems/1524_number-of-sub-arrays-with-odd-sum.py) |
 | 1534 | [Count Good Triplets](https://leetcode.com/problems/count-good-triplets) | [Solution](problems/1534_count-good-triplets.py) |
+| 1536 | [Minimum Swaps To Arrange A Binary Grid](https://leetcode.com/problems/minimum-swaps-to-arrange-a-binary-grid) | [Solution](problems/1536_minimum-swaps-to-arrange-a-binary-grid.py) |
 | 1545 | [Find Kth Bit In Nth Binary String](https://leetcode.com/problems/find-kth-bit-in-nth-binary-string) | [Solution](problems/1545_find-kth-bit-in-nth-binary-string.py) |
 | 1574 | [Shortest Subarray To Be Removed To Make Array Sorted](https://leetcode.com/problems/shortest-subarray-to-be-removed-to-make-array-sorted) | [Solution](problems/1574_shortest-subarray-to-be-removed-to-make-array-sorted.py) |
+| 1582 | [Special Positions In A Binary Matrix](https://leetcode.com/problems/special-positions-in-a-binary-matrix) | [Solution](problems/1582_special-positions-in-a-binary-matrix.py) |
 | 1593 | [Split A String Into The Max Number Of Unique Substrings](https://leetcode.com/problems/split-a-string-into-the-max-number-of-unique-substrings) | [Solution](problems/1593_split-a-string-into-the-max-number-of-unique-substrings.py) |
 | 1639 | [Number Of Ways To Form A Target String Given A Dictionary](https://leetcode.com/problems/number-of-ways-to-form-a-target-string-given-a-dictionary) | [Solution](problems/1639_number-of-ways-to-form-a-target-string-given-a-dictionary.py) |
 | 1652 | [Defuse The Bomb](https://leetcode.com/problems/defuse-the-bomb) | [Solution](problems/1652_defuse-the-bomb.py) |
@@ -222,11 +224,13 @@ This repository contains my solutions to LeetCode problems using Python to solve
 | 1726 | [Tuple With Same Product](https://leetcode.com/problems/tuple-with-same-product) | [Solution](problems/1726_tuple-with-same-product.py) |
 | 1749 | [Maximum Absolute Sum Of Any Subarray](https://leetcode.com/problems/maximum-absolute-sum-of-any-subarray) | [Solution](problems/1749_maximum-absolute-sum-of-any-subarray.py) |
 | 1752 | [Check If Array Is Sorted And Rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated) | [Solution](problems/1752_check-if-array-is-sorted-and-rotated.py) |
+| 1758 | [Minimum Changes To Make Alternating Binary String](https://leetcode.com/problems/minimum-changes-to-make-alternating-binary-string) | [Solution](problems/1758_minimum-changes-to-make-alternating-binary-string.py) |
 | 1760 | [Minimum Limit Of Balls In A Bag](https://leetcode.com/problems/minimum-limit-of-balls-in-a-bag) | [Solution](problems/1760_minimum-limit-of-balls-in-a-bag.py) |
 | 1765 | [Map Of Highest Peak](https://leetcode.com/problems/map-of-highest-peak) | [Solution](problems/1765_map-of-highest-peak.py) |
 | 1768 | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately) | [Solution](problems/1768_merge-strings-alternately.py) |
 | 1769 | [Minimum Number Of Operations To Move All Balls To Each Box](https://leetcode.com/problems/minimum-number-of-operations-to-move-all-balls-to-each-box) | [Solution](problems/1769_minimum-number-of-operations-to-move-all-balls-to-each-box.py) |
 | 1780 | [Check If Number Is A Sum Of Powers Of Three](https://leetcode.com/problems/check-if-number-is-a-sum-of-powers-of-three) | [Solution](problems/1780_check-if-number-is-a-sum-of-powers-of-three.py) |
+| 1784 | [Check If Binary String Has At Most One Segment Of Ones](https://leetcode.com/problems/check-if-binary-string-has-at-most-one-segment-of-ones) | [Solution](problems/1784_check-if-binary-string-has-at-most-one-segment-of-ones.py) |
 | 1790 | [Check If One String Swap Can Make Strings Equal](https://leetcode.com/problems/check-if-one-string-swap-can-make-strings-equal) | [Solution](problems/1790_check-if-one-string-swap-can-make-strings-equal.py) |
 | 1800 | [Maximum Ascending Subarray Sum](https://leetcode.com/problems/maximum-ascending-subarray-sum) | [Solution](problems/1800_maximum-ascending-subarray-sum.py) |
 | 1829 | [Maximum Xor For Each Query](https://leetcode.com/problems/maximum-xor-for-each-query) | [Solution](problems/1829_maximum-xor-for-each-query.py) |
@@ -349,6 +353,7 @@ This repository contains my solutions to LeetCode problems using Python to solve
 | 3066 | [Minimum Operations To Exceed Threshold Value Ii](https://leetcode.com/problems/minimum-operations-to-exceed-threshold-value-ii) | [Solution](problems/3066_minimum-operations-to-exceed-threshold-value-ii.py) |
 | 3097 | [Shortest Subarray With Or At Least K Ii](https://leetcode.com/problems/shortest-subarray-with-or-at-least-k-ii) | [Solution](problems/3097_shortest-subarray-with-or-at-least-k-ii.py) |
 | 3105 | [Longest Strictly Increasing Or Strictly Decreasing Subarray](https://leetcode.com/problems/longest-strictly-increasing-or-strictly-decreasing-subarray) | [Solution](problems/3105_longest-strictly-increasing-or-strictly-decreasing-subarray.py) |
+| 3129 | [Find All Possible Stable Binary Arrays I](https://leetcode.com/problems/find-all-possible-stable-binary-arrays-i) | [Solution](problems/3129_find-all-possible-stable-binary-arrays-i.py) |
 | 3133 | [Minimum Array End](https://leetcode.com/problems/minimum-array-end) | [Solution](problems/3133_minimum-array-end.py) |
 | 3135 | [Special Array I](https://leetcode.com/problems/special-array-i) | [Solution](problems/3135_special-array-i.py) |
 | 3152 | [Special Array Ii](https://leetcode.com/problems/special-array-ii) | [Solution](problems/3152_special-array-ii.py) |
