@@ -2,7 +2,7 @@
 
 This repository contains my solutions to LeetCode problems using Python to solve. I will be solving at least one problem every day.
 
-## Solved Problems (Total: 387)
+## Solved Problems (Total: 388)
 | # | Problem | Solution |
 |---|---------|----------|
 | 0001 | [Two Sum](https://leetcode.com/problems/two-sum) | [Solution](problems/0001_two-sum.py) |
@@ -237,6 +237,7 @@ This repository contains my solutions to LeetCode problems using Python to solve
 | 1861 | [Rotating The Box](https://leetcode.com/problems/rotating-the-box) | [Solution](problems/1861_rotating-the-box.py) |
 | 1863 | [Sum Of All Subset Xor Totals](https://leetcode.com/problems/sum-of-all-subset-xor-totals) | [Solution](problems/1863_sum-of-all-subset-xor-totals.py) |
 | 1865 | [Finding Pairs With A Certain Sum](https://leetcode.com/problems/finding-pairs-with-a-certain-sum) | [Solution](problems/1865_finding-pairs-with-a-certain-sum.py) |
+| 1878 | [Get Biggest Three Rhombus Sums In A Grid](https://leetcode.com/problems/get-biggest-three-rhombus-sums-in-a-grid) | [Solution](problems/1878_get-biggest-three-rhombus-sums-in-a-grid.py) |
 | 1894 | [Find The Student That Will Replace The Chalk](https://leetcode.com/problems/find-the-student-that-will-replace-the-chalk) | [Solution](problems/1894_find-the-student-that-will-replace-the-chalk.py) |
 | 1905 | [Count Sub Islands](https://leetcode.com/problems/count-sub-islands) | [Solution](problems/1905_count-sub-islands.py) |
 | 1910 | [Remove All Occurrences Of A Substring](https://leetcode.com/problems/remove-all-occurrences-of-a-substring) | [Solution](problems/1910_remove-all-occurrences-of-a-substring.py) |
