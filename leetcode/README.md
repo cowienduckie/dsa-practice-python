@@ -2,7 +2,7 @@
 
 This repository contains my solutions to LeetCode problems using Python to solve. I will be solving at least one problem every day.
 
-## Solved Problems (Total: 394)
+## Solved Problems (Total: 395)
 | # | Problem | Solution |
 |---|---------|----------|
 | 0001 | [Two Sum](https://leetcode.com/problems/two-sum) | [Solution](problems/0001_two-sum.py) |
@@ -217,6 +217,7 @@ This repository contains my solutions to LeetCode problems using Python to solve
 | 1574 | [Shortest Subarray To Be Removed To Make Array Sorted](https://leetcode.com/problems/shortest-subarray-to-be-removed-to-make-array-sorted) | [Solution](problems/1574_shortest-subarray-to-be-removed-to-make-array-sorted.py) |
 | 1582 | [Special Positions In A Binary Matrix](https://leetcode.com/problems/special-positions-in-a-binary-matrix) | [Solution](problems/1582_special-positions-in-a-binary-matrix.py) |
 | 1593 | [Split A String Into The Max Number Of Unique Substrings](https://leetcode.com/problems/split-a-string-into-the-max-number-of-unique-substrings) | [Solution](problems/1593_split-a-string-into-the-max-number-of-unique-substrings.py) |
+| 1594 | [Maximum Non Negative Product In A Matrix](https://leetcode.com/problems/maximum-non-negative-product-in-a-matrix) | [Solution](problems/1594_maximum-non-negative-product-in-a-matrix.py) |
 | 1639 | [Number Of Ways To Form A Target String Given A Dictionary](https://leetcode.com/problems/number-of-ways-to-form-a-target-string-given-a-dictionary) | [Solution](problems/1639_number-of-ways-to-form-a-target-string-given-a-dictionary.py) |
 | 1652 | [Defuse The Bomb](https://leetcode.com/problems/defuse-the-bomb) | [Solution](problems/1652_defuse-the-bomb.py) |
 | 1684 | [Count The Number Of Consistent Strings](https://leetcode.com/problems/count-the-number-of-consistent-strings) | [Solution](problems/1684_count-the-number-of-consistent-strings.py) |
