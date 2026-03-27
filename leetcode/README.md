@@ -2,7 +2,7 @@
 
 This repository contains my solutions to LeetCode problems using Python to solve. I will be solving at least one problem every day.
 
-## Solved Problems (Total: 397)
+## Solved Problems (Total: 398)
 | # | Problem | Solution |
 |---|---------|----------|
 | 0001 | [Two Sum](https://leetcode.com/problems/two-sum) | [Solution](problems/0001_two-sum.py) |
@@ -349,6 +349,7 @@ This repository contains my solutions to LeetCode problems using Python to solve
 | 2924 | [Find Champion Ii](https://leetcode.com/problems/find-champion-ii) | [Solution](problems/2924_find-champion-ii.py) |
 | 2938 | [Separate Black And White Balls](https://leetcode.com/problems/separate-black-and-white-balls) | [Solution](problems/2938_separate-black-and-white-balls.py) |
 | 2942 | [Find Words Containing Character](https://leetcode.com/problems/find-words-containing-character) | [Solution](problems/2942_find-words-containing-character.py) |
+| 2946 | [Matrix Similarity After Cyclic Shifts](https://leetcode.com/problems/matrix-similarity-after-cyclic-shifts) | [Solution](problems/2946_matrix-similarity-after-cyclic-shifts.py) |
 | 2962 | [Count Subarrays Where Max Element Appears At Least K Times](https://leetcode.com/problems/count-subarrays-where-max-element-appears-at-least-k-times) | [Solution](problems/2962_count-subarrays-where-max-element-appears-at-least-k-times.py) |
 | 2965 | [Find Missing And Repeated Values](https://leetcode.com/problems/find-missing-and-repeated-values) | [Solution](problems/2965_find-missing-and-repeated-values.py) |
 | 2981 | [Find Longest Special Substring That Occurs Thrice I](https://leetcode.com/problems/find-longest-special-substring-that-occurs-thrice-i) | [Solution](problems/2981_find-longest-special-substring-that-occurs-thrice-i.py) |
