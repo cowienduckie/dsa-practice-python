@@ -2,7 +2,7 @@
 
 This repository contains my solutions to LeetCode problems using Python to solve. I will be solving at least one problem every day.
 
-## Solved Problems (Total: 398)
+## Solved Problems (Total: 399)
 | # | Problem | Solution |
 |---|---------|----------|
 | 0001 | [Two Sum](https://leetcode.com/problems/two-sum) | [Solution](problems/0001_two-sum.py) |
@@ -293,6 +293,7 @@ This repository contains my solutions to LeetCode problems using Python to solve
 | 2375 | [Construct Smallest Number From Di String](https://leetcode.com/problems/construct-smallest-number-from-di-string) | [Solution](problems/2375_construct-smallest-number-from-di-string.py) |
 | 2379 | [Minimum Recolors To Get K Consecutive Black Blocks](https://leetcode.com/problems/minimum-recolors-to-get-k-consecutive-black-blocks) | [Solution](problems/2379_minimum-recolors-to-get-k-consecutive-black-blocks.py) |
 | 2381 | [Shifting Letters Ii](https://leetcode.com/problems/shifting-letters-ii) | [Solution](problems/2381_shifting-letters-ii.py) |
+| 2389 | [Check If Strings Can Be Made Equal With Operations I](https://leetcode.com/problems/check-if-strings-can-be-made-equal-with-operations-i) | [Solution](problems/2389_check-if-strings-can-be-made-equal-with-operations-i.py) |
 | 2401 | [Longest Nice Subarray](https://leetcode.com/problems/longest-nice-subarray) | [Solution](problems/2401_longest-nice-subarray.py) |
 | 2415 | [Reverse Odd Levels Of Binary Tree](https://leetcode.com/problems/reverse-odd-levels-of-binary-tree) | [Solution](problems/2415_reverse-odd-levels-of-binary-tree.py) |
 | 2419 | [Longest Subarray With Maximum Bitwise And](https://leetcode.com/problems/longest-subarray-with-maximum-bitwise-and) | [Solution](problems/2419_longest-subarray-with-maximum-bitwise-and.py) |
