@@ -2,7 +2,7 @@
 
 This repository contains my solutions to LeetCode problems using Python to solve. I will be solving at least one problem every day.
 
-## Solved Problems (Total: 399)
+## Solved Problems (Total: 400)
 | # | Problem | Solution |
 |---|---------|----------|
 | 0001 | [Two Sum](https://leetcode.com/problems/two-sum) | [Solution](problems/0001_two-sum.py) |
@@ -339,6 +339,7 @@ This repository contains my solutions to LeetCode problems using Python to solve
 | 2780 | [Minimum Index Of A Valid Split](https://leetcode.com/problems/minimum-index-of-a-valid-split) | [Solution](problems/2780_minimum-index-of-a-valid-split.py) |
 | 2799 | [Count Complete Subarrays In An Array](https://leetcode.com/problems/count-complete-subarrays-in-an-array) | [Solution](problems/2799_count-complete-subarrays-in-an-array.py) |
 | 2825 | [Make String A Subsequence Using Cyclic Increments](https://leetcode.com/problems/make-string-a-subsequence-using-cyclic-increments) | [Solution](problems/2825_make-string-a-subsequence-using-cyclic-increments.py) |
+| 2840 | [Check If Strings Can Be Made Equal With Operations Ii](https://leetcode.com/problems/check-if-strings-can-be-made-equal-with-operations-ii) | [Solution](problems/2840_check-if-strings-can-be-made-equal-with-operations-ii.py) |
 | 2843 | [Count Symmetric Integers](https://leetcode.com/problems/count-symmetric-integers) | [Solution](problems/2843_count-symmetric-integers.py) |
 | 2873 | [Maximum Value Of An Ordered Triplet I](https://leetcode.com/problems/maximum-value-of-an-ordered-triplet-i) | [Solution](problems/2873_maximum-value-of-an-ordered-triplet-i.py) |
 | 2874 | [Maximum Value Of An Ordered Triplet Ii](https://leetcode.com/problems/maximum-value-of-an-ordered-triplet-ii) | [Solution](problems/2874_maximum-value-of-an-ordered-triplet-ii.py) |
