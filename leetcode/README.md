@@ -2,7 +2,7 @@
 
 This repository contains my solutions to LeetCode problems using Python to solve. I will be solving at least one problem every day.
 
-## Solved Problems (Total: 400)
+## Solved Problems (Total: 402)
 | # | Problem | Solution |
 |---|---------|----------|
 | 0001 | [Two Sum](https://leetcode.com/problems/two-sum) | [Solution](problems/0001_two-sum.py) |
@@ -335,6 +335,7 @@ This repository contains my solutions to LeetCode problems using Python to solve
 | 2685 | [Count The Number Of Complete Components](https://leetcode.com/problems/count-the-number-of-complete-components) | [Solution](problems/2685_count-the-number-of-complete-components.py) |
 | 2696 | [Minimum String Length After Removing Substrings](https://leetcode.com/problems/minimum-string-length-after-removing-substrings) | [Solution](problems/2696_minimum-string-length-after-removing-substrings.py) |
 | 2698 | [Find The Punishment Number Of An Integer](https://leetcode.com/problems/find-the-punishment-number-of-an-integer) | [Solution](problems/2698_find-the-punishment-number-of-an-integer.py) |
+| 2751 | [Robot Collisions](https://leetcode.com/problems/robot-collisions) | [Solution](problems/2751_robot-collisions.py) |
 | 2779 | [Maximum Beauty Of An Array After Applying Operation](https://leetcode.com/problems/maximum-beauty-of-an-array-after-applying-operation) | [Solution](problems/2779_maximum-beauty-of-an-array-after-applying-operation.py) |
 | 2780 | [Minimum Index Of A Valid Split](https://leetcode.com/problems/minimum-index-of-a-valid-split) | [Solution](problems/2780_minimum-index-of-a-valid-split.py) |
 | 2799 | [Count Complete Subarrays In An Array](https://leetcode.com/problems/count-complete-subarrays-in-an-array) | [Solution](problems/2799_count-complete-subarrays-in-an-array.py) |
@@ -391,6 +392,7 @@ This repository contains my solutions to LeetCode problems using Python to solve
 | 3394 | [Check If Grid Can Be Cut Into Sections](https://leetcode.com/problems/check-if-grid-can-be-cut-into-sections) | [Solution](problems/3394_check-if-grid-can-be-cut-into-sections.py) |
 | 3396 | [Minimum Number Of Operations To Make Elements In Array Distinct](https://leetcode.com/problems/minimum-number-of-operations-to-make-elements-in-array-distinct) | [Solution](problems/3396_minimum-number-of-operations-to-make-elements-in-array-distinct.py) |
 | 3403 | [Find The Lexicographically Largest String From The Box I](https://leetcode.com/problems/find-the-lexicographically-largest-string-from-the-box-i) | [Solution](problems/3403_find-the-lexicographically-largest-string-from-the-box-i.py) |
+| 3418 | [Maximum Amount Of Money Robot Can Earn](https://leetcode.com/problems/maximum-amount-of-money-robot-can-earn) | [Solution](problems/3418_maximum-amount-of-money-robot-can-earn.py) |
 | 3423 | [Maximum Difference Between Adjacent Elements In A Circular Array](https://leetcode.com/problems/maximum-difference-between-adjacent-elements-in-a-circular-array) | [Solution](problems/3423_maximum-difference-between-adjacent-elements-in-a-circular-array.py) |
 | 3432 | [Count Partitions With Even Sum Difference](https://leetcode.com/problems/count-partitions-with-even-sum-difference) | [Solution](problems/3432_count-partitions-with-even-sum-difference.py) |
 | 3442 | [Maximum Difference Between Even And Odd Frequency I](https://leetcode.com/problems/maximum-difference-between-even-and-odd-frequency-i) | [Solution](problems/3442_maximum-difference-between-even-and-odd-frequency-i.py) |
