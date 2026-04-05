@@ -2,7 +2,7 @@
 
 This repository contains my solutions to LeetCode problems using Python to solve. I will be solving at least one problem every day.
 
-## Solved Problems (Total: 403)
+## Solved Problems (Total: 404)
 | # | Problem | Solution |
 |---|---------|----------|
 | 0001 | [Two Sum](https://leetcode.com/problems/two-sum) | [Solution](problems/0001_two-sum.py) |
@@ -137,6 +137,7 @@ This repository contains my solutions to LeetCode problems using Python to solve
 | 0622 | [Design Circular Queue](https://leetcode.com/problems/design-circular-queue) | [Solution](problems/0622_design-circular-queue.py) |
 | 0624 | [Maximum Distance In Arrays](https://leetcode.com/problems/maximum-distance-in-arrays) | [Solution](problems/0624_maximum-distance-in-arrays.py) |
 | 0650 | [2 Keys Keyboard](https://leetcode.com/problems/2-keys-keyboard) | [Solution](problems/0650_2-keys-keyboard.py) |
+| 0657 | [Robot Return To Origin](https://leetcode.com/problems/robot-return-to-origin) | [Solution](problems/0657_robot-return-to-origin.py) |
 | 0670 | [Maximum Swap](https://leetcode.com/problems/maximum-swap) | [Solution](problems/0670_maximum-swap.py) |
 | 0689 | [Maximum Sum Of 3 Non Overlapping Subarrays](https://leetcode.com/problems/maximum-sum-of-3-non-overlapping-subarrays) | [Solution](problems/0689_maximum-sum-of-3-non-overlapping-subarrays.py) |
 | 0696 | [Count Binary Substrings](https://leetcode.com/problems/count-binary-substrings) | [Solution](problems/0696_count-binary-substrings.py) |
