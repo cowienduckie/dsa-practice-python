@@ -1,82 +1,57 @@
-from typing import List, Dict, Tuple
+from typing import List, Set, Tuple
+
+directions = [
+    (0, 1),
+    (1, 0),
+    (0, -1),
+    (-1, 0),
+]  # N -> E -> S -> W
+
+
+class Robot:
+    def __init__(self, obs: Set[Tuple]):
+        self.x = 0
+        self.y = 0
+        self.dir = 0
+        self.max_dist = 0
+        self.obs = obs
+
+    def execute_command(self, command: int) -> None:
+        if command > 0:
+            self._move(command)
+        else:
+            self._rotate(command == -1)
+
+    def _move(self, step: int) -> None:
+        dx, dy = directions[self.dir]
+
+        for _ in range(step):
+            next_x = self.x + dx
+            next_y = self.y + dy
+            if self._is_obstacle(next_x, next_y):
+                break
+            self.x = next_x
+            self.y = next_y
+
+        self._capture_dist()
+
+    def _rotate(self, clockwise: bool) -> None:
+        if clockwise:
+            self.dir = (self.dir + 1) % 4
+        else:
+            self.dir = (self.dir + 3) % 4
+
+    def _capture_dist(self) -> None:
+        self.max_dist = max(self.max_dist, self.x**2 + self.y**2)
+
+    def _is_obstacle(self, x: int, y: int) -> bool:
+        return (x, y) in self.obs
 
 
 class Solution:
     def robotSim(self, commands: List[int], obstacles: List[List[int]]) -> int:
-        # Use 2 dict to store obstacles by col and by row
-        obs_by_x: Dict[int, set[int]] = dict()
-        obs_by_y: Dict[int, set[int]] = dict()
+        robot = Robot(set(map(tuple, obstacles)))
+        for command in commands:
+            robot.execute_command(command)
 
-        for [x, y] in obstacles:
-            if not x in obs_by_x:
-                obs_by_x[x] = set()
-            if not y in obs_by_y:
-                obs_by_y[y] = set()
-            obs_by_x[x].add(y)
-            obs_by_y[y].add(x)
-
-        # Loop through commands and maintain max Euclidean distance
-        # North = 1, East = 2, South = 3, West = 4
-        def change_direction(curr_dir: int, turn_dir: int) -> int:
-            if turn_dir == -2:
-                curr_dir -= 1
-            elif turn_dir == -1:
-                curr_dir += 1
-
-            if curr_dir == 0:
-                return 4
-            elif curr_dir == 5:
-                return 1
-            return curr_dir
-
-        def move(x: int, y: int, dir: int, step: int) -> Tuple[int, int]:
-            if dir == 1:  # Increase Y
-                for i in range(1, step + 1):
-                    if x in obs_by_x and (y + i) in obs_by_x[x]:
-                        return x, y + i - 1
-                return x, y + step
-            elif dir == 2:  # Increase X
-                for i in range(1, step + 1):
-                    if y in obs_by_y and (x + i) in obs_by_y[y]:
-                        return x + i - 1, y
-                return x + step, y
-            elif dir == 3:  # Decrease Y
-                for i in range(1, step + 1):
-                    if x in obs_by_x and (y - i) in obs_by_x[x]:
-                        return x, y - i + 1
-                return x, y - step
-            elif dir == 4:  # Decrease X
-                for i in range(1, step + 1):
-                    if y in obs_by_y and (x - i) in obs_by_y[y]:
-                        return x - i + 1, y
-                return x - step, y
-
-        # Start at (0, 0) facing North
-        x, y = 0, 0
-        dir = 1
-        ans = float("-inf")
-
-        for comm in commands:
-            if comm < 0:
-                dir = change_direction(dir, comm)
-            else:
-                x, y = move(x, y, dir, comm)
-                ans = max(ans, x * x + y * y)
-
-        return ans
-
-
-commands = [-2, -1, 8, 9, 6]
-obstacles = [
-    [-1, 3],
-    [0, 1],
-    [-1, 5],
-    [-2, -4],
-    [5, 4],
-    [-2, -3],
-    [5, -1],
-    [1, -1],
-    [5, 5],
-    [5, 2],
-]
-print(Solution().robotSim(commands, obstacles))
+        return robot.max_dist
