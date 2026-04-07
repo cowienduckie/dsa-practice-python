@@ -2,7 +2,7 @@
 
 This repository contains my solutions to LeetCode problems using Python to solve. I will be solving at least one problem every day.
 
-## Solved Problems (Total: 404)
+## Solved Problems (Total: 405)
 | # | Problem | Solution |
 |---|---------|----------|
 | 0001 | [Two Sum](https://leetcode.com/problems/two-sum) | [Solution](problems/0001_two-sum.py) |
@@ -263,6 +263,7 @@ This repository contains my solutions to LeetCode problems using Python to solve
 | 2044 | [Count Number Of Maximum Bitwise Or Subsets](https://leetcode.com/problems/count-number-of-maximum-bitwise-or-subsets) | [Solution](problems/2044_count-number-of-maximum-bitwise-or-subsets.py) |
 | 2054 | [Two Best Non Overlapping Events](https://leetcode.com/problems/two-best-non-overlapping-events) | [Solution](problems/2054_two-best-non-overlapping-events.py) |
 | 2064 | [Minimized Maximum Of Products Distributed To Any Store](https://leetcode.com/problems/minimized-maximum-of-products-distributed-to-any-store) | [Solution](problems/2064_minimized-maximum-of-products-distributed-to-any-store.py) |
+| 2069 | [Walking Robot Simulation Ii](https://leetcode.com/problems/walking-robot-simulation-ii) | [Solution](problems/2069_walking-robot-simulation-ii.py) |
 | 2070 | [Most Beautiful Item For Each Query](https://leetcode.com/problems/most-beautiful-item-for-each-query) | [Solution](problems/2070_most-beautiful-item-for-each-query.py) |
 | 2075 | [Decode The Slanted Ciphertext](https://leetcode.com/problems/decode-the-slanted-ciphertext) | [Solution](problems/2075_decode-the-slanted-ciphertext.py) |
 | 2094 | [Finding 3 Digit Even Numbers](https://leetcode.com/problems/finding-3-digit-even-numbers) | [Solution](problems/2094_finding-3-digit-even-numbers.py) |
