@@ -2,7 +2,7 @@
 
 This repository contains my solutions to LeetCode problems using Python to solve. I will be solving at least one problem every day.
 
-## Solved Problems (Total: 406)
+## Solved Problems (Total: 407)
 | # | Problem | Solution |
 |---|---------|----------|
 | 0001 | [Two Sum](https://leetcode.com/problems/two-sum) | [Solution](problems/0001_two-sum.py) |
@@ -411,3 +411,4 @@ This repository contains my solutions to LeetCode problems using Python to solve
 | 3623 | [Count Number Of Trapezoids I](https://leetcode.com/problems/count-number-of-trapezoids-i) | [Solution](problems/3623_count-number-of-trapezoids-i.py) |
 | 3643 | [Flip Square Submatrix Vertically](https://leetcode.com/problems/flip-square-submatrix-vertically) | [Solution](problems/3643_flip-square-submatrix-vertically.py) |
 | 3653 | [Xor After Range Multiplication Queries I](https://leetcode.com/problems/xor-after-range-multiplication-queries-i) | [Solution](problems/3653_xor-after-range-multiplication-queries-i.py) |
+| 3740 | [Minimum Distance Between Three Equal Elements I](https://leetcode.com/problems/minimum-distance-between-three-equal-elements-i) | [Solution](problems/3740_minimum-distance-between-three-equal-elements-i.py) |
