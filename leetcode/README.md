@@ -2,7 +2,7 @@
 
 This repository contains my solutions to LeetCode problems using Python to solve. I will be solving at least one problem every day.
 
-## Solved Problems (Total: 408)
+## Solved Problems (Total: 409)
 | # | Problem | Solution |
 |---|---------|----------|
 | 0001 | [Two Sum](https://leetcode.com/problems/two-sum) | [Solution](problems/0001_two-sum.py) |
@@ -237,6 +237,7 @@ This repository contains my solutions to LeetCode problems using Python to solve
 | 1790 | [Check If One String Swap Can Make Strings Equal](https://leetcode.com/problems/check-if-one-string-swap-can-make-strings-equal) | [Solution](problems/1790_check-if-one-string-swap-can-make-strings-equal.py) |
 | 1800 | [Maximum Ascending Subarray Sum](https://leetcode.com/problems/maximum-ascending-subarray-sum) | [Solution](problems/1800_maximum-ascending-subarray-sum.py) |
 | 1829 | [Maximum Xor For Each Query](https://leetcode.com/problems/maximum-xor-for-each-query) | [Solution](problems/1829_maximum-xor-for-each-query.py) |
+| 1848 | [Minimum Distance To The Target Element](https://leetcode.com/problems/minimum-distance-to-the-target-element) | [Solution](problems/1848_minimum-distance-to-the-target-element.py) |
 | 1861 | [Rotating The Box](https://leetcode.com/problems/rotating-the-box) | [Solution](problems/1861_rotating-the-box.py) |
 | 1863 | [Sum Of All Subset Xor Totals](https://leetcode.com/problems/sum-of-all-subset-xor-totals) | [Solution](problems/1863_sum-of-all-subset-xor-totals.py) |
 | 1865 | [Finding Pairs With A Certain Sum](https://leetcode.com/problems/finding-pairs-with-a-certain-sum) | [Solution](problems/1865_finding-pairs-with-a-certain-sum.py) |
