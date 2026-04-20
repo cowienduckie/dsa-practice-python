@@ -2,7 +2,7 @@
 
 This repository contains my solutions to LeetCode problems using Python to solve. I will be solving at least one problem every day.
 
-## Solved Problems (Total: 410)
+## Solved Problems (Total: 414)
 | # | Problem | Solution |
 |---|---------|----------|
 | 0001 | [Two Sum](https://leetcode.com/problems/two-sum) | [Solution](problems/0001_two-sum.py) |
@@ -238,6 +238,7 @@ This repository contains my solutions to LeetCode problems using Python to solve
 | 1800 | [Maximum Ascending Subarray Sum](https://leetcode.com/problems/maximum-ascending-subarray-sum) | [Solution](problems/1800_maximum-ascending-subarray-sum.py) |
 | 1829 | [Maximum Xor For Each Query](https://leetcode.com/problems/maximum-xor-for-each-query) | [Solution](problems/1829_maximum-xor-for-each-query.py) |
 | 1848 | [Minimum Distance To The Target Element](https://leetcode.com/problems/minimum-distance-to-the-target-element) | [Solution](problems/1848_minimum-distance-to-the-target-element.py) |
+| 1855 | [Maximum Distance Between A Pair Of Values](https://leetcode.com/problems/maximum-distance-between-a-pair-of-values) | [Solution](problems/1855_maximum-distance-between-a-pair-of-values.py) |
 | 1861 | [Rotating The Box](https://leetcode.com/problems/rotating-the-box) | [Solution](problems/1861_rotating-the-box.py) |
 | 1863 | [Sum Of All Subset Xor Totals](https://leetcode.com/problems/sum-of-all-subset-xor-totals) | [Solution](problems/1863_sum-of-all-subset-xor-totals.py) |
 | 1865 | [Finding Pairs With A Certain Sum](https://leetcode.com/problems/finding-pairs-with-a-certain-sum) | [Solution](problems/1865_finding-pairs-with-a-certain-sum.py) |
@@ -267,6 +268,7 @@ This repository contains my solutions to LeetCode problems using Python to solve
 | 2069 | [Walking Robot Simulation Ii](https://leetcode.com/problems/walking-robot-simulation-ii) | [Solution](problems/2069_walking-robot-simulation-ii.py) |
 | 2070 | [Most Beautiful Item For Each Query](https://leetcode.com/problems/most-beautiful-item-for-each-query) | [Solution](problems/2070_most-beautiful-item-for-each-query.py) |
 | 2075 | [Decode The Slanted Ciphertext](https://leetcode.com/problems/decode-the-slanted-ciphertext) | [Solution](problems/2075_decode-the-slanted-ciphertext.py) |
+| 2078 | [Two Furthest Houses With Different Colors](https://leetcode.com/problems/two-furthest-houses-with-different-colors) | [Solution](problems/2078_two-furthest-houses-with-different-colors.py) |
 | 2094 | [Finding 3 Digit Even Numbers](https://leetcode.com/problems/finding-3-digit-even-numbers) | [Solution](problems/2094_finding-3-digit-even-numbers.py) |
 | 2097 | [Valid Arrangement Of Pairs](https://leetcode.com/problems/valid-arrangement-of-pairs) | [Solution](problems/2097_valid-arrangement-of-pairs.py) |
 | 2109 | [Adding Spaces To A String](https://leetcode.com/problems/adding-spaces-to-a-string) | [Solution](problems/2109_adding-spaces-to-a-string.py) |
@@ -415,3 +417,5 @@ This repository contains my solutions to LeetCode problems using Python to solve
 | 3653 | [Xor After Range Multiplication Queries I](https://leetcode.com/problems/xor-after-range-multiplication-queries-i) | [Solution](problems/3653_xor-after-range-multiplication-queries-i.py) |
 | 3740 | [Minimum Distance Between Three Equal Elements I](https://leetcode.com/problems/minimum-distance-between-three-equal-elements-i) | [Solution](problems/3740_minimum-distance-between-three-equal-elements-i.py) |
 | 3741 | [Minimum Distance Between Three Equal Elements Ii](https://leetcode.com/problems/minimum-distance-between-three-equal-elements-ii) | [Solution](problems/3741_minimum-distance-between-three-equal-elements-ii.py) |
+| 3761 | [Minimum Absolute Distance Between Mirror Pairs](https://leetcode.com/problems/minimum-absolute-distance-between-mirror-pairs) | [Solution](problems/3761_minimum-absolute-distance-between-mirror-pairs.py) |
+| 3783 | [Mirror Distance Of An Integer](https://leetcode.com/problems/mirror-distance-of-an-integer) | [Solution](problems/3783_mirror-distance-of-an-integer.py) |
