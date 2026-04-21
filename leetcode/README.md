@@ -2,7 +2,7 @@
 
 This repository contains my solutions to LeetCode problems using Python to solve. I will be solving at least one problem every day.
 
-## Solved Problems (Total: 414)
+## Solved Problems (Total: 415)
 | # | Problem | Solution |
 |---|---------|----------|
 | 0001 | [Two Sum](https://leetcode.com/problems/two-sum) | [Solution](problems/0001_two-sum.py) |
@@ -223,6 +223,7 @@ This repository contains my solutions to LeetCode problems using Python to solve
 | 1652 | [Defuse The Bomb](https://leetcode.com/problems/defuse-the-bomb) | [Solution](problems/1652_defuse-the-bomb.py) |
 | 1684 | [Count The Number Of Consistent Strings](https://leetcode.com/problems/count-the-number-of-consistent-strings) | [Solution](problems/1684_count-the-number-of-consistent-strings.py) |
 | 1718 | [Construct The Lexicographically Largest Valid Sequence](https://leetcode.com/problems/construct-the-lexicographically-largest-valid-sequence) | [Solution](problems/1718_construct-the-lexicographically-largest-valid-sequence.py) |
+| 1722 | [Minimize Hamming Distance After Swap Operations](https://leetcode.com/problems/minimize-hamming-distance-after-swap-operations) | [Solution](problems/1722_minimize-hamming-distance-after-swap-operations.py) |
 | 1726 | [Tuple With Same Product](https://leetcode.com/problems/tuple-with-same-product) | [Solution](problems/1726_tuple-with-same-product.py) |
 | 1727 | [Largest Submatrix With Rearrangements](https://leetcode.com/problems/largest-submatrix-with-rearrangements) | [Solution](problems/1727_largest-submatrix-with-rearrangements.py) |
 | 1749 | [Maximum Absolute Sum Of Any Subarray](https://leetcode.com/problems/maximum-absolute-sum-of-any-subarray) | [Solution](problems/1749_maximum-absolute-sum-of-any-subarray.py) |
