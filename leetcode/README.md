@@ -2,7 +2,7 @@
 
 This repository contains my solutions to LeetCode problems using Python to solve. I will be solving at least one problem every day.
 
-## Solved Problems (Total: 416)
+## Solved Problems (Total: 418)
 | # | Problem | Solution |
 |---|---------|----------|
 | 0001 | [Two Sum](https://leetcode.com/problems/two-sum) | [Solution](problems/0001_two-sum.py) |
@@ -337,6 +337,7 @@ This repository contains my solutions to LeetCode problems using Python to solve
 | 2594 | [Minimum Time To Repair Cars](https://leetcode.com/problems/minimum-time-to-repair-cars) | [Solution](problems/2594_minimum-time-to-repair-cars.py) |
 | 2601 | [Prime Subtraction Operation](https://leetcode.com/problems/prime-subtraction-operation) | [Solution](problems/2601_prime-subtraction-operation.py) |
 | 2641 | [Cousins In Binary Tree Ii](https://leetcode.com/problems/cousins-in-binary-tree-ii) | [Solution](problems/2641_cousins-in-binary-tree-ii.py) |
+| 2651 | [Sum Of Distance](https://leetcode.com/problems/sum-of-distance) | [Solution](problems/2651_sum-of-distance.py) |
 | 2657 | [Find The Prefix Common Array Of Two Arrays](https://leetcode.com/problems/find-the-prefix-common-array-of-two-arrays) | [Solution](problems/2657_find-the-prefix-common-array-of-two-arrays.py) |
 | 2661 | [First Completely Painted Row Or Column](https://leetcode.com/problems/first-completely-painted-row-or-column) | [Solution](problems/2661_first-completely-painted-row-or-column.py) |
 | 2683 | [Neighboring Bitwise Xor](https://leetcode.com/problems/neighboring-bitwise-xor) | [Solution](problems/2683_neighboring-bitwise-xor.py) |
@@ -349,6 +350,7 @@ This repository contains my solutions to LeetCode problems using Python to solve
 | 2780 | [Minimum Index Of A Valid Split](https://leetcode.com/problems/minimum-index-of-a-valid-split) | [Solution](problems/2780_minimum-index-of-a-valid-split.py) |
 | 2799 | [Count Complete Subarrays In An Array](https://leetcode.com/problems/count-complete-subarrays-in-an-array) | [Solution](problems/2799_count-complete-subarrays-in-an-array.py) |
 | 2825 | [Make String A Subsequence Using Cyclic Increments](https://leetcode.com/problems/make-string-a-subsequence-using-cyclic-increments) | [Solution](problems/2825_make-string-a-subsequence-using-cyclic-increments.py) |
+| 2833 | [Furthest Point From Origin](https://leetcode.com/problems/furthest-point-from-origin) | [Solution](problems/2833_furthest-point-from-origin.py) |
 | 2840 | [Check If Strings Can Be Made Equal With Operations Ii](https://leetcode.com/problems/check-if-strings-can-be-made-equal-with-operations-ii) | [Solution](problems/2840_check-if-strings-can-be-made-equal-with-operations-ii.py) |
 | 2843 | [Count Symmetric Integers](https://leetcode.com/problems/count-symmetric-integers) | [Solution](problems/2843_count-symmetric-integers.py) |
 | 2873 | [Maximum Value Of An Ordered Triplet I](https://leetcode.com/problems/maximum-value-of-an-ordered-triplet-i) | [Solution](problems/2873_maximum-value-of-an-ordered-triplet-i.py) |
