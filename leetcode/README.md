@@ -2,7 +2,7 @@
 
 This repository contains my solutions to LeetCode problems using Python to solve. I will be solving at least one problem every day.
 
-## Solved Problems (Total: 418)
+## Solved Problems (Total: 420)
 | # | Problem | Solution |
 |---|---------|----------|
 | 0001 | [Two Sum](https://leetcode.com/problems/two-sum) | [Solution](problems/0001_two-sum.py) |
@@ -118,6 +118,7 @@ This repository contains my solutions to LeetCode problems using Python to solve
 | 0380 | [Insert Delete Getrandom O1](https://leetcode.com/problems/insert-delete-getrandom-o1) | [Solution](problems/0380_insert-delete-getrandom-o1.py) |
 | 0383 | [Ransom Note](https://leetcode.com/problems/ransom-note) | [Solution](problems/0383_ransom-note.py) |
 | 0386 | [Lexicographical Numbers](https://leetcode.com/problems/lexicographical-numbers) | [Solution](problems/0386_lexicographical-numbers.py) |
+| 0396 | [Rotate Function](https://leetcode.com/problems/rotate-function) | [Solution](problems/0396_rotate-function.py) |
 | 0416 | [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum) | [Solution](problems/0416_partition-equal-subset-sum.py) |
 | 0417 | [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow) | [Solution](problems/0417_pacific-atlantic-water-flow.py) |
 | 0424 | [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement) | [Solution](problems/0424_longest-repeating-character-replacement.py) |
@@ -421,5 +422,6 @@ This repository contains my solutions to LeetCode problems using Python to solve
 | 3653 | [Xor After Range Multiplication Queries I](https://leetcode.com/problems/xor-after-range-multiplication-queries-i) | [Solution](problems/3653_xor-after-range-multiplication-queries-i.py) |
 | 3740 | [Minimum Distance Between Three Equal Elements I](https://leetcode.com/problems/minimum-distance-between-three-equal-elements-i) | [Solution](problems/3740_minimum-distance-between-three-equal-elements-i.py) |
 | 3741 | [Minimum Distance Between Three Equal Elements Ii](https://leetcode.com/problems/minimum-distance-between-three-equal-elements-ii) | [Solution](problems/3741_minimum-distance-between-three-equal-elements-ii.py) |
+| 3742 | [Maximum Path Score In A Grid](https://leetcode.com/problems/maximum-path-score-in-a-grid) | [Solution](problems/3742_maximum-path-score-in-a-grid.py) |
 | 3761 | [Minimum Absolute Distance Between Mirror Pairs](https://leetcode.com/problems/minimum-absolute-distance-between-mirror-pairs) | [Solution](problems/3761_minimum-absolute-distance-between-mirror-pairs.py) |
 | 3783 | [Mirror Distance Of An Integer](https://leetcode.com/problems/mirror-distance-of-an-integer) | [Solution](problems/3783_mirror-distance-of-an-integer.py) |
