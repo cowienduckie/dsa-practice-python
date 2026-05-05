@@ -2,7 +2,7 @@
 
 This repository contains my solutions to LeetCode problems using Python to solve. I will be solving at least one problem every day.
 
-## Solved Problems (Total: 420)
+## Solved Problems (Total: 421)
 | # | Problem | Solution |
 |---|---------|----------|
 | 0001 | [Two Sum](https://leetcode.com/problems/two-sum) | [Solution](problems/0001_two-sum.py) |
@@ -36,6 +36,7 @@ This repository contains my solutions to LeetCode problems using Python to solve
 | 0055 | [Jump Game](https://leetcode.com/problems/jump-game) | [Solution](problems/0055_jump-game.py) |
 | 0056 | [Merge Intervals](https://leetcode.com/problems/merge-intervals) | [Solution](problems/0056_merge-intervals.py) |
 | 0057 | [Insert Interval](https://leetcode.com/problems/insert-interval) | [Solution](problems/0057_insert-interval.py) |
+| 0061 | [Rotate List](https://leetcode.com/problems/rotate-list) | [Solution](problems/0061_rotate-list.py) |
 | 0062 | [Unique_Paths](https://leetcode.com/problems/unique_paths) | [Solution](problems/0062_unique_paths.py) |
 | 0067 | [Add Binary](https://leetcode.com/problems/add-binary) | [Solution](problems/0067_add-binary.py) |
 | 0069 | [Sqrtx](https://leetcode.com/problems/sqrtx) | [Solution](problems/0069_sqrtx.py) |
