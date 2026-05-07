@@ -2,7 +2,7 @@
 
 This repository contains my solutions to LeetCode problems using Python to solve. I will be solving at least one problem every day.
 
-## Solved Problems (Total: 421)
+## Solved Problems (Total: 422)
 | # | Problem | Solution |
 |---|---------|----------|
 | 0001 | [Two Sum](https://leetcode.com/problems/two-sum) | [Solution](problems/0001_two-sum.py) |
@@ -421,6 +421,7 @@ This repository contains my solutions to LeetCode problems using Python to solve
 | 3623 | [Count Number Of Trapezoids I](https://leetcode.com/problems/count-number-of-trapezoids-i) | [Solution](problems/3623_count-number-of-trapezoids-i.py) |
 | 3643 | [Flip Square Submatrix Vertically](https://leetcode.com/problems/flip-square-submatrix-vertically) | [Solution](problems/3643_flip-square-submatrix-vertically.py) |
 | 3653 | [Xor After Range Multiplication Queries I](https://leetcode.com/problems/xor-after-range-multiplication-queries-i) | [Solution](problems/3653_xor-after-range-multiplication-queries-i.py) |
+| 3660 | [Ump Game Ix](https://leetcode.com/problems/ump-game-ix) | [Solution](problems/3660_ump-game-ix.py) |
 | 3740 | [Minimum Distance Between Three Equal Elements I](https://leetcode.com/problems/minimum-distance-between-three-equal-elements-i) | [Solution](problems/3740_minimum-distance-between-three-equal-elements-i.py) |
 | 3741 | [Minimum Distance Between Three Equal Elements Ii](https://leetcode.com/problems/minimum-distance-between-three-equal-elements-ii) | [Solution](problems/3741_minimum-distance-between-three-equal-elements-ii.py) |
 | 3742 | [Maximum Path Score In A Grid](https://leetcode.com/problems/maximum-path-score-in-a-grid) | [Solution](problems/3742_maximum-path-score-in-a-grid.py) |
