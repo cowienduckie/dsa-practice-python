@@ -2,7 +2,7 @@
 
 This repository contains my solutions to LeetCode problems using Python to solve. I will be solving at least one problem every day.
 
-## Solved Problems (Total: 422)
+## Solved Problems (Total: 423)
 | # | Problem | Solution |
 |---|---------|----------|
 | 0001 | [Two Sum](https://leetcode.com/problems/two-sum) | [Solution](problems/0001_two-sum.py) |
@@ -325,6 +325,7 @@ This repository contains my solutions to LeetCode problems using Python to solve
 | 2530 | [Maximal Score After Applying K Operations](https://leetcode.com/problems/maximal-score-after-applying-k-operations) | [Solution](problems/2530_maximal-score-after-applying-k-operations.py) |
 | 2537 | [Count The Number Of Good Subarrays](https://leetcode.com/problems/count-the-number-of-good-subarrays) | [Solution](problems/2537_count-the-number-of-good-subarrays.py) |
 | 2551 | [Put Marbles In Bags](https://leetcode.com/problems/put-marbles-in-bags) | [Solution](problems/2551_put-marbles-in-bags.py) |
+| 2553 | [Separate The Digits In An Array](https://leetcode.com/problems/separate-the-digits-in-an-array) | [Solution](problems/2553_separate-the-digits-in-an-array.py) |
 | 2554 | [Maximum Number Of Integers To Choose From A Range I](https://leetcode.com/problems/maximum-number-of-integers-to-choose-from-a-range-i) | [Solution](problems/2554_maximum-number-of-integers-to-choose-from-a-range-i.py) |
 | 2558 | [Take Gifts From The Richest Pile](https://leetcode.com/problems/take-gifts-from-the-richest-pile) | [Solution](problems/2558_take-gifts-from-the-richest-pile.py) |
 | 2559 | [Count Vowel Strings In Ranges](https://leetcode.com/problems/count-vowel-strings-in-ranges) | [Solution](problems/2559_count-vowel-strings-in-ranges.py) |
