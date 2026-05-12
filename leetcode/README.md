@@ -2,7 +2,7 @@
 
 This repository contains my solutions to LeetCode problems using Python to solve. I will be solving at least one problem every day.
 
-## Solved Problems (Total: 423)
+## Solved Problems (Total: 424)
 | # | Problem | Solution |
 |---|---------|----------|
 | 0001 | [Two Sum](https://leetcode.com/problems/two-sum) | [Solution](problems/0001_two-sum.py) |
@@ -223,6 +223,7 @@ This repository contains my solutions to LeetCode problems using Python to solve
 | 1594 | [Maximum Non Negative Product In A Matrix](https://leetcode.com/problems/maximum-non-negative-product-in-a-matrix) | [Solution](problems/1594_maximum-non-negative-product-in-a-matrix.py) |
 | 1639 | [Number Of Ways To Form A Target String Given A Dictionary](https://leetcode.com/problems/number-of-ways-to-form-a-target-string-given-a-dictionary) | [Solution](problems/1639_number-of-ways-to-form-a-target-string-given-a-dictionary.py) |
 | 1652 | [Defuse The Bomb](https://leetcode.com/problems/defuse-the-bomb) | [Solution](problems/1652_defuse-the-bomb.py) |
+| 1665 | [Minimum Initial Energy To Finish Tasks](https://leetcode.com/problems/minimum-initial-energy-to-finish-tasks) | [Solution](problems/1665_minimum-initial-energy-to-finish-tasks.py) |
 | 1684 | [Count The Number Of Consistent Strings](https://leetcode.com/problems/count-the-number-of-consistent-strings) | [Solution](problems/1684_count-the-number-of-consistent-strings.py) |
 | 1718 | [Construct The Lexicographically Largest Valid Sequence](https://leetcode.com/problems/construct-the-lexicographically-largest-valid-sequence) | [Solution](problems/1718_construct-the-lexicographically-largest-valid-sequence.py) |
 | 1722 | [Minimize Hamming Distance After Swap Operations](https://leetcode.com/problems/minimize-hamming-distance-after-swap-operations) | [Solution](problems/1722_minimize-hamming-distance-after-swap-operations.py) |
