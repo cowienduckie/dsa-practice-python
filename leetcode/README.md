@@ -2,7 +2,7 @@
 
 This repository contains my solutions to LeetCode problems using Python to solve. I will be solving at least one problem every day.
 
-## Solved Problems (Total: 425)
+## Solved Problems (Total: 427)
 | # | Problem | Solution |
 |---|---------|----------|
 | 0001 | [Two Sum](https://leetcode.com/problems/two-sum) | [Solution](problems/0001_two-sum.py) |
@@ -379,6 +379,8 @@ This repository contains my solutions to LeetCode problems using Python to solve
 | 3070 | [Count Submatrices With Top Left Element And Sum Less Than K](https://leetcode.com/problems/count-submatrices-with-top-left-element-and-sum-less-than-k) | [Solution](problems/3070_count-submatrices-with-top-left-element-and-sum-less-than-k.py) |
 | 3097 | [Shortest Subarray With Or At Least K Ii](https://leetcode.com/problems/shortest-subarray-with-or-at-least-k-ii) | [Solution](problems/3097_shortest-subarray-with-or-at-least-k-ii.py) |
 | 3105 | [Longest Strictly Increasing Or Strictly Decreasing Subarray](https://leetcode.com/problems/longest-strictly-increasing-or-strictly-decreasing-subarray) | [Solution](problems/3105_longest-strictly-increasing-or-strictly-decreasing-subarray.py) |
+| 3120 | [Count The Number Of Special Characters I](https://leetcode.com/problems/count-the-number-of-special-characters-i) | [Solution](problems/3120_count-the-number-of-special-characters-i.py) |
+| 3121 | [Count The Number Of Special Characters Ii](https://leetcode.com/problems/count-the-number-of-special-characters-ii) | [Solution](problems/3121_count-the-number-of-special-characters-ii.py) |
 | 3129 | [Find All Possible Stable Binary Arrays I](https://leetcode.com/problems/find-all-possible-stable-binary-arrays-i) | [Solution](problems/3129_find-all-possible-stable-binary-arrays-i.py) |
 | 3133 | [Minimum Array End](https://leetcode.com/problems/minimum-array-end) | [Solution](problems/3133_minimum-array-end.py) |
 | 3135 | [Special Array I](https://leetcode.com/problems/special-array-i) | [Solution](problems/3135_special-array-i.py) |
