@@ -2,7 +2,7 @@
 
 This repository contains my solutions to LeetCode problems using Python to solve. I will be solving at least one problem every day.
 
-## Solved Problems (Total: 427)
+## Solved Problems (Total: 428)
 | # | Problem | Solution |
 |---|---------|----------|
 | 0001 | [Two Sum](https://leetcode.com/problems/two-sum) | [Solution](problems/0001_two-sum.py) |
@@ -399,6 +399,7 @@ This repository contains my solutions to LeetCode problems using Python to solve
 | 3243 | [Shortest Distance After Road Addition Queries I](https://leetcode.com/problems/shortest-distance-after-road-addition-queries-i) | [Solution](problems/3243_shortest-distance-after-road-addition-queries-i.py) |
 | 3254 | [Find The Power Of K Size Subarrays I](https://leetcode.com/problems/find-the-power-of-k-size-subarrays-i) | [Solution](problems/3254_find-the-power-of-k-size-subarrays-i.py) |
 | 3264 | [Final Array State After K Multiplication Operations I](https://leetcode.com/problems/final-array-state-after-k-multiplication-operations-i) | [Solution](problems/3264_final-array-state-after-k-multiplication-operations-i.py) |
+| 3300 | [Minimum Element After Replacement With Digit Sum](https://leetcode.com/problems/minimum-element-after-replacement-with-digit-sum) | [Solution](problems/3300_minimum-element-after-replacement-with-digit-sum.py) |
 | 3306 | [Count Of Substrings Containing Every Vowel And K Consonants Ii](https://leetcode.com/problems/count-of-substrings-containing-every-vowel-and-k-consonants-ii) | [Solution](problems/3306_count-of-substrings-containing-every-vowel-and-k-consonants-ii.py) |
 | 3335 | [Total Characters In String After Transformations I](https://leetcode.com/problems/total-characters-in-string-after-transformations-i) | [Solution](problems/3335_total-characters-in-string-after-transformations-i.py) |
 | 3341 | [Find Minimum Time To Reach Last Room I](https://leetcode.com/problems/find-minimum-time-to-reach-last-room-i) | [Solution](problems/3341_find-minimum-time-to-reach-last-room-i.py) |
